@@ -1,5 +1,5 @@
 ---
-title: "Cerea"
+title: "Céréa"
 url: /charmeil/cerea/
 shop: boulangerie
 ---
