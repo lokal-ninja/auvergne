@@ -7,5 +7,5 @@ city: Vichy
 street: "Avenue de Gramont"
 housenumber: 69
 phone: "+33 4 70 97 76 26"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
+opening_hours: "Mo 09:00-12:00, 14:00-18:00; We 09:00-12:00, 14:00-18:00; Fr 09:00-12:00, 14:00-18:00"
 website: ""

@@ -7,5 +7,5 @@ city: Saint-Flour
 street: "Place de la Liberté"
 housenumber: 14
 phone: "04 71 60 01 69"
-opening_hours: "Tu-Sa 09:00-12:30 15:00-19:30 Su 09:00-12:30"
+opening_hours: "Tu-Sa 09:00-12:30,15:00-19:30; Su 09:00-12:30"
 website: ""
