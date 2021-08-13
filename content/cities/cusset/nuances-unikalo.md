@@ -1,5 +1,5 @@
 ---
-title: "Nuances unikalo"
+title: "Nuances Unikalo"
 url: /cusset/nuances-unikalo/
-shop: vacant
+shop: peinture
 ---
