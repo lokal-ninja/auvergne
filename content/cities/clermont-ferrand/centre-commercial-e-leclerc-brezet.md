@@ -1,5 +1,5 @@
 ---
-title: "Centre Commercial E. Leclerc Brezet"
+title: "Centre commercial E. Leclerc Brezet"
 url: /clermont-ferrand/centre-commercial-e-leclerc-brezet/
 shop: supermarché
 ---
