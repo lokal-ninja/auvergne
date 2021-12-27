@@ -1,6 +1,6 @@
 ---
 title: Yzeure
 url: /yzeure/
-latitude: 46.5676568
-longitude: 3.3539775
+latitude: 46.535
+longitude: 3.348
 ---

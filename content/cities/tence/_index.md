@@ -1,6 +1,6 @@
 ---
 title: Tence
 url: /tence/
-latitude: 45.116133500000004
-longitude: 4.289156
+latitude: 45.114
+longitude: 4.29
 ---

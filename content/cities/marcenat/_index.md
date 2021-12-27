@@ -1,6 +1,6 @@
 ---
 title: Marcenat
 url: /marcenat/
-latitude: 45.879432900000005
-longitude: 2.9964244
+latitude: 46.235
+longitude: 3.396
 ---

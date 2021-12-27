@@ -1,6 +1,6 @@
 ---
 title: Saint-Flour
 url: /saint-flour/
-latitude: 45.3992145
-longitude: 3.8361941
+latitude: 45.038
+longitude: 3.074
 ---

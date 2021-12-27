@@ -1,6 +1,6 @@
 ---
 title: Lamenay-sur-Loire
 url: /lamenay-sur-loire/
-latitude: 
-longitude: 
+latitude: 46.726
+longitude: 3.595
 ---

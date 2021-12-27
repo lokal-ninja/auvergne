@@ -1,6 +1,6 @@
 ---
 title: Brives Charenssac
 url: /brives-charenssac/
-latitude: 
-longitude: 
+latitude: 45.053
+longitude: 3.911
 ---

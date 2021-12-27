@@ -1,6 +1,6 @@
 ---
 title: Mozac
 url: /mozac/
-latitude: 45.8940829
-longitude: 3.0953843
+latitude: 45.889
+longitude: 3.075
 ---

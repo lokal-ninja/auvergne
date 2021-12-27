@@ -1,6 +1,6 @@
 ---
 title: Billy
 url: /billy/
-latitude: 46.2362521
-longitude: 3.4300974
+latitude: 46.236
+longitude: 3.431
 ---

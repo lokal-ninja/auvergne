@@ -1,6 +1,6 @@
 ---
 title: Boudes
 url: /boudes/
-latitude: 45.458741
-longitude: 3.1851582
+latitude: 45.458
+longitude: 3.186
 ---

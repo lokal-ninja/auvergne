@@ -1,6 +1,6 @@
 ---
 title: Vézézoux
 url: /vezezoux/
-latitude: 45.403580000000005
-longitude: 3.34769
+latitude: 45.398
+longitude: 3.341
 ---

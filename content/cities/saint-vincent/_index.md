@@ -1,6 +1,6 @@
 ---
 title: Saint-Vincent
 url: /saint-vincent/
-latitude: 45.5493815
-longitude: 3.1343277
+latitude: 45.152
+longitude: 3.921
 ---

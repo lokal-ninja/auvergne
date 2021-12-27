@@ -1,6 +1,6 @@
 ---
 title: Giat
 url: /giat/
-latitude: 45.801770000000005
-longitude: 2.46698
+latitude: 45.805
+longitude: 2.47
 ---

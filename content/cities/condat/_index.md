@@ -1,6 +1,6 @@
 ---
 title: Condat
 url: /condat/
-latitude: 45.3439142
-longitude: 3.6024998000000004
+latitude: 45.339
+longitude: 2.761
 ---

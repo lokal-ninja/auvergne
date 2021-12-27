@@ -1,6 +1,6 @@
 ---
 title: Boisset
 url: /boisset/
-latitude: 45.624085300000004
-longitude: 3.700676
+latitude: 44.782
+longitude: 2.254
 ---

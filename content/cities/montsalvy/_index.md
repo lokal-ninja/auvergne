@@ -1,6 +1,6 @@
 ---
 title: Montsalvy
 url: /montsalvy/
-latitude: 44.706412
-longitude: 2.5005397
+latitude: 44.707
+longitude: 2.501
 ---

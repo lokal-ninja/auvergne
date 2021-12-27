@@ -1,6 +1,6 @@
 ---
 title: Roffiac
 url: /roffiac/
-latitude: 44.990850300000005
-longitude: 4.1853854
+latitude: 45.039
+longitude: 3.057
 ---

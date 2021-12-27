@@ -1,6 +1,6 @@
 ---
 title: Brioude
 url: /brioude/
-latitude: 45.293897
-longitude: 3.3853711000000004
+latitude: 45.293
+longitude: 3.385
 ---

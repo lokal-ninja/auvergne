@@ -1,6 +1,6 @@
 ---
 title: Châtel-Guyon
 url: /chatel-guyon/
-latitude: 45.920500000000004
-longitude: 3.06111
+latitude: 45.92
+longitude: 3.067
 ---

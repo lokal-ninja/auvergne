@@ -1,6 +1,6 @@
 ---
 title: Ornon
 url: /ornon/
-latitude: 
-longitude: 
+latitude: 45.86
+longitude: 3.388
 ---

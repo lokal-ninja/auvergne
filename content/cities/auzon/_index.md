@@ -1,6 +1,6 @@
 ---
 title: Auzon
 url: /auzon/
-latitude: 45.391600200000006
-longitude: 3.370575
+latitude: 45.391
+longitude: 3.372
 ---

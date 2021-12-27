@@ -1,6 +1,6 @@
 ---
 title: Hauterive
 url: /hauterive/
-latitude: 46.497387700000004
-longitude: 3.6565589000000003
+latitude: 46.089
+longitude: 3.446
 ---

@@ -1,6 +1,6 @@
 ---
 title: Murat
 url: /murat/
-latitude: 45.6895648
-longitude: 3.5066535
+latitude: 45.112
+longitude: 2.868
 ---

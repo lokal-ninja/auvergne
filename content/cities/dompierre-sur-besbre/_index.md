@@ -1,6 +1,6 @@
 ---
 title: Dompierre-sur-Besbre
 url: /dompierre-sur-besbre/
-latitude: 46.521627800000005
-longitude: 3.6812752000000004
+latitude: 46.526
+longitude: 3.674
 ---

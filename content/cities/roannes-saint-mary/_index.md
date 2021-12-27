@@ -1,6 +1,6 @@
 ---
 title: Roannes-Saint-Mary
 url: /roannes-saint-mary/
-latitude: 
-longitude: 
+latitude: 44.857
+longitude: 2.39
 ---

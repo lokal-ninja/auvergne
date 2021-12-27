@@ -1,6 +1,6 @@
 ---
 title: Chateldon
 url: /chateldon/
-latitude: 
-longitude: 
+latitude: 45.98
+longitude: 3.514
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chamalières
 url: /chamalieres/
-latitude: 45.7732
-longitude: 3.06115
+latitude: 45.768
+longitude: 3.069
 ---

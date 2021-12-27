@@ -1,6 +1,6 @@
 ---
 title: Maringues
 url: /maringues/
-latitude: 45.9210457
-longitude: 3.3289590000000002
+latitude: 45.911
+longitude: 3.332
 ---

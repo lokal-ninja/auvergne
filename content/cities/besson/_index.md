@@ -1,6 +1,6 @@
 ---
 title: Besson
 url: /besson/
-latitude: 46.076259
-longitude: 3.6713916
+latitude: 46.47
+longitude: 3.263
 ---
