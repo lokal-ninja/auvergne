@@ -1,6 +1,6 @@
 ---
-title: AVERMES
+title: Avermes
 url: /avermes/
-latitude: 46.591
-longitude: 3.326
+latitude: 46.588
+longitude: 3.328
 ---
