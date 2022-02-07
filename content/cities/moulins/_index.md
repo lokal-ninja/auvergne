@@ -1,6 +1,6 @@
 ---
 title: Moulins
 url: /moulins/
-latitude: 46.564
-longitude: 3.333
+latitude: 46.546
+longitude: 3.341
 ---

@@ -1,5 +1,5 @@
 ---
-title: "CB RACING"
+title: "CB Racing"
 url: /cunlhat/cb-racing/
 shop: pièces de voitures
 ---
