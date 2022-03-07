@@ -1,5 +1,5 @@
 ---
-title: "Pâtissier-Chocolatier Juilhard Ph."
+title: "Pâtissier-Chocolatier JUILHARD Ph."
 url: /champeix/patissier-chocolatier-juilhard-ph/
 shop: chocolat
 ---
