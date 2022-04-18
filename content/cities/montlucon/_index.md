@@ -1,6 +1,6 @@
 ---
 title: Montluçon
 url: /montlucon/
-latitude: 46.34
-longitude: 2.602
+latitude: 46.343
+longitude: 2.592
 ---
