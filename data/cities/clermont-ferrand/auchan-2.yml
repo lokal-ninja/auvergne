@@ -1,11 +1,11 @@
-id: 1929566360
-type: node
-latitude: 45.78805
-longitude: 3.08235
+id: 66835230
+type: way
+latitude: 45.81382
+longitude: 3.10905
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue des Chanelles"
-housenumber: 19
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Sa 09:00-12:45"
+opening_hours: "24/7"
 website: ""
