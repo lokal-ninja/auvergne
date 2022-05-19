@@ -1,11 +1,11 @@
-id: 84800927
-type: way
-latitude: 46.0986
-longitude: 3.44472
+id: 9744130090
+type: node
+latitude: 46.09855
+longitude: 3.44473
 postcode: "03200"
 city: Abrest
 street: "Place des Anciens Combattants"
 housenumber: 1
 phone: "+33 9 81 81 17 20"
-opening_hours: "Tu-Fr 07:30-12:30,16:00-20:00; Sa 08:30-12:30; Su 08:30-12:30,16:00-20:00"
+opening_hours: "Tu-Th 11:00-21:00; Fr-Su 09:00-13:00,16:00-21:00"
 website: ""
