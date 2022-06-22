@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/auvergne"
+baseURL = "https://fr.shoogle.net/auvergne/"
 languageCode = "fr"
 title = "Auvergne"
 theme = "ln-base"
