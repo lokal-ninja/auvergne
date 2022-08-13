@@ -1,5 +1,5 @@
 ---
-title: "LA RENOMMEE DU BON FROMAGE"
+title: "La Renommée du Bon Fromage"
 url: /chilhac/la-renommee-du-bon-fromage/
 shop: fromage
 ---
