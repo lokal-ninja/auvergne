@@ -7,5 +7,5 @@ city: Ambert
 street: "Place Saint-Jean"
 housenumber: 9
 phone: "+33 9 82 55 30 03"
-opening_hours: "Mardi : 15h-19h  Mercredi : 15h-19h  Jeudi : 9h-13h  Vendredi : 15h-19h"
+opening_hours: "Tu,We,Fr 15:00-19:00; Th 09:00-13:00; Mo,Sa,Su,PH off"
 website: "https://lelocalambert.wixsite.com/ambert"
