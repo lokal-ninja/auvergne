@@ -1,6 +1,6 @@
 ---
 title: Aubière
 url: /aubiere/
-latitude: 45.752
-longitude: 3.127
+latitude: 45.75
+longitude: 3.11
 ---
