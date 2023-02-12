@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /clermont-ferrand/auchan-2/
+url: /clermont-ferrand/auchan/
 shop: commodité
 ---
