@@ -1,5 +1,5 @@
 ---
 title: "Les Plumes d'Auvergne"
 url: /vichy/les-plumes-dauvergne/
-shop: shop
+shop: boucherie
 ---
