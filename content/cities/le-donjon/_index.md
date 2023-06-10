@@ -1,6 +1,6 @@
 ---
 title: Le Donjon
 url: /le-donjon/
-latitude: 46.35
-longitude: 3.795
+latitude: 46.354
+longitude: 3.792
 ---
