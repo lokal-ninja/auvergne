@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /cusset/carrefour-market/
-shop: supermarché
+shop: gaz
 ---
