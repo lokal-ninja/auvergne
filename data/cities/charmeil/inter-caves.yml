@@ -1,11 +1,11 @@
-id: 5051403545
-type: node
-latitude: 46.15593
-longitude: 3.39204
+id: 1181203022
+type: way
+latitude: 46.15824
+longitude: 3.39286
 postcode: "03110"
 city: Charmeil
 street: "Route de Saint-Pourçain"
-housenumber: 12
+housenumber: 
 phone: ""
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://charmeil.intercaves.fr/"
+opening_hours: "Mo-Sa 09:00-19:00; Th,Fr 09:00-21:00"
+website: "https://www.intercaves.fr/charmeil"
