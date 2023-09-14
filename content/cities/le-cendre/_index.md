@@ -1,6 +1,6 @@
 ---
 title: Le Cendre
 url: /le-cendre/
-latitude: 45.727
-longitude: 3.186
+latitude: 45.726
+longitude: 3.188
 ---

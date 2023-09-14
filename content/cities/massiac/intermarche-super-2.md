@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
-url: /massiac/intermarche-super/
+url: /massiac/intermarche-super-2/
 shop: supermarché
 ---

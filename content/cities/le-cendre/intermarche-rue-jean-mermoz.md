@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /ennezat/intermarche-route-de-riom/
+url: /le-cendre/intermarche-rue-jean-mermoz/
 shop: supermarché
 ---
