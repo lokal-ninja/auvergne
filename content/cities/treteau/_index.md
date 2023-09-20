@@ -1,6 +1,6 @@
 ---
 title: Treteau
 url: /treteau/
-latitude: 46.37
-longitude: 3.524
+latitude: 46.367
+longitude: 3.525
 ---
