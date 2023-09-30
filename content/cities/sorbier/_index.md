@@ -1,6 +1,6 @@
 ---
 title: Sorbier
 url: /sorbier/
-latitude: 46.352
-longitude: 3.63
+latitude: 46.362
+longitude: 3.657
 ---
