@@ -1,0 +1,5 @@
+---
+title: "PIA"
+url: /le-puy-en-velay/pia/
+shop: vêtements
+---
