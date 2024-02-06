@@ -1,6 +1,6 @@
 ---
 title: Malauzat
 url: /malauzat/
-latitude: 45.887
-longitude: 3.066
+latitude: 45.886
+longitude: 3.065
 ---
