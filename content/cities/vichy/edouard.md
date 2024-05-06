@@ -1,5 +1,5 @@
 ---
 title: "Édouard"
 url: /vichy/edouard/
-shop: vacant
+shop: décoration intérieure
 ---
