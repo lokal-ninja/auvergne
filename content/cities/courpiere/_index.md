@@ -1,6 +1,6 @@
 ---
 title: Courpière
 url: /courpiere/
-latitude: 45.755
-longitude: 3.537
+latitude: 45.756
+longitude: 3.538
 ---
