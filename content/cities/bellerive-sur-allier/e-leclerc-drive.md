@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
-url: /cusset/e-leclerc-drive/
+url: /bellerive-sur-allier/e-leclerc-drive/
 shop: avant-poste
 ---
