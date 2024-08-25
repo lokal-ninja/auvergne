@@ -1,6 +1,6 @@
 ---
 title: Massiac
 url: /massiac/
-latitude: 45.244
-longitude: 3.19
+latitude: 45.252
+longitude: 3.197
 ---
