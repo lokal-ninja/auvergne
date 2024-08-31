@@ -1,6 +1,6 @@
 ---
-title: Cosne d'Allier
+title: Cosne-d'Allier
 url: /cosne-dallier/
 latitude: 46.475
-longitude: 2.825
+longitude: 2.831
 ---
