@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /pontgibaud/casino/
-shop: commodité
+shop: Lebensmittel
 ---

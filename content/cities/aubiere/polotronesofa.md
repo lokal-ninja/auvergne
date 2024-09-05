@@ -1,5 +1,5 @@
 ---
 title: "Polotronesofa"
 url: /aubiere/polotronesofa/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ginkgo"
 url: /cournon-dauvergne/ginkgo/
-shop: ordinateur
+shop: Computer
 ---

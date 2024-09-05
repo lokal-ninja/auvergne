@@ -1,5 +1,5 @@
 ---
 title: "Okaidi"
 url: /vichy/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

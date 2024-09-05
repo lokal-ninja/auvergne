@@ -1,5 +1,5 @@
 ---
 title: "Anahita"
 url: /cusset/anahita/
-shop: beauté
+shop: Kosmetik
 ---

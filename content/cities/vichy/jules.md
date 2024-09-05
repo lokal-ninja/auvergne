@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /vichy/jules/
-shop: vêtements
+shop: Kleidung
 ---

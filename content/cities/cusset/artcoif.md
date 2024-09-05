@@ -1,5 +1,5 @@
 ---
 title: "Art'Coif"
 url: /cusset/artcoif/
-shop: coiffeur
+shop: Friseur
 ---

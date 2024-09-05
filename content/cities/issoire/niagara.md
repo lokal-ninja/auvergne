@@ -1,5 +1,5 @@
 ---
 title: "Niagara"
 url: /issoire/niagara/
-shop: vêtements
+shop: Kleidung
 ---

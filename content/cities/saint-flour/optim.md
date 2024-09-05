@@ -1,5 +1,5 @@
 ---
 title: "Optim"
 url: /saint-flour/optim/
-shop: opticien
+shop: Optiker
 ---

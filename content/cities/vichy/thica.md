@@ -1,5 +1,5 @@
 ---
 title: "Thica"
 url: /vichy/thica/
-shop: coiffeur
+shop: Friseur
 ---

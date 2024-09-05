@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /cournon-dauvergne/audika/
-shop: les appareils auditifs
+shop: Hörgeräte
 ---

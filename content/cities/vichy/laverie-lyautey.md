@@ -1,5 +1,5 @@
 ---
 title: "Laverie Lyautey"
 url: /vichy/laverie-lyautey/
-shop: blanchisserie
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indies"
 url: /vichy/indies/
-shop: vêtements
+shop: Kleidung
 ---

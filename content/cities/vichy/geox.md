@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /vichy/geox/
-shop: chaussures
+shop: Schuhe
 ---

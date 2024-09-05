@@ -1,5 +1,5 @@
 ---
 title: "Ettigirs"
 url: /vichy/ettigirs/
-shop: coiffeur
+shop: Friseur
 ---

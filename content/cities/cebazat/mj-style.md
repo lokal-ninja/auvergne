@@ -1,5 +1,5 @@
 ---
 title: "MJ Style"
 url: /cebazat/mj-style/
-shop: coiffeur
+shop: Friseur
 ---

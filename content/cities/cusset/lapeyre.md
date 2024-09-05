@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /cusset/lapeyre/
-shop: meubles
+shop: Möbel
 ---

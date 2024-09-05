@@ -1,5 +1,5 @@
 ---
 title: "Institut France Beauté"
 url: /le-puy-en-velay/institut-france-beaute/
-shop: beauté
+shop: Kosmetik
 ---

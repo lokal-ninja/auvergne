@@ -1,5 +1,5 @@
 ---
 title: "Grain de Folie"
 url: /vichy/grain-de-folie/
-shop: vêtements
+shop: Kleidung
 ---

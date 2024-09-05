@@ -1,5 +1,5 @@
 ---
 title: "sorhofroid"
 url: /cournon-dauvergne/sorhofroid/
-shop: shop
+shop: Allgemein
 ---

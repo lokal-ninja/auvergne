@@ -1,5 +1,5 @@
 ---
 title: "Phox"
 url: /vichy/phox/
-shop: photo
+shop: Foto
 ---

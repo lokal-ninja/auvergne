@@ -1,5 +1,5 @@
 ---
 title: "Chauff' granules"
 url: /issoire/chauff-granules/
-shop: cheminée
+shop: Kamine & Öfen
 ---

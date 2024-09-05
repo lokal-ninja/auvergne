@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /montlucon/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

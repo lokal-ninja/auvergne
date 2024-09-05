@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
 url: /la-roche-blanche/intermarche-contact/
-shop: gaz
+shop: Gasflaschen
 ---

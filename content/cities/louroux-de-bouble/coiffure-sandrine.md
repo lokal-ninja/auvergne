@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Sandrine"
 url: /louroux-de-bouble/coiffure-sandrine/
-shop: coiffeur
+shop: Friseur
 ---

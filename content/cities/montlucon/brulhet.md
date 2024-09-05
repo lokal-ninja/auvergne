@@ -1,5 +1,5 @@
 ---
 title: "Brulhet"
 url: /montlucon/brulhet/
-shop: vélo
+shop: Fahrrad
 ---

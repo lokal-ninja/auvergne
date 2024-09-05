@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /gannat/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

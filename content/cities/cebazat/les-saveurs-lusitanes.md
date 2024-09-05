@@ -1,5 +1,5 @@
 ---
 title: "Les saveurs Lusitanes"
 url: /cebazat/les-saveurs-lusitanes/
-shop: commodité
+shop: Lebensmittel
 ---

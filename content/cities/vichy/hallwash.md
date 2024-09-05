@@ -1,5 +1,5 @@
 ---
 title: "HallwasH"
 url: /vichy/hallwash/
-shop: blanchisserie
+shop: Wäscherei
 ---

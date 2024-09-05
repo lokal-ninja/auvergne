@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /lempdes/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

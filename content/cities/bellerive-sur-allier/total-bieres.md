@@ -1,5 +1,5 @@
 ---
 title: "Total Bières"
 url: /bellerive-sur-allier/total-bieres/
-shop: boissons
+shop: Getränke
 ---

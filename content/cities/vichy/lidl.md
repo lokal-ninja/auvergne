@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /vichy/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

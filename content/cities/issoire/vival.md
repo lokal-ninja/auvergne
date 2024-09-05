@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /issoire/vival/
-shop: commodité
+shop: Lebensmittel
 ---

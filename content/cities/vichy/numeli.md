@@ -1,5 +1,5 @@
 ---
 title: "Numéli"
 url: /vichy/numeli/
-shop: copyshop
+shop: Kopieren
 ---

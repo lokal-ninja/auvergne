@@ -1,5 +1,5 @@
 ---
 title: "Art Concept Décoration"
 url: /vichy/art-concept-decoration/
-shop: tapis
+shop: Teppiche
 ---

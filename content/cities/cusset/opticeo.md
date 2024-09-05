@@ -1,5 +1,5 @@
 ---
 title: "Opticeo"
 url: /cusset/opticeo/
-shop: opticien
+shop: Optiker
 ---

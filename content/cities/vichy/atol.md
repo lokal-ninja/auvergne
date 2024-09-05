@@ -1,5 +1,5 @@
 ---
 title: "ATOL"
 url: /vichy/atol/
-shop: opticien
+shop: Optiker
 ---

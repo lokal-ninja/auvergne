@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /courpiere/netto/
-shop: supermarché
+shop: Supermarkt
 ---

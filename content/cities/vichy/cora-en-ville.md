@@ -1,5 +1,5 @@
 ---
 title: "Cora en ville"
 url: /vichy/cora-en-ville/
-shop: commodité
+shop: Lebensmittel
 ---

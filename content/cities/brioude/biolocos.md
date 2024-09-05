@@ -1,5 +1,5 @@
 ---
 title: "BioLocos"
 url: /brioude/biolocos/
-shop: supermarché
+shop: Supermarkt
 ---

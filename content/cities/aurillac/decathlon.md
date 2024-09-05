@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /aurillac/decathlon/
-shop: sports
+shop: Sport
 ---

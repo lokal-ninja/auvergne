@@ -1,5 +1,5 @@
 ---
 title: "Michel Cosson"
 url: /cournon-dauvergne/michel-cosson/
-shop: meubles
+shop: Möbel
 ---

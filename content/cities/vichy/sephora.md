@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /vichy/sephora/
-shop: beauté
+shop: Kosmetik
 ---

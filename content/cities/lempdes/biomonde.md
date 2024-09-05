@@ -1,5 +1,5 @@
 ---
 title: "Biomonde"
 url: /lempdes/biomonde/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Proximarché"
 url: /vichy/proximarche/
-shop: commodité
+shop: Lebensmittel
 ---

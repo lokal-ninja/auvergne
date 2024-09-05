@@ -1,5 +1,5 @@
 ---
 title: "Cannelle"
 url: /vichy/cannelle/
-shop: vêtements
+shop: Kleidung
 ---

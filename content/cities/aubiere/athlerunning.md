@@ -1,5 +1,5 @@
 ---
 title: "Athlerunning"
 url: /aubiere/athlerunning/
-shop: sports
+shop: Sport
 ---

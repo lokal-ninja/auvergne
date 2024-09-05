@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /le-veurdre/vival/
-shop: commodité
+shop: Lebensmittel
 ---

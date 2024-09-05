@@ -1,5 +1,5 @@
 ---
 title: "Descamps"
 url: /vichy/descamps/
-shop: shop
+shop: Allgemein
 ---

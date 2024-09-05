@@ -1,5 +1,5 @@
 ---
 title: "Céréa"
 url: /vichy/cerea/
-shop: boulangerie
+shop: Bäckerei
 ---

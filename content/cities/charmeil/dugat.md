@@ -1,5 +1,5 @@
 ---
 title: "Dugat"
 url: /charmeil/dugat/
-shop: voiture
+shop: Autohaus
 ---

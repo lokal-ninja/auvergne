@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /vichy/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

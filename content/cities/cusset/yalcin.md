@@ -1,5 +1,5 @@
 ---
 title: "Yalcin"
 url: /cusset/yalcin/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose"
 url: /chabreloche/rose/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MDA"
 url: /cusset/mda/
-shop: électronique
+shop: Elektronik
 ---

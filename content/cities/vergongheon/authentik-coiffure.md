@@ -1,5 +1,5 @@
 ---
 title: "Authentik Coiffure"
 url: /vergongheon/authentik-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

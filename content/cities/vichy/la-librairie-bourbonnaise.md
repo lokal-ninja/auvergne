@@ -1,5 +1,5 @@
 ---
 title: "La Librairie Bourbonnaise"
 url: /vichy/la-librairie-bourbonnaise/
-shop: livres
+shop: Bücher
 ---

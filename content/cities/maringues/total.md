@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /maringues/total/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bigler"
 url: /aubiere/bigler/
-shop: voiture
+shop: Autohaus
 ---

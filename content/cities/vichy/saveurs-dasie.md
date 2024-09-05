@@ -1,5 +1,5 @@
 ---
 title: "Saveurs d'Asie"
 url: /vichy/saveurs-dasie/
-shop: charcuterie
+shop: Feinkost
 ---

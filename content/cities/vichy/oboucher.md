@@ -1,5 +1,5 @@
 ---
 title: "Ô'Boucher"
 url: /vichy/oboucher/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /le-puy-en-velay/decathlon/
-shop: sports
+shop: Sport
 ---

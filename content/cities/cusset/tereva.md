@@ -1,5 +1,5 @@
 ---
 title: "Téréva"
 url: /cusset/tereva/
-shop: commerce
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /vichy/etam/
-shop: vêtements
+shop: Kleidung
 ---

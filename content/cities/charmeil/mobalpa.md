@@ -1,5 +1,5 @@
 ---
 title: "Mobalpa"
 url: /charmeil/mobalpa/
-shop: cuisine
+shop: Küchen
 ---

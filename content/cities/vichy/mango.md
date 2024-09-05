@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /vichy/mango/
-shop: vêtements
+shop: Kleidung
 ---

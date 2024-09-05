@@ -1,5 +1,5 @@
 ---
 title: "Verdandi"
 url: /vichy/verdandi/
-shop: cadeau
+shop: Andenken
 ---

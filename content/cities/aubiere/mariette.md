@@ -1,5 +1,5 @@
 ---
 title: "Mariette"
 url: /aubiere/mariette/
-shop: boulangerie
+shop: Bäckerei
 ---

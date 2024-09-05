@@ -1,5 +1,5 @@
 ---
 title: "Opticeo"
 url: /vichy/opticeo/
-shop: opticien
+shop: Optiker
 ---

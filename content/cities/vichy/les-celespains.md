@@ -1,5 +1,5 @@
 ---
 title: "Les Célespains"
 url: /vichy/les-celespains/
-shop: boulangerie
+shop: Bäckerei
 ---

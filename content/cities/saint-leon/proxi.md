@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /saint-leon/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

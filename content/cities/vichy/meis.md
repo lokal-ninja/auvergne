@@ -1,5 +1,5 @@
 ---
 title: "Meis"
 url: /vichy/meis/
-shop: vêtements
+shop: Kleidung
 ---

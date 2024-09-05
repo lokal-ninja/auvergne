@@ -1,5 +1,5 @@
 ---
 title: "Benocle"
 url: /aurillac/benocle/
-shop: opticien
+shop: Optiker
 ---

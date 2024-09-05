@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /yzeure/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

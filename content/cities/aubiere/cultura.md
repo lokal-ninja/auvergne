@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /aubiere/cultura/
-shop: livres
+shop: Bücher
 ---

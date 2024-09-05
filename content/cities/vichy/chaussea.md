@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /vichy/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

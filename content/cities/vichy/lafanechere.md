@@ -1,5 +1,5 @@
 ---
 title: "Lafanechere"
 url: /vichy/lafanechere/
-shop: chimiste
+shop: Drogerie
 ---

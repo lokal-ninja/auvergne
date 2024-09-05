@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir Irlandais"
 url: /le-puy-en-velay/le-comptoir-irlandais/
-shop: charcuterie
+shop: Feinkost
 ---

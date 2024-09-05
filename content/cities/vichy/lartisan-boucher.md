@@ -1,5 +1,5 @@
 ---
 title: "L'Artisan Boucher"
 url: /vichy/lartisan-boucher/
-shop: boucherie
+shop: Metzgerei
 ---

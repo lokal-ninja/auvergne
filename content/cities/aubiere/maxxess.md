@@ -1,5 +1,5 @@
 ---
 title: "Maxxess"
 url: /aubiere/maxxess/
-shop: moto
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /vichy/calzedonia/
-shop: vêtements
+shop: Kleidung
 ---

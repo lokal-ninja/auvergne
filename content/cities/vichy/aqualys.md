@@ -1,5 +1,5 @@
 ---
 title: "Aqualys"
 url: /vichy/aqualys/
-shop: beauté
+shop: Kosmetik
 ---

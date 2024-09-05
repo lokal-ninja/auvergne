@@ -1,5 +1,5 @@
 ---
 title: "Bonnet"
 url: /retournac/bonnet/
-shop: tabac
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie du Bourg"
 url: /menat/epicerie-du-bourg/
-shop: commodité
+shop: Lebensmittel
 ---

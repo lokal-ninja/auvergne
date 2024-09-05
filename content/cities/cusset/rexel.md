@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /cusset/rexel/
-shop: électrique
+shop: Elektrisch
 ---

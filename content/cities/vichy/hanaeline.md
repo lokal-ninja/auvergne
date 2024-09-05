@@ -1,5 +1,5 @@
 ---
 title: "Hanaéline"
 url: /vichy/hanaeline/
-shop: cadeau
+shop: Andenken
 ---

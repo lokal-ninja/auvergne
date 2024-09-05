@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /brioude/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tip Top"
 url: /vichy/tip-top/
-shop: sac
+shop: Taschen & Koffer
 ---

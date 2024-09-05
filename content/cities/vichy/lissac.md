@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /vichy/lissac/
-shop: opticien
+shop: Optiker
 ---

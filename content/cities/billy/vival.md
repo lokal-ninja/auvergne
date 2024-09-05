@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /billy/vival/
-shop: commodité
+shop: Lebensmittel
 ---

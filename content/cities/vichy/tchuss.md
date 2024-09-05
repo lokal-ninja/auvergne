@@ -1,5 +1,5 @@
 ---
 title: "Tchuss"
 url: /vichy/tchuss/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comptoir National de l'Or"
 url: /vichy/comptoir-national-de-lor/
-shop: bijoux
+shop: Schmuck
 ---

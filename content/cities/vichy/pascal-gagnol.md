@@ -1,5 +1,5 @@
 ---
 title: "Pascal Gagnol"
 url: /vichy/pascal-gagnol/
-shop: légumes
+shop: Gemüse & Obst
 ---

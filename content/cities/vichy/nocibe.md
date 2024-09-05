@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /vichy/nocibe/
-shop: parfumerie
+shop: Parfümerie
 ---

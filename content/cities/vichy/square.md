@@ -1,5 +1,5 @@
 ---
 title: "Square"
 url: /vichy/square/
-shop: chaussures
+shop: Schuhe
 ---

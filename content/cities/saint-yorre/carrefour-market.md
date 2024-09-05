@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /saint-yorre/carrefour-market/
-shop: gaz
+shop: Gasflaschen
 ---

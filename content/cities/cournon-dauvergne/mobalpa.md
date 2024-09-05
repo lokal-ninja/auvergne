@@ -1,5 +1,5 @@
 ---
 title: "mobalpa"
 url: /cournon-dauvergne/mobalpa/
-shop: meubles
+shop: Möbel
 ---

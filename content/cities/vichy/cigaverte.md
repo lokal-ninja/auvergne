@@ -1,5 +1,5 @@
 ---
 title: "Cigaverte"
 url: /vichy/cigaverte/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XEFI"
 url: /charmeil/xefi/
-shop: ordinateur
+shop: Computer
 ---

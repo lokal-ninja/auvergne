@@ -1,5 +1,5 @@
 ---
 title: "Lucas Nathalie"
 url: /cusset/lucas-nathalie/
-shop: coiffeur
+shop: Friseur
 ---

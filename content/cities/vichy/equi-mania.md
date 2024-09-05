@@ -1,5 +1,5 @@
 ---
 title: "Equi-Mania"
 url: /vichy/equi-mania/
-shop: équestre
+shop: Pferde
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citadine"
 url: /vichy/citadine/
-shop: vêtements
+shop: Kleidung
 ---

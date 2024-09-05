@@ -1,5 +1,5 @@
 ---
 title: "interCaves"
 url: /aubiere/intercaves/
-shop: alcool
+shop: Spirituosen
 ---

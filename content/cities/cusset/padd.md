@@ -1,5 +1,5 @@
 ---
 title: "PADD"
 url: /cusset/padd/
-shop: équestre
+shop: Pferde
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlance"
 url: /cusset/carlance/
-shop: beauté
+shop: Kosmetik
 ---

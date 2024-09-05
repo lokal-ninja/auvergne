@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /montlucon/giant/
-shop: vélo
+shop: Fahrrad
 ---

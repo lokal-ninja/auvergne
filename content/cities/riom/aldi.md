@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /riom/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

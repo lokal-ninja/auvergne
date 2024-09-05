@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /issoire/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabesto"
 url: /clermont-ferrand/cabesto/
-shop: extérieur
+shop: Outdoor
 ---

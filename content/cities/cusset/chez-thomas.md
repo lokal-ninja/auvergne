@@ -1,5 +1,5 @@
 ---
 title: "Chez Thomas"
 url: /cusset/chez-thomas/
-shop: boucherie
+shop: Metzgerei
 ---

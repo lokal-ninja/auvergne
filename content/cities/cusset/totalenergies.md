@@ -1,5 +1,5 @@
 ---
 title: "TotalEnergies"
 url: /cusset/totalenergies/
-shop: commodité
+shop: Lebensmittel
 ---

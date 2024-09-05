@@ -1,5 +1,5 @@
 ---
 title: "Patàpain"
 url: /cusset/patapain/
-shop: boulangerie
+shop: Bäckerei
 ---

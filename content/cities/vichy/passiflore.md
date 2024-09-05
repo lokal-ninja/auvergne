@@ -1,5 +1,5 @@
 ---
 title: "Passiflore"
 url: /vichy/passiflore/
-shop: fleuriste
+shop: Blumen
 ---

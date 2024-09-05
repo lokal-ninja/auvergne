@@ -1,5 +1,5 @@
 ---
 title: "WeeCars"
 url: /cusset/weecars/
-shop: voiture
+shop: Autohaus
 ---

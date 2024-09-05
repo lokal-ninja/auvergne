@@ -1,5 +1,5 @@
 ---
 title: "Maquart"
 url: /vichy/maquart/
-shop: boulangerie
+shop: Bäckerei
 ---
