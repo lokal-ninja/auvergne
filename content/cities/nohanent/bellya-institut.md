@@ -1,5 +1,5 @@
 ---
 title: "Bellya Institut"
 url: /nohanent/bellya-institut/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cartel Cycles Café"
 url: /clermont-ferrand/cartel-cycles-cafe/
-shop: Fahrrad
+shop: vélo
 ---

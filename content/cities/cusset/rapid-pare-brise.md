@@ -1,5 +1,5 @@
 ---
 title: "Rapid Pare-Brise"
 url: /cusset/rapid-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

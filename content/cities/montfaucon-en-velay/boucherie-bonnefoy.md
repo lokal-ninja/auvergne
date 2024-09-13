@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Bonnefoy"
 url: /montfaucon-en-velay/boucherie-bonnefoy/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chambouvet"
 url: /tence/chambouvet/
-shop: Bäckerei
+shop: boulangerie
 ---

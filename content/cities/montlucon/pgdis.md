@@ -1,5 +1,5 @@
 ---
 title: "PGDis"
 url: /montlucon/pgdis/
-shop: Möbel
+shop: meubles
 ---

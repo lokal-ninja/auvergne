@@ -1,5 +1,5 @@
 ---
 title: "Renovelo"
 url: /maringues/renovelo/
-shop: Fahrrad
+shop: vélo
 ---

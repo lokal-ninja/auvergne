@@ -1,5 +1,5 @@
 ---
 title: "Audition Weiss"
 url: /bellerive-sur-allier/audition-weiss/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

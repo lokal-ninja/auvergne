@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /ceyrat/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

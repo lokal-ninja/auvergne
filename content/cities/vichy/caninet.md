@@ -1,5 +1,5 @@
 ---
 title: "Caninet"
 url: /vichy/caninet/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

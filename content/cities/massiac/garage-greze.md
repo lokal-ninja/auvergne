@@ -1,5 +1,5 @@
 ---
 title: "Garage Grèze"
 url: /massiac/garage-greze/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

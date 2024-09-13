@@ -1,5 +1,5 @@
 ---
 title: "KoKine"
 url: /vichy/kokine/
-shop: Kleidung
+shop: vêtements
 ---

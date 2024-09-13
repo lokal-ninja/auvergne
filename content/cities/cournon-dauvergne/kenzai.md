@@ -1,5 +1,5 @@
 ---
 title: "Kenzaï"
 url: /cournon-dauvergne/kenzai/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "alize automobile"
 url: /aubiere/alize-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

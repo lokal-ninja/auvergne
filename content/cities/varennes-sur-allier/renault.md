@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /varennes-sur-allier/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

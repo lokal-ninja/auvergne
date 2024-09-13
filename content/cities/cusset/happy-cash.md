@@ -1,5 +1,5 @@
 ---
 title: "Happy Cash"
 url: /cusset/happy-cash/
-shop: Gebrauchtwaren
+shop: charité
 ---

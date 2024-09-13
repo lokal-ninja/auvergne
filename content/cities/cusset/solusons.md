@@ -1,5 +1,5 @@
 ---
 title: "SoluSons"
 url: /cusset/solusons/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

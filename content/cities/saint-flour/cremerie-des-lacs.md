@@ -1,5 +1,5 @@
 ---
 title: "Crèmerie des Lacs"
 url: /saint-flour/cremerie-des-lacs/
-shop: Milch
+shop: produits laitiers
 ---

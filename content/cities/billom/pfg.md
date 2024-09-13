@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /billom/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

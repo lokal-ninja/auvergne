@@ -1,5 +1,5 @@
 ---
 title: "Abcis by Autosphere"
 url: /aubiere/abcis-by-autosphere/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /cusset/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

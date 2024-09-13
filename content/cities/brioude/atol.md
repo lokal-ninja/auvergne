@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /brioude/atol/
-shop: Optiker
+shop: opticien
 ---

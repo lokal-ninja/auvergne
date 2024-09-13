@@ -1,5 +1,5 @@
 ---
 title: "Agape Shop"
 url: /vichy/agape-shop/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

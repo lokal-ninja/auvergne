@@ -1,5 +1,5 @@
 ---
 title: "´Audilab"
 url: /vichy/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

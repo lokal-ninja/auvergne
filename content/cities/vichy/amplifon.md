@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /vichy/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

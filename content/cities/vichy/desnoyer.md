@@ -1,5 +1,5 @@
 ---
 title: "Desnoyer"
 url: /vichy/desnoyer/
-shop: Leerstehend
+shop: vacant
 ---

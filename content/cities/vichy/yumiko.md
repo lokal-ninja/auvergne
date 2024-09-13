@@ -1,5 +1,5 @@
 ---
 title: "Yumiko"
 url: /vichy/yumiko/
-shop: Modehaus
+shop: boutique
 ---

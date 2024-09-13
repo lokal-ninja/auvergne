@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /vichy/superdry/
-shop: Kleidung
+shop: vêtements
 ---

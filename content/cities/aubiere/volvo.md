@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /aubiere/volvo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

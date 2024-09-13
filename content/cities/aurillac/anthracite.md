@@ -1,5 +1,5 @@
 ---
 title: "Anthracite"
 url: /aurillac/anthracite/
-shop: Kleidung
+shop: vêtements
 ---

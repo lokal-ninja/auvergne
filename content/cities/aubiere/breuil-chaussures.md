@@ -1,5 +1,5 @@
 ---
 title: "Breuil Chaussures"
 url: /aubiere/breuil-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

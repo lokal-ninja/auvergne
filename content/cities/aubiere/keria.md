@@ -1,5 +1,5 @@
 ---
 title: "Keria"
 url: /aubiere/keria/
-shop: Lampen
+shop: lampes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /giat/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

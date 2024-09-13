@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /vichy/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

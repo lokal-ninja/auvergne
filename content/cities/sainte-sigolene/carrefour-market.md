@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /sainte-sigolene/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

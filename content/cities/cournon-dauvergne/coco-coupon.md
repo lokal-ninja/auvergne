@@ -1,5 +1,5 @@
 ---
 title: "Coco coupon"
 url: /cournon-dauvergne/coco-coupon/
-shop: Dorfladen
+shop: magasin de campagne
 ---

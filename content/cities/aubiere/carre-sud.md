@@ -1,5 +1,5 @@
 ---
 title: "Carré Sud"
 url: /aubiere/carre-sud/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Adopt"
+title: "Adopt'"
 url: /vichy/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

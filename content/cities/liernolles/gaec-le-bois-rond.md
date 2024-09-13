@@ -1,5 +1,5 @@
 ---
 title: "GAEC Le bois rond"
 url: /liernolles/gaec-le-bois-rond/
-shop: Hofladen
+shop: ferme
 ---

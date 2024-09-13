@@ -1,5 +1,5 @@
 ---
 title: "Biomonde"
 url: /charmeil/biomonde/
-shop: Lebensmittel
+shop: commodité
 ---

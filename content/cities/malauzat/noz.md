@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /malauzat/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

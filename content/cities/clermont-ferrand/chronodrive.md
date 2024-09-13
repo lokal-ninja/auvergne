@@ -1,5 +1,5 @@
 ---
 title: "Chronodrive"
 url: /clermont-ferrand/chronodrive/
-shop: Supermarkt
+shop: supermarché
 ---

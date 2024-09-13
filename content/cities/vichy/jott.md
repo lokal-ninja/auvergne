@@ -1,5 +1,5 @@
 ---
 title: "JOTT"
 url: /vichy/jott/
-shop: Kleidung
+shop: vêtements
 ---

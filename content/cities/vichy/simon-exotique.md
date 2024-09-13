@@ -1,5 +1,5 @@
 ---
 title: "Simon Exotique"
 url: /vichy/simon-exotique/
-shop: Dorfladen
+shop: magasin de campagne
 ---

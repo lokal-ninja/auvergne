@@ -1,5 +1,5 @@
 ---
 title: "Anconetti Auvergne"
 url: /cusset/anconetti-auvergne/
-shop: Badezimmer
+shop: salle de bains
 ---

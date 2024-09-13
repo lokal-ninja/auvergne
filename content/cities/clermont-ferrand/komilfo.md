@@ -1,5 +1,5 @@
 ---
 title: "Komilfo"
 url: /clermont-ferrand/komilfo/
-shop: Jalousien
+shop: store de fenêtre
 ---

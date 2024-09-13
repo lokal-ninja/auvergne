@@ -1,5 +1,5 @@
 ---
 title: "Nicolas Servaire"
 url: /clermont-ferrand/nicolas-servaire/
-shop: Bäckerei
+shop: boulangerie
 ---

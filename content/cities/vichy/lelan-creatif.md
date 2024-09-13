@@ -1,5 +1,5 @@
 ---
 title: "L'Élan Créatif"
 url: /vichy/lelan-creatif/
-shop: Basteln
+shop: artisanat
 ---

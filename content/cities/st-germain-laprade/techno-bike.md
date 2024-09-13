@@ -1,5 +1,5 @@
 ---
 title: "Techno bike"
 url: /st-germain-laprade/techno-bike/
-shop: Sport
+shop: sports
 ---

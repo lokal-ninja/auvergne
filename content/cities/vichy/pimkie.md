@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /vichy/pimkie/
-shop: Kleidung
+shop: vêtements
 ---

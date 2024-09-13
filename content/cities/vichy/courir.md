@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /vichy/courir/
-shop: Schuhe
+shop: chaussures
 ---

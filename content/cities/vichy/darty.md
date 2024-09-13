@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /vichy/darty/
-shop: Elektronik
+shop: électronique
 ---

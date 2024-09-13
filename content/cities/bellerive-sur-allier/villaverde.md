@@ -1,5 +1,5 @@
 ---
 title: "Villaverde"
 url: /bellerive-sur-allier/villaverde/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /le-puy-en-velay/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

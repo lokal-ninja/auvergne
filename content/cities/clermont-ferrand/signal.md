@@ -1,5 +1,5 @@
 ---
 title: "Signal"
 url: /clermont-ferrand/signal/
-shop: Zeitungen
+shop: marchand de journaux
 ---

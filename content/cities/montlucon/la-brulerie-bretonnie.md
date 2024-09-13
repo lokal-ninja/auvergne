@@ -1,5 +1,5 @@
 ---
 title: "La brûlerie Bretonnie"
 url: /montlucon/la-brulerie-bretonnie/
-shop: Kaffee
+shop: café
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /bellerive-sur-allier/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

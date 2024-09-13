@@ -1,5 +1,5 @@
 ---
 title: "Market"
 url: /cosne-dallier/market/
-shop: Gasflaschen
+shop: gaz
 ---

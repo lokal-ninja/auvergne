@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /vichy/swarovski/
-shop: Schmuck
+shop: bijoux
 ---

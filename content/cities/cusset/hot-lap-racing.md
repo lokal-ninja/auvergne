@@ -1,5 +1,5 @@
 ---
 title: "Hot Lap Racing"
 url: /cusset/hot-lap-racing/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

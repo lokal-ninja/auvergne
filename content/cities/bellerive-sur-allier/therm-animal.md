@@ -1,5 +1,5 @@
 ---
 title: "Therm Animal"
 url: /bellerive-sur-allier/therm-animal/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

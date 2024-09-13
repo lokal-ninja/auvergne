@@ -1,5 +1,5 @@
 ---
 title: "Glg Tout A Prix Discount"
 url: /issoire/glg-tout-a-prix-discount/
-shop: Dorfladen
+shop: magasin de campagne
 ---

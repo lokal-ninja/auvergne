@@ -1,5 +1,5 @@
 ---
 title: "HyperBuro"
 url: /aubiere/hyperburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

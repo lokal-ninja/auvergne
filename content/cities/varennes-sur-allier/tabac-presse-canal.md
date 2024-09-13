@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Canal"
 url: /varennes-sur-allier/tabac-presse-canal/
-shop: Zeitungen
+shop: marchand de journaux
 ---

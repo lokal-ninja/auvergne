@@ -1,5 +1,5 @@
 ---
 title: "Au Bain Canin"
 url: /vichy/au-bain-canin/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

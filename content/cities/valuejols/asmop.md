@@ -1,5 +1,5 @@
 ---
 title: "ASMOP"
 url: /valuejols/asmop/
-shop: Allgemein
+shop: shop
 ---

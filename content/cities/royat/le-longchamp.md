@@ -1,5 +1,5 @@
 ---
 title: "Le Longchamp"
 url: /royat/le-longchamp/
-shop: Zeitungen
+shop: marchand de journaux
 ---

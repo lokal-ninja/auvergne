@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /avermes/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

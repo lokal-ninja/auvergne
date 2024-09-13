@@ -1,5 +1,5 @@
 ---
 title: "Solderie Ivoire"
 url: /vichy/solderie-ivoire/
-shop: Schuhe
+shop: chaussures
 ---

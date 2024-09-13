@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /brioude/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saint-Maclou"
 url: /bellerive-sur-allier/saint-maclou/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

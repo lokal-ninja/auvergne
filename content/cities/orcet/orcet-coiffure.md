@@ -1,5 +1,5 @@
 ---
 title: "Orcet Coiffure"
 url: /orcet/orcet-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

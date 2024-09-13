@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /la-chaise-dieu/boutique/
-shop: Lebensmittel
+shop: commodité
 ---

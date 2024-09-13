@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /charmeil/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

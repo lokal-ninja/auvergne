@@ -1,5 +1,5 @@
 ---
 title: "FDMB"
 url: /vichy/fdmb/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

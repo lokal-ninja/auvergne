@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /toulon-sur-allier/brico-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /mozac/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

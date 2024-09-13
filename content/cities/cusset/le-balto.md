@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /cusset/le-balto/
-shop: Zeitungen
+shop: marchand de journaux
 ---

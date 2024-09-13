@@ -1,5 +1,5 @@
 ---
 title: "Optique Derboux-Dupré"
 url: /cusset/optique-derboux-dupre/
-shop: Optiker
+shop: opticien
 ---

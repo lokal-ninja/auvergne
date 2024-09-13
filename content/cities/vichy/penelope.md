@@ -1,5 +1,5 @@
 ---
 title: "Pénélope"
 url: /vichy/penelope/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gifi"
 url: /charmeil/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

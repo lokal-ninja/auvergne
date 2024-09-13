@@ -1,5 +1,5 @@
 ---
 title: "Instant Naturel"
 url: /vichy/instant-naturel/
-shop: Friseur
+shop: coiffeur
 ---

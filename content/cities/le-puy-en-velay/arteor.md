@@ -1,5 +1,5 @@
 ---
 title: "Arteor"
 url: /le-puy-en-velay/arteor/
-shop: Schmuck
+shop: bijoux
 ---

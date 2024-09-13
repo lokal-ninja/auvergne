@@ -1,5 +1,5 @@
 ---
 title: "Maille Shop"
 url: /vichy/maille-shop/
-shop: Allgemein
+shop: laine
 ---

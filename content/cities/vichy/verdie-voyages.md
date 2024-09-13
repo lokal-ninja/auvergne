@@ -1,5 +1,5 @@
 ---
 title: "Verdié Voyages"
 url: /vichy/verdie-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

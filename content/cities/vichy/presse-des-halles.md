@@ -1,5 +1,5 @@
 ---
 title: "Presse des Halles"
 url: /vichy/presse-des-halles/
-shop: Zeitungen
+shop: marchand de journaux
 ---

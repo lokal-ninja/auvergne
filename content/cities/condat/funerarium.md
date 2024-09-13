@@ -1,5 +1,5 @@
 ---
 title: "Funérarium"
 url: /condat/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

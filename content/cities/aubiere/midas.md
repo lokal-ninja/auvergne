@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /aubiere/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

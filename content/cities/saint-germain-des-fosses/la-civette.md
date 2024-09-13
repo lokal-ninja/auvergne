@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /saint-germain-des-fosses/la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

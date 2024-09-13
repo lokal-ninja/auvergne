@@ -1,5 +1,5 @@
 ---
 title: "ADV CROSSROAD"
 url: /brives-charensac/adv-crossroad/
-shop: Baumarkt
+shop: à faire soi-même
 ---

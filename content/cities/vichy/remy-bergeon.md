@@ -1,5 +1,5 @@
 ---
 title: "Rémy Bergeon"
 url: /vichy/remy-bergeon/
-shop: Schmuck
+shop: bijoux
 ---

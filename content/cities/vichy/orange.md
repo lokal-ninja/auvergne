@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /vichy/orange/
-shop: Handy
+shop: téléphone portable
 ---

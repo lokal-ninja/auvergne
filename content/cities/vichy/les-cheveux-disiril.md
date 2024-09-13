@@ -1,5 +1,5 @@
 ---
 title: "Les Cheveux d'Isiril"
 url: /vichy/les-cheveux-disiril/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belin Claire"
 url: /beaulon/belin-claire/
-shop: Zeitungen
+shop: marchand de journaux
 ---

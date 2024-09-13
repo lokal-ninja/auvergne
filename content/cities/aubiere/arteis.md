@@ -1,5 +1,5 @@
 ---
 title: "Artéïs"
 url: /aubiere/arteis/
-shop: Kunst
+shop: art
 ---

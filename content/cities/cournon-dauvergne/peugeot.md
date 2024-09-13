@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /cournon-dauvergne/peugeot/
-shop: Autohaus
+shop: voiture
 ---

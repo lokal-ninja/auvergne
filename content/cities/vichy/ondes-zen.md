@@ -1,5 +1,5 @@
 ---
 title: "Ondes Zen"
 url: /vichy/ondes-zen/
-shop: Kosmetik
+shop: beauté
 ---

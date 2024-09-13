@@ -1,5 +1,5 @@
 ---
 title: "Accesspneus"
 url: /vichy/accesspneus/
-shop: Reifen
+shop: pneus
 ---

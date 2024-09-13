@@ -1,5 +1,5 @@
 ---
 title: "Exoticca"
 url: /cusset/exoticca/
-shop: Feinkost
+shop: charcuterie
 ---

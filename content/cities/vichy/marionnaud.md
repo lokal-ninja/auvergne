@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /vichy/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

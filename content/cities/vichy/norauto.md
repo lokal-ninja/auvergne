@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /vichy/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

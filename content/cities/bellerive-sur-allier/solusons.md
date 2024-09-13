@@ -1,5 +1,5 @@
 ---
 title: "SoluSons"
 url: /bellerive-sur-allier/solusons/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

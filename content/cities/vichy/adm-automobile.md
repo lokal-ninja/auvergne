@@ -1,5 +1,5 @@
 ---
 title: "ADM Automobile"
 url: /vichy/adm-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

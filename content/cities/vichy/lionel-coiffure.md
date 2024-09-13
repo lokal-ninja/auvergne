@@ -1,5 +1,5 @@
 ---
 title: "Lionel Coiffure"
 url: /vichy/lionel-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

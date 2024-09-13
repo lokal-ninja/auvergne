@@ -1,5 +1,5 @@
 ---
 title: "Darling"
 url: /vichy/darling/
-shop: Kleidung
+shop: vêtements
 ---

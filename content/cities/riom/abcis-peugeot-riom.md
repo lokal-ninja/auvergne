@@ -1,5 +1,5 @@
 ---
 title: "ABCIS Peugeot Riom"
 url: /riom/abcis-peugeot-riom/
-shop: Autohaus
+shop: voiture
 ---

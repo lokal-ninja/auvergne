@@ -1,5 +1,5 @@
 ---
 title: "Lamy"
 url: /montlucon/lamy/
-shop: Schmuck
+shop: bijoux
 ---

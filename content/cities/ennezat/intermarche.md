@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /ennezat/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

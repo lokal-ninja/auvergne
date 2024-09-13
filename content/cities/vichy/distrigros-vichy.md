@@ -1,5 +1,5 @@
 ---
 title: "Distrigros Vichy"
 url: /vichy/distrigros-vichy/
-shop: Dorfladen
+shop: magasin de campagne
 ---

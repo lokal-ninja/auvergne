@@ -1,5 +1,5 @@
 ---
 title: "Liberty Auto"
 url: /aubiere/liberty-auto/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Godart Frank"
 url: /diou/godart-frank/
-shop: Zeitungen
+shop: marchand de journaux
 ---

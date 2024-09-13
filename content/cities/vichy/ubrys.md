@@ -1,5 +1,5 @@
 ---
 title: "Ubrys"
 url: /vichy/ubrys/
-shop: Schmuck
+shop: bijoux
 ---

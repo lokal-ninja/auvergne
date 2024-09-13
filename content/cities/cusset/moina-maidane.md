@@ -1,5 +1,5 @@
 ---
 title: "Moina Maidane"
 url: /cusset/moina-maidane/
-shop: Allgemein
+shop: shop
 ---

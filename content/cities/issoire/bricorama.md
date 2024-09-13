@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /issoire/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

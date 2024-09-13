@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial Intermarché La Rotonde"
 url: /ceyrat/centre-commercial-intermarche-la-rotonde/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

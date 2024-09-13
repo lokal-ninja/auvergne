@@ -1,5 +1,5 @@
 ---
 title: "BrocCafé"
 url: /billom/broccafe/
-shop: Antiquitäten
+shop: antiquités
 ---

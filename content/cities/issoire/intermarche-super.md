@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /issoire/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

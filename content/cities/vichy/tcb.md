@@ -1,5 +1,5 @@
 ---
 title: "TCB"
 url: /vichy/tcb/
-shop: Friseur
+shop: coiffeur
 ---

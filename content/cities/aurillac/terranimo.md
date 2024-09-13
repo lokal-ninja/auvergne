@@ -1,5 +1,5 @@
 ---
 title: "Terranimo"
 url: /aurillac/terranimo/
-shop: Tiere
+shop: animal de compagnie
 ---

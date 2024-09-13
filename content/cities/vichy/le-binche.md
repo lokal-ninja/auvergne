@@ -1,5 +1,5 @@
 ---
 title: "Le Binche"
 url: /vichy/le-binche/
-shop: Getränke
+shop: boissons
 ---

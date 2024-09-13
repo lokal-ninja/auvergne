@@ -1,5 +1,5 @@
 ---
 title: "Wash'n Press"
 url: /vichy/washn-press/
-shop: Wäscherei
+shop: blanchisserie
 ---

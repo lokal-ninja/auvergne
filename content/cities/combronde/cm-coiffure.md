@@ -1,5 +1,5 @@
 ---
 title: "CM Coiffure"
 url: /combronde/cm-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

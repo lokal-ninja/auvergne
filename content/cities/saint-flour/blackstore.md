@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /saint-flour/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

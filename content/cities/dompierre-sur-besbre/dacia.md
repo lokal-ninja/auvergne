@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /dompierre-sur-besbre/dacia/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

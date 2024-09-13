@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /montlucon/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

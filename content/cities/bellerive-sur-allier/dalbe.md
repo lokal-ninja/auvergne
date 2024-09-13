@@ -1,5 +1,5 @@
 ---
 title: "Dalbe"
 url: /bellerive-sur-allier/dalbe/
-shop: Kramladen
+shop: magasin de variétés
 ---

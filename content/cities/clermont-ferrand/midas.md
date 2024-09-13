@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /clermont-ferrand/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

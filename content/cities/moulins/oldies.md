@@ -1,5 +1,5 @@
 ---
 title: "Oldies"
 url: /moulins/oldies/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nouvelles Vies"
 url: /le-puy-en-velay/nouvelles-vies/
-shop: Kleidung
+shop: vêtements
 ---

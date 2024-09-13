@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /vichy/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

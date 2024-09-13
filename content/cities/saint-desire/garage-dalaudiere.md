@@ -1,5 +1,5 @@
 ---
 title: "Garage Dalaudière"
 url: /saint-desire/garage-dalaudiere/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

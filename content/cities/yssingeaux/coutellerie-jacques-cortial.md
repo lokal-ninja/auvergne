@@ -1,5 +1,5 @@
 ---
 title: "Coutellerie Jacques Cortial"
 url: /yssingeaux/coutellerie-jacques-cortial/
-shop: Angeln
+shop: pêche
 ---

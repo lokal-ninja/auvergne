@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /le-puy-en-velay/le-balto/
-shop: Tabak
+shop: tabac
 ---

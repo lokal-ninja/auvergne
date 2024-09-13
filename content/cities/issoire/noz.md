@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /issoire/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

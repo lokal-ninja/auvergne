@@ -1,5 +1,5 @@
 ---
 title: "Entrée Libre"
 url: /issoire/entree-libre/
-shop: Kleidung
+shop: vêtements
 ---

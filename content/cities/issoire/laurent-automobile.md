@@ -1,5 +1,5 @@
 ---
 title: "Laurent automobile"
 url: /issoire/laurent-automobile/
-shop: Autoteile
+shop: pièces de voitures
 ---

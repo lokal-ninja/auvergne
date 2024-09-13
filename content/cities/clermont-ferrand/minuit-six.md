@@ -1,5 +1,5 @@
 ---
 title: "Minuit Six"
 url: /clermont-ferrand/minuit-six/
-shop: Kleidung
+shop: vêtements
 ---

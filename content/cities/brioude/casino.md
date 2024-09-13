@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /brioude/casino/
-shop: Supermarkt
+shop: supermarché
 ---

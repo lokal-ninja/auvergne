@@ -1,5 +1,5 @@
 ---
 title: "CBD'eau"
 url: /vichy/cbdeau/
-shop: Hanf
+shop: cannabis
 ---

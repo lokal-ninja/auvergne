@@ -1,5 +1,5 @@
 ---
 title: "Chez Ode"
 url: /vichy/chez-ode/
-shop: Kleidung
+shop: vêtements
 ---

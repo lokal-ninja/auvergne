@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /vichy/thiriet/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

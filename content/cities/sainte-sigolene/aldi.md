@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sainte-sigolene/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

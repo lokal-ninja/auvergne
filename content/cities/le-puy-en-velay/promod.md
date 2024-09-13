@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /le-puy-en-velay/promod/
-shop: Kleidung
+shop: vêtements
 ---

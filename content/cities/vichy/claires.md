@@ -1,5 +1,5 @@
 ---
-title: "Claire's"
+title: "claire's"
 url: /vichy/claires/
-shop: Modehaus
+shop: boutique
 ---

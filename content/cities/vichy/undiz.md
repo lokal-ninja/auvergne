@@ -1,5 +1,5 @@
 ---
 title: "Undiz"
 url: /vichy/undiz/
-shop: Kleidung
+shop: vêtements
 ---

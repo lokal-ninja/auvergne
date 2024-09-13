@@ -1,5 +1,5 @@
 ---
 title: "Atmosphères"
 url: /vichy/atmospheres/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

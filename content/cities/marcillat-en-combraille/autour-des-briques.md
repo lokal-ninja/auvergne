@@ -1,5 +1,5 @@
 ---
 title: "Autour des Briques"
 url: /marcillat-en-combraille/autour-des-briques/
-shop: Spielzeug
+shop: jouets
 ---

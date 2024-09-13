@@ -1,5 +1,5 @@
 ---
 title: "Le Shop Moto"
 url: /vichy/le-shop-moto/
-shop: Motorrad
+shop: moto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /vichy/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

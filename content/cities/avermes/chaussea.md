@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /avermes/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

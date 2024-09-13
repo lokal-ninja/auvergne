@@ -1,5 +1,5 @@
 ---
 title: "Terrenoire Laëtitia"
 url: /jaligny-sur-besbre/terrenoire-laetitia/
-shop: Tabak
+shop: tabac
 ---

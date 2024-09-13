@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /issoire/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

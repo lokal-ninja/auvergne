@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Joseph"
 url: /vichy/marbrerie-joseph/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

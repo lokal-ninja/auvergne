@@ -1,5 +1,5 @@
 ---
 title: "Rouchy"
 url: /cusset/rouchy/
-shop: Fußböden
+shop: revêtement de sol
 ---

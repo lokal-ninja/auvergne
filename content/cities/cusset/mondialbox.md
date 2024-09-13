@@ -1,5 +1,5 @@
 ---
 title: "MondialBox"
 url: /cusset/mondialbox/
-shop: Mieten
+shop: location de stockage
 ---

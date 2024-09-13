@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /montlucon/decathlon/
-shop: Sport
+shop: sports
 ---

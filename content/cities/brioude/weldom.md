@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /brioude/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

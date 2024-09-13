@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /cournon-dauvergne/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

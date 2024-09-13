@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /billom/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

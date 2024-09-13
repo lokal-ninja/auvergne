@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /saugues/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

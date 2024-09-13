@@ -1,5 +1,5 @@
 ---
 title: "MIC (signaloc)"
 url: /cournon-dauvergne/mic-signaloc/
-shop: Allgemein
+shop: shop
 ---

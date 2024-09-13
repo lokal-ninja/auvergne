@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar Garage Desbouis"
 url: /treteau/eurorepar-garage-desbouis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

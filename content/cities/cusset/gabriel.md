@@ -1,5 +1,5 @@
 ---
 title: "Gabriel"
 url: /cusset/gabriel/
-shop: Baustoffe
+shop: commerce
 ---

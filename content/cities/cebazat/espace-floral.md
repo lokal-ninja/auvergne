@@ -1,5 +1,5 @@
 ---
 title: "Espace Floral"
 url: /cebazat/espace-floral/
-shop: Blumen
+shop: fleuriste
 ---

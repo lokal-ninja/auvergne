@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /vichy/celio/
-shop: Kleidung
+shop: vêtements
 ---

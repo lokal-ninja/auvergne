@@ -1,5 +1,5 @@
 ---
 title: "Jaïpur"
 url: /vichy/jaipur/
-shop: Friseur
+shop: coiffeur
 ---

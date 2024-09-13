@@ -1,5 +1,5 @@
 ---
 title: "L'Alinéa"
 url: /brioude/lalinea/
-shop: Bücher
+shop: livres
 ---

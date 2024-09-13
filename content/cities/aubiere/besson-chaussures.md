@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /aubiere/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Domaine de Limagne"
 url: /vichy/le-domaine-de-limagne/
-shop: Lebensmittel
+shop: commodité
 ---

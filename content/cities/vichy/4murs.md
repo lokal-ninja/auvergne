@@ -1,5 +1,5 @@
 ---
 title: "4murs"
 url: /vichy/4murs/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

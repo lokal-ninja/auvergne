@@ -1,5 +1,5 @@
 ---
 title: "l'ilot fleurs"
 url: /aubiere/lilot-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duvillard"
 url: /langeac/duvillard/
-shop: Metzgerei
+shop: boucherie
 ---

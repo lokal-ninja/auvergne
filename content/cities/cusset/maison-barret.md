@@ -1,5 +1,5 @@
 ---
 title: "Maison Barret"
 url: /cusset/maison-barret/
-shop: Bäckerei
+shop: boulangerie
 ---

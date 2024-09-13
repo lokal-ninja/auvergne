@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /aurillac/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

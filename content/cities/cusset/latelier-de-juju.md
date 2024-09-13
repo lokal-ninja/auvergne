@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Juju"
 url: /cusset/latelier-de-juju/
-shop: Friseur
+shop: coiffeur
 ---

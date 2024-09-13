@@ -1,5 +1,5 @@
 ---
 title: "High Society"
 url: /vichy/high-society/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biscuiterie Artisanale"
 url: /trizac/biscuiterie-artisanale/
-shop: Süßwaren
+shop: confiserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "À la Page"
 url: /vichy/a-la-page/
-shop: Bücher
+shop: livres
 ---

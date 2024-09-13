@@ -1,5 +1,5 @@
 ---
 title: "Côté Sucré"
 url: /vichy/cote-sucre/
-shop: Süßwaren
+shop: confiserie
 ---

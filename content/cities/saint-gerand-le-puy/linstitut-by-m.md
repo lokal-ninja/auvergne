@@ -1,5 +1,5 @@
 ---
 title: "L'Institut by M"
 url: /saint-gerand-le-puy/linstitut-by-m/
-shop: Kosmetik
+shop: beauté
 ---

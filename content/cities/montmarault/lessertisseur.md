@@ -1,5 +1,5 @@
 ---
 title: "Lessertisseur"
 url: /montmarault/lessertisseur/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

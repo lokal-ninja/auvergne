@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /abrest/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /creuzier-le-vieux/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

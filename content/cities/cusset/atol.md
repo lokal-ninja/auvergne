@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /cusset/atol/
-shop: Optiker
+shop: opticien
 ---

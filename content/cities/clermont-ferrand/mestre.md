@@ -1,5 +1,5 @@
 ---
 title: "Mestre"
 url: /clermont-ferrand/mestre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

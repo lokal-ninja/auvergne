@@ -1,5 +1,5 @@
 ---
 title: "Escapades"
 url: /vichy/escapades/
-shop: Reisebüro
+shop: agence de voyage
 ---

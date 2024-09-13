@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /combronde/bliss/
-shop: Friseur
+shop: coiffeur
 ---

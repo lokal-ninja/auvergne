@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /cusset/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

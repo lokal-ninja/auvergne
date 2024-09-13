@@ -1,5 +1,5 @@
 ---
 title: "F. Carrier"
 url: /le-mayet-de-montagne/f-carrier/
-shop: Konditorei
+shop: pâtisserie
 ---

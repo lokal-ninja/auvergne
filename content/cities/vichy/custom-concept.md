@@ -1,5 +1,5 @@
 ---
 title: "Custom Concept"
 url: /vichy/custom-concept/
-shop: Piercing
+shop: piercing
 ---

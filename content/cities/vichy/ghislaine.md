@@ -1,5 +1,5 @@
 ---
 title: "Ghislaine"
 url: /vichy/ghislaine/
-shop: Kosmetik
+shop: beauté
 ---

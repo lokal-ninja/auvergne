@@ -1,5 +1,5 @@
 ---
 title: "Laviel Confiserie Thermale"
 url: /cusset/laviel-confiserie-thermale/
-shop: Süßwaren
+shop: confiserie
 ---

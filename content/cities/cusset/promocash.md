@@ -1,5 +1,5 @@
 ---
 title: "Promocash"
 url: /cusset/promocash/
-shop: Großhandel
+shop: vente en gros
 ---

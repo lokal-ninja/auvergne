@@ -1,5 +1,5 @@
 ---
 title: "Atoustyl"
 url: /bellerive-sur-allier/atoustyl/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Baudin"
 url: /vichy/garage-baudin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

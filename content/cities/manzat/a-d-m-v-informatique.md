@@ -1,5 +1,5 @@
 ---
 title: "A.D.M.V Informatique"
 url: /manzat/a-d-m-v-informatique/
-shop: Computer
+shop: ordinateur
 ---

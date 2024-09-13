@@ -1,5 +1,5 @@
 ---
 title: "Flauraud"
 url: /aurillac/flauraud/
-shop: Autoteile
+shop: pièces de voitures
 ---

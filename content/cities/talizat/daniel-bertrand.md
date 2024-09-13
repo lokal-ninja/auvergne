@@ -1,5 +1,5 @@
 ---
 title: "Daniel Bertrand"
 url: /talizat/daniel-bertrand/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /courpiere/interflora/
-shop: Blumen
+shop: fleuriste
 ---

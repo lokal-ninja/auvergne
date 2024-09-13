@@ -1,5 +1,5 @@
 ---
 title: "La Maison des Obsèques - Établissements Boussel"
 url: /vichy/la-maison-des-obseques-etablissements-boussel/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

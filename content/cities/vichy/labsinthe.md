@@ -1,5 +1,5 @@
 ---
 title: "L'Absinthe"
 url: /vichy/labsinthe/
-shop: Kiosk
+shop: kiosque
 ---

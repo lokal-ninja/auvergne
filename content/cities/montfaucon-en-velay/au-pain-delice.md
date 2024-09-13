@@ -1,5 +1,5 @@
 ---
 title: "Au Pain Délice"
 url: /montfaucon-en-velay/au-pain-delice/
-shop: Bäckerei
+shop: boulangerie
 ---

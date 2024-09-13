@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /riom/darty/
-shop: Elektronik
+shop: électronique
 ---

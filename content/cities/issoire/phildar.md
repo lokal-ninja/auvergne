@@ -1,5 +1,5 @@
 ---
 title: "Phildar"
 url: /issoire/phildar/
-shop: Textil
+shop: tissu
 ---

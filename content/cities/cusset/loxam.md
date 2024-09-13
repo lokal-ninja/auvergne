@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /cusset/loxam/
-shop: Mieten
+shop: location de stockage
 ---

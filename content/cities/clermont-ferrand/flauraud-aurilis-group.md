@@ -1,5 +1,5 @@
 ---
 title: "Flauraud - Aurilis Group"
 url: /clermont-ferrand/flauraud-aurilis-group/
-shop: Baustoffe
+shop: commerce
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pneus Express"
 url: /abrest/pneus-express/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

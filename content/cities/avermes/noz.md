@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /avermes/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

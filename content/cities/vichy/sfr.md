@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /vichy/sfr/
-shop: Handy
+shop: téléphone portable
 ---

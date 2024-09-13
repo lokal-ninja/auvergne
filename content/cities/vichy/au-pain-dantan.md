@@ -1,5 +1,5 @@
 ---
 title: "Au Pain d'Antan"
 url: /vichy/au-pain-dantan/
-shop: Bäckerei
+shop: boulangerie
 ---

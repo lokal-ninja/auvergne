@@ -1,5 +1,5 @@
 ---
 title: "Capucine"
 url: /cusset/capucine/
-shop: Andenken
+shop: cadeau
 ---

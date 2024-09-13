@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /aubiere/atol/
-shop: Optiker
+shop: opticien
 ---

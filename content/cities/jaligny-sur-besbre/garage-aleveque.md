@@ -1,5 +1,5 @@
 ---
 title: "Garage Alevêque"
 url: /jaligny-sur-besbre/garage-aleveque/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

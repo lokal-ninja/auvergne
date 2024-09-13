@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /clermont-ferrand/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

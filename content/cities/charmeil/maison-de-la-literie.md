@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Literie"
 url: /charmeil/maison-de-la-literie/
-shop: Betten
+shop: lit
 ---

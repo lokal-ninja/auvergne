@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /gerzat/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

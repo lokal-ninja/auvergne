@@ -1,5 +1,5 @@
 ---
 title: "Salon Agnès"
 url: /saint-remy-en-rollat/salon-agnes/
-shop: Friseur
+shop: coiffeur
 ---

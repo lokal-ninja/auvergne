@@ -1,5 +1,5 @@
 ---
 title: "Artéïs"
 url: /menetrol/arteis/
-shop: Allgemein
+shop: shop
 ---

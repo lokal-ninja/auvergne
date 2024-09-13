@@ -1,5 +1,5 @@
 ---
 title: "Wonder Caker"
 url: /cournon-dauvergne/wonder-caker/
-shop: Konditorei
+shop: pâtisserie
 ---

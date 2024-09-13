@@ -1,5 +1,5 @@
 ---
 title: "Lord John"
 url: /vichy/lord-john/
-shop: Kleidung
+shop: vêtements
 ---

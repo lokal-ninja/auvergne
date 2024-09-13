@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /aubiere/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

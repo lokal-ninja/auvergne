@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /vichy/parfois/
-shop: Modehaus
+shop: boutique
 ---

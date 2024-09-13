@@ -1,5 +1,5 @@
 ---
 title: "Francky Poissonerie"
 url: /chateldon/francky-poissonerie/
-shop: Fisch
+shop: fruits de mer
 ---

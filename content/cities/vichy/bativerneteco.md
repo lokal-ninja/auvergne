@@ -1,5 +1,5 @@
 ---
 title: "BatiVernetEco"
 url: /vichy/bativerneteco/
-shop: Baustoffe
+shop: commerce
 ---

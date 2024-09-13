@@ -1,5 +1,5 @@
 ---
 title: "Labouesse"
 url: /cusset/labouesse/
-shop: Eisenwaren
+shop: matériel informatique
 ---

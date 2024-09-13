@@ -1,5 +1,5 @@
 ---
 title: "L'atelier"
 url: /moulins/latelier/
-shop: Schmuck
+shop: bijoux
 ---

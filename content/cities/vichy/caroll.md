@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /vichy/caroll/
-shop: Kleidung
+shop: vêtements
 ---

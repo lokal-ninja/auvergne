@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Créateur Pierre Emmanuel"
 url: /vichy/coiffeur-createur-pierre-emmanuel/
-shop: Friseur
+shop: coiffeur
 ---

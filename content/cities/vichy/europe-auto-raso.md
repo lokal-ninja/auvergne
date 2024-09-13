@@ -1,5 +1,5 @@
 ---
 title: "Europe Auto Raso"
 url: /vichy/europe-auto-raso/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

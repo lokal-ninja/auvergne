@@ -1,5 +1,5 @@
 ---
 title: "Elise Renault"
 url: /vichy/elise-renault/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glisshop"
 url: /aubiere/glisshop/
-shop: Sport
+shop: sports
 ---

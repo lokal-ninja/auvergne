@@ -1,5 +1,5 @@
 ---
 title: "Diminu'Tiff"
 url: /saint-germain-des-fosses/diminutiff/
-shop: Friseur
+shop: coiffeur
 ---

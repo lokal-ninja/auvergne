@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /cusset/grandoptical/
-shop: Optiker
+shop: opticien
 ---

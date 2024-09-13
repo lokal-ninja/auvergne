@@ -1,5 +1,5 @@
 ---
 title: "Garage David Lyonnet"
 url: /vergongheon/garage-david-lyonnet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

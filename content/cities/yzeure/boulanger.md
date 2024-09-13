@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /yzeure/boulanger/
-shop: Elektronik
+shop: électronique
 ---

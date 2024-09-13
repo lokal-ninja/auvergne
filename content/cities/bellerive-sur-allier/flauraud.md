@@ -1,5 +1,5 @@
 ---
 title: "Flauraud"
 url: /bellerive-sur-allier/flauraud/
-shop: Autoteile
+shop: pièces de voitures
 ---

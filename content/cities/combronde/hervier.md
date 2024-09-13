@@ -1,5 +1,5 @@
 ---
 title: "Hervier"
 url: /combronde/hervier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

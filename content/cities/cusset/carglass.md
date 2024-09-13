@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /cusset/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

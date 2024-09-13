@@ -1,5 +1,5 @@
 ---
 title: "Floralies Folie's"
 url: /issoire/floralies-folies/
-shop: Blumen
+shop: fleuriste
 ---

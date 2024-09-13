@@ -1,5 +1,5 @@
 ---
 title: "Panier Sympa"
 url: /abrest/panier-sympa/
-shop: Lebensmittel
+shop: commodité
 ---

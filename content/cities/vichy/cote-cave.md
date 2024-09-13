@@ -1,5 +1,5 @@
 ---
 title: "Côté Cave"
 url: /vichy/cote-cave/
-shop: Wein
+shop: vin
 ---

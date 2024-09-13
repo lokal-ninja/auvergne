@@ -1,5 +1,5 @@
 ---
 title: "L'Auvergne Boulangerie Brasserie"
 url: /cusset/lauvergne-boulangerie-brasserie/
-shop: Bäckerei
+shop: boulangerie
 ---

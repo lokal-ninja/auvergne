@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /cusset/pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

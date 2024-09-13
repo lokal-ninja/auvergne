@@ -1,5 +1,5 @@
 ---
 title: "Yawatah"
 url: /vichy/yawatah/
-shop: Kleidung
+shop: vêtements
 ---

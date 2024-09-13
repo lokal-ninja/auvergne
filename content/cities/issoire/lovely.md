@@ -1,5 +1,5 @@
 ---
 title: "Lovely"
 url: /issoire/lovely/
-shop: Kleidung
+shop: vêtements
 ---

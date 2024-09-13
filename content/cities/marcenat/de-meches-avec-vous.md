@@ -1,5 +1,5 @@
 ---
 title: "De Mèches Avec Vous"
 url: /marcenat/de-meches-avec-vous/
-shop: Friseur
+shop: coiffeur
 ---

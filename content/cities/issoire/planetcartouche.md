@@ -1,5 +1,5 @@
 ---
 title: "Planet'cartouche"
 url: /issoire/planetcartouche/
-shop: Kopieren
+shop: copyshop
 ---

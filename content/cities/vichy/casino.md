@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /vichy/casino/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maisons du Monde"
 url: /vichy/maisons-du-monde/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

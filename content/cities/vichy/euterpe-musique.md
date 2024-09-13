@@ -1,5 +1,5 @@
 ---
 title: "Euterpe Musique"
 url: /vichy/euterpe-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

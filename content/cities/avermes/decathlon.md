@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /avermes/decathlon/
-shop: Sport
+shop: sports
 ---

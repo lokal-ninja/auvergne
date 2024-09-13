@@ -1,5 +1,5 @@
 ---
 title: "Primeur de l'Amirauté"
 url: /vichy/primeur-de-lamiraute/
-shop: Gemüse & Obst
+shop: légumes
 ---

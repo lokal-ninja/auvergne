@@ -1,5 +1,5 @@
 ---
 title: "Galerie L'Empreinte"
 url: /vichy/galerie-lempreinte/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plus"
 url: /vichy/plus/
-shop: Kleidung
+shop: vêtements
 ---

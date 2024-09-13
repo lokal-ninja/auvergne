@@ -1,5 +1,5 @@
 ---
 title: "Avatacar"
 url: /le-donjon/avatacar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

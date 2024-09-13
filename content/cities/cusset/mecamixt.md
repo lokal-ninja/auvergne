@@ -1,5 +1,5 @@
 ---
 title: "Mécamixt"
 url: /cusset/mecamixt/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

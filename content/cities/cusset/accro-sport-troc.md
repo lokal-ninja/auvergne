@@ -1,5 +1,5 @@
 ---
 title: "Accro Sport Troc"
 url: /cusset/accro-sport-troc/
-shop: Sport
+shop: sports
 ---

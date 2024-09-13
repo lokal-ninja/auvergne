@@ -1,5 +1,5 @@
 ---
 title: "ReStore"
 url: /vichy/restore/
-shop: Handy
+shop: téléphone portable
 ---

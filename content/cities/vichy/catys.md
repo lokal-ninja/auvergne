@@ -1,5 +1,5 @@
 ---
 title: "Catys"
 url: /vichy/catys/
-shop: Kleidung
+shop: vêtements
 ---

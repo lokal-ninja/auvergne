@@ -1,5 +1,5 @@
 ---
 title: "Orthopédie"
 url: /cusset/orthopedie/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'épis Bourbonnais"
 url: /yzeure/lepis-bourbonnais/
-shop: Bäckerei
+shop: boulangerie
 ---

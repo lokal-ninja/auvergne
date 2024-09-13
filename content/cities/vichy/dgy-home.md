@@ -1,5 +1,5 @@
 ---
 title: "DGY Home"
 url: /vichy/dgy-home/
-shop: Allgemein
+shop: shop
 ---

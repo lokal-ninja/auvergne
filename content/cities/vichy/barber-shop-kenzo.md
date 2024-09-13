@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop Kenzo"
 url: /vichy/barber-shop-kenzo/
-shop: Friseur
+shop: coiffeur
 ---

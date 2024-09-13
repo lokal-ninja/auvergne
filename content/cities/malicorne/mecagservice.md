@@ -1,5 +1,5 @@
 ---
 title: "Mécagservice"
 url: /malicorne/mecagservice/
-shop: Autoteile
+shop: pièces de voitures
 ---

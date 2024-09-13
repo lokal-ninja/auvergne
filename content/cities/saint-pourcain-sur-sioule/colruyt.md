@@ -1,5 +1,5 @@
 ---
 title: "Colruyt"
 url: /saint-pourcain-sur-sioule/colruyt/
-shop: Supermarkt
+shop: supermarché
 ---

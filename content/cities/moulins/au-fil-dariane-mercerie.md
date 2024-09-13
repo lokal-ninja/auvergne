@@ -1,5 +1,5 @@
 ---
 title: "Au FIl d'Ariane - Mercerie"
 url: /moulins/au-fil-dariane-mercerie/
-shop: Basteln
+shop: artisanat
 ---

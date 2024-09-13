@@ -1,5 +1,5 @@
 ---
 title: "Marina Coiffure"
 url: /ruynes-en-margeride/marina-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

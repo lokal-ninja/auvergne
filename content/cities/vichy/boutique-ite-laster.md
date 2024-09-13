@@ -1,5 +1,5 @@
 ---
 title: "Boutique Ité Laster"
 url: /vichy/boutique-ite-laster/
-shop: Antiquitäten
+shop: antiquités
 ---

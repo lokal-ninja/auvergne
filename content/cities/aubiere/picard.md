@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /aubiere/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

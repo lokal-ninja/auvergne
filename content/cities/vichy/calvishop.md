@@ -1,5 +1,5 @@
 ---
 title: "CalviShop"
 url: /vichy/calvishop/
-shop: Videospiele
+shop: jeux vidéo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /le-mayet-de-montagne/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

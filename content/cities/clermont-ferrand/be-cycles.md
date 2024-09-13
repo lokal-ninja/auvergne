@@ -1,5 +1,5 @@
 ---
 title: "Be Cycles"
 url: /clermont-ferrand/be-cycles/
-shop: Fahrrad
+shop: vélo
 ---

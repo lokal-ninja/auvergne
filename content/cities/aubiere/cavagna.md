@@ -1,5 +1,5 @@
 ---
 title: "Cavagna"
 url: /aubiere/cavagna/
-shop: Möbel
+shop: meubles
 ---

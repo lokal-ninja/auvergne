@@ -1,5 +1,5 @@
 ---
 title: "Welcom'"
 url: /vichy/welcom/
-shop: Handy
+shop: téléphone portable
 ---
