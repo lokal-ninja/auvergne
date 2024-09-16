@@ -1,11 +1,11 @@
 id: 133365948
-type: way
+type: node
 latitude: 46.16091
 longitude: 3.41527
 postcode: "03300"
 city: Creuzier-le-Vieux
-street: "Rue de l'Industrie"
-housenumber: 64
-phone: "+33 4 70 98 47 05"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:15"
-website: "https://www.carauto-creuzierlevieux.fr/"
+street: Rue de l'Industrie
+housenumber: "64"
+phone: +33 4 70 98 47 05
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:15
+website: https://www.carauto-creuzierlevieux.fr/

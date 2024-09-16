@@ -1,11 +1,11 @@
 id: 539116863
-type: way
+type: node
 latitude: 45.5156
 longitude: 3.31136
 postcode: "63500"
 city: Saint-Rémy-de-Chargnat
 street: ""
-housenumber: 
-phone: "+33 4 73 55 93 46"
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-13:00"
-website: "https://www.labiscuiterieartisanaledauvergnelatelierauvergnat.com/"
+housenumber: ""
+phone: +33 4 73 55 93 46
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-13:00
+website: https://www.labiscuiterieartisanaledauvergnelatelierauvergnat.com/

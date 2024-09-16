@@ -4,8 +4,8 @@ latitude: 46.12651
 longitude: 3.4258
 postcode: "03200"
 city: Vichy
-street: "Rue de Paris"
-housenumber: 33
-phone: "+33 4 70 98 33 29"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://www.franprix.fr"
+street: Rue de Paris
+housenumber: "33"
+phone: +33 4 70 98 33 29
+opening_hours: Mo-Su 08:30-20:30
+website: https://www.franprix.fr

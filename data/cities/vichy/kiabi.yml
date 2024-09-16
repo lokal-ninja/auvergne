@@ -1,11 +1,11 @@
 id: 90590048
-type: way
+type: node
 latitude: 46.14428
 longitude: 3.41597
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
-phone: "+33 4 70 30 57 30"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Allée des Ailes
+housenumber: ""
+phone: +33 4 70 30 57 30
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.12278
 longitude: 3.42278
 postcode: "03200"
 city: Vichy
-street: "Rue Maréchal Foch"
-housenumber: 26
+street: Rue Maréchal Foch
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 10:30-12:00,14:30-18:00; Sa 10:30-12:00,14:30-19:00"
-website: "https://dar-tetouan.fr/"
+opening_hours: Tu-Fr 10:30-12:00,14:30-18:00; Sa 10:30-12:00,14:30-19:00
+website: https://dar-tetouan.fr/

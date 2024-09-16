@@ -1,11 +1,11 @@
 id: 63475012
-type: way
+type: node
 latitude: 45.73181
 longitude: 3.19222
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue des Dômes"
-housenumber: 5
+street: Avenue des Dômes
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

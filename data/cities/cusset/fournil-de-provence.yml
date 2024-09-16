@@ -1,11 +1,11 @@
 id: 686165285
-type: way
+type: node
 latitude: 46.12771
 longitude: 3.44323
 postcode: "03300"
 city: Cusset
-street: "Rue de Provence"
-housenumber: 28
-phone: "+33 9 82 24 79 72"
+street: Rue de Provence
+housenumber: "28"
+phone: +33 9 82 24 79 72
 opening_hours: ""
 website: ""

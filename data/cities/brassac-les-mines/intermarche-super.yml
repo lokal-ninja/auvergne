@@ -1,11 +1,11 @@
 id: 149371011
-type: way
+type: node
 latitude: 45.41319
 longitude: 3.31869
 postcode: "63570"
 city: Brassac-les-Mines
-street: "Rue des Saraillères"
-housenumber: 2
+street: Rue des Saraillères
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.25771
 longitude: 3.51246
 postcode: "03150"
 city: Saint-Gérand-le-Puy
-street: "Rue de la Couronne"
-housenumber: 3
-phone: "+33 4 70 99 81 37"
-opening_hours: "Tu-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:30-12:30"
+street: Rue de la Couronne
+housenumber: "3"
+phone: +33 4 70 99 81 37
+opening_hours: Tu-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:30-12:30
 website: ""

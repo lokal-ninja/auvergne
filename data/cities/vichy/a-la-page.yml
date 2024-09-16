@@ -4,8 +4,8 @@ latitude: 46.12523
 longitude: 3.42126
 postcode: "03200"
 city: Vichy
-street: "Rue Sornin"
-housenumber: 5
-phone: "+33 4 70 59 13 33"
-opening_hours: "Mo,Su 15:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.librairiealapage.fr/"
+street: Rue Sornin
+housenumber: "5"
+phone: +33 4 70 59 13 33
+opening_hours: Mo,Su 15:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.librairiealapage.fr/

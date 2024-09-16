@@ -1,11 +1,11 @@
 id: 1150361169
-type: way
+type: node
 latitude: 45.74712
 longitude: 3.09303
 postcode: "63110"
 city: Beaumont
-street: "Rue des Frères Lumière"
-housenumber: 
+street: Rue des Frères Lumière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

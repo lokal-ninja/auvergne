@@ -1,11 +1,11 @@
 id: 179599484
-type: way
+type: node
 latitude: 45.58928
 longitude: 3.1209
 postcode: "63320"
 city: Champeix
-street: "Route de Montaigut"
-housenumber: 
+street: Route de Montaigut
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

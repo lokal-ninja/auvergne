@@ -1,11 +1,11 @@
 id: 133381530
-type: way
+type: node
 latitude: 46.11462
 longitude: 3.4124
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue Fernand Auberger"
-housenumber: 7
+street: Avenue Fernand Auberger
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoop-bellerive.fr"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biocoop-bellerive.fr

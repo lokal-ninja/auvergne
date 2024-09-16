@@ -4,8 +4,8 @@ latitude: 46.09747
 longitude: 3.44569
 postcode: "03200"
 city: Abrest
-street: "Avenue de Thiers"
-housenumber: 6
-phone: "+33 4 70 96 25 95"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Avenue de Thiers
+housenumber: "6"
+phone: +33 4 70 96 25 95
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

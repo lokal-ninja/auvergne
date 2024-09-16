@@ -1,11 +1,11 @@
 id: 77803480
-type: way
+type: node
 latitude: 46.33931
 longitude: 2.58484
 postcode: "03100"
 city: Montluçon
-street: "Avenue Jules Guesde"
-housenumber: 63
+street: Avenue Jules Guesde
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.12881
 longitude: 3.41678
 postcode: "03200"
 city: Vichy
-street: "Rue Callou"
-housenumber: 3
+street: Rue Callou
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30; Sa 08:30-17:00; PH off"
+opening_hours: Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30; Sa 08:30-17:00; PH off
 website: ""

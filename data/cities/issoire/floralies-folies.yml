@@ -4,8 +4,8 @@ latitude: 45.5514
 longitude: 3.25809
 postcode: "63500"
 city: Issoire
-street: "Avenue Pierre Mendès-France"
-housenumber: 4
-phone: "+33 4 73 55 79 87"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Avenue Pierre Mendès-France
+housenumber: "4"
+phone: +33 4 73 55 79 87
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

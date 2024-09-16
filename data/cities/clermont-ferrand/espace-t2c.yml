@@ -4,8 +4,8 @@ latitude: 45.78158
 longitude: 3.08877
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Montlosier"
-housenumber: 35
+street: Rue Montlosier
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.t2c.fr"
+website: https://www.t2c.fr

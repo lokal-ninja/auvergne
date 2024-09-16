@@ -4,8 +4,9 @@ latitude: 46.13279
 longitude: 3.45721
 postcode: "03300"
 city: Cusset
-street: "Rue Saturnin Arloing"
-housenumber: 16
-phone: "+33 4 70 99 64 27"
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:30-13:00,14:00-19:00; Fr 09:30-19:00; Sa 10:00-17:00; PH off"
-website: "https://www.anahita-institut.com/"
+street: Rue Saturnin Arloing
+housenumber: "16"
+phone: +33 4 70 99 64 27
+opening_hours: Mo 14:00-19:00; Tu-Th 09:30-13:00,14:00-19:00; Fr 09:30-19:00; Sa 10:00-17:00;
+    PH off
+website: https://www.anahita-institut.com/

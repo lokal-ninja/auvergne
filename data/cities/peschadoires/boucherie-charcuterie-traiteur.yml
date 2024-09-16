@@ -1,11 +1,11 @@
 id: 150327570
-type: way
+type: node
 latitude: 45.83783
 longitude: 3.49874
 postcode: "63920"
 city: Peschadoires
-street: "Route de Courpière"
-housenumber: 
+street: Route de Courpière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 45.64292
 longitude: 3.24374
 postcode: "63270"
 city: Vic-le-Comte
-street: "Boulevard du Jeu de Paume"
-housenumber: 54
+street: Boulevard du Jeu de Paume
+housenumber: "54"
 phone: ""
-opening_hours: "Sa 08:00-12:30,15:00-18:00; Su,PH 08:00-12:00; Tu-Fr 08:00-12:30,15:00-19:00; Mo off"
-website: "https://www.facebook.com/fromagerierougerie/"
+opening_hours: Sa 08:00-12:30,15:00-18:00; Su,PH 08:00-12:00; Tu-Fr 08:00-12:30,15:00-19:00;
+    Mo off
+website: https://www.facebook.com/fromagerierougerie/

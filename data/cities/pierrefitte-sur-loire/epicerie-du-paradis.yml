@@ -4,8 +4,8 @@ latitude: 46.508
 longitude: 3.81453
 postcode: "03470"
 city: Pierrefitte-sur-Loire
-street: "Place du Paradis"
-housenumber: 6
-phone: "+33 4 70 47 01 08"
-opening_hours: "Mo-Sa 08:00-12:30,13:30-18:30; We 08:00-12:30"
+street: Place du Paradis
+housenumber: "6"
+phone: +33 4 70 47 01 08
+opening_hours: Mo-Sa 08:00-12:30,13:30-18:30; We 08:00-12:30
 website: ""

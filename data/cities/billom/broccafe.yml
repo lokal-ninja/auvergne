@@ -4,8 +4,8 @@ latitude: 45.72281
 longitude: 3.3402
 postcode: "63160"
 city: Billom
-street: "Rue du Colonel Mioche"
-housenumber: 3
-phone: "04 15 81 62 71"
-opening_hours: "We,Fr 08:30-18:00; Mo 07:30-15:00; Th 08:30-17:00; Sa 09:00-15:00"
+street: Rue du Colonel Mioche
+housenumber: "3"
+phone: 04 15 81 62 71
+opening_hours: We,Fr 08:30-18:00; Mo 07:30-15:00; Th 08:30-17:00; Sa 09:00-15:00
 website: ""

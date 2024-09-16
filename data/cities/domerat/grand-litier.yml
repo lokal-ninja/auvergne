@@ -4,8 +4,8 @@ latitude: 46.36803
 longitude: 2.56996
 postcode: "03410"
 city: Domérat
-street: "Rue Jean Moulin"
-housenumber: 21
-phone: "+33 4 70 05 11 63"
-opening_hours: "Mo 09:30-19:00; Tu-Sa 09:30-12:00,14:00-19:00"
+street: Rue Jean Moulin
+housenumber: "21"
+phone: +33 4 70 05 11 63
+opening_hours: Mo 09:30-19:00; Tu-Sa 09:30-12:00,14:00-19:00
 website: ""

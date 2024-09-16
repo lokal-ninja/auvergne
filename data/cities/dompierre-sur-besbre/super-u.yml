@@ -1,11 +1,11 @@
 id: 134880370
-type: way
+type: node
 latitude: 46.51981
 longitude: 3.6823
 postcode: "03290"
 city: Dompierre-sur-Besbre
-street: "Place du Commerce"
-housenumber: 
-phone: "+33 4 70 34 64 85"
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-12:15"
-website: "https://www.magasins-u.com/magasin/superu-dompierresurbesbre"
+street: Place du Commerce
+housenumber: ""
+phone: +33 4 70 34 64 85
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-12:15
+website: https://www.magasins-u.com/magasin/superu-dompierresurbesbre

@@ -1,11 +1,11 @@
 id: 133451358
-type: way
+type: node
 latitude: 46.13099
 longitude: 3.46376
 postcode: "03300"
 city: Cusset
-street: "Rue de la Barge"
-housenumber: 87
+street: Rue de la Barge
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

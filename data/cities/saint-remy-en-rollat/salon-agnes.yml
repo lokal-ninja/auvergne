@@ -4,8 +4,9 @@ latitude: 46.18318
 longitude: 3.39153
 postcode: "03110"
 city: Saint-Rémy-en-Rollat
-street: "Rue de Vichy"
-housenumber: 21
-phone: "+33 4 70 41 92 90"
-opening_hours: "Mo 14:00-18:00; Tu 09:00-12:00,13:30-18:30; We 09:00-13:00; Th,Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:00-17:00"
+street: Rue de Vichy
+housenumber: "21"
+phone: +33 4 70 41 92 90
+opening_hours: Mo 14:00-18:00; Tu 09:00-12:00,13:30-18:30; We 09:00-13:00; Th,Fr 08:30-12:00,13:30-18:30;
+    Sa 08:30-12:00,13:00-17:00
 website: ""

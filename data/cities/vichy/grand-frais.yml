@@ -1,11 +1,11 @@
 id: 180262706
-type: way
+type: node
 latitude: 46.14503
 longitude: 3.41655
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
+street: Allée des Ailes
 housenumber: 78-82
-phone: "+33 4 70 96 12 01"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.grandfrais.com/magasins/vichy"
+phone: +33 4 70 96 12 01
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.grandfrais.com/magasins/vichy

@@ -1,11 +1,11 @@
 id: 149912989
-type: way
+type: node
 latitude: 45.98628
 longitude: 3.08718
 postcode: "63460"
 city: Combronde
-street: "Avenue Étienne Clémentel"
-housenumber: 151
+street: Avenue Étienne Clémentel
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
 website: ""

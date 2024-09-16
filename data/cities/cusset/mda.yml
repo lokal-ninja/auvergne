@@ -4,8 +4,8 @@ latitude: 46.1383
 longitude: 3.43554
 postcode: "03300"
 city: Cusset
-street: "Avenue Gilbert Roux"
-housenumber: 90
-phone: "+33 4 70 97 79 68"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00"
-website: "https://www.mda-electromenager.com/fr/"
+street: Avenue Gilbert Roux
+housenumber: "90"
+phone: +33 4 70 97 79 68
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00
+website: https://www.mda-electromenager.com/fr/

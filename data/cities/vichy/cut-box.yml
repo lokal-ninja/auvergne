@@ -4,8 +4,8 @@ latitude: 46.12694
 longitude: 3.42375
 postcode: "03200"
 city: Vichy
-street: "Rue Nicolas Larbaud"
-housenumber: 13
+street: Rue Nicolas Larbaud
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Th 09:00-12:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-18:00; Th 09:00-12:00; Sa 09:00-17:00
 website: ""

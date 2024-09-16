@@ -4,8 +4,8 @@ latitude: 46.12727
 longitude: 3.42939
 postcode: "03200"
 city: Vichy
-street: "Boulevard Gambetta"
-housenumber: 50
+street: Boulevard Gambetta
+housenumber: "50"
 phone: "+33470988759"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://citron-vert.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://citron-vert.fr/

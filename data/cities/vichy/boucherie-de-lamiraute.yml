@@ -4,8 +4,8 @@ latitude: 46.12517
 longitude: 3.42199
 postcode: "03200"
 city: Vichy
-street: "Passage de l'Amirauté"
-housenumber: 26
-phone: "+33 4 70 96 06 01"
-opening_hours: "Tu-Sa 08:00-12:30,15:00-18:45"
+street: Passage de l'Amirauté
+housenumber: "26"
+phone: +33 4 70 96 06 01
+opening_hours: Tu-Sa 08:00-12:30,15:00-18:45
 website: ""

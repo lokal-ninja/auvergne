@@ -4,8 +4,8 @@ latitude: 46.06527
 longitude: 3.46245
 postcode: "03270"
 city: Saint-Yorre
-street: "Rue de la Liberté"
-housenumber: 3
+street: Rue de la Liberté
+housenumber: "3"
 phone: "+33470592906"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00
 website: ""

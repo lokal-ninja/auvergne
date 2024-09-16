@@ -4,8 +4,8 @@ latitude: 46.12301
 longitude: 3.42256
 postcode: "03200"
 city: Vichy
-street: "Rue Maréchal Foch"
-housenumber: 28
-phone: "+33 4 70 32 16 33"
-opening_hours: "Mo,Su 15:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.showroom-relooking-vichy.com/"
+street: Rue Maréchal Foch
+housenumber: "28"
+phone: +33 4 70 32 16 33
+opening_hours: Mo,Su 15:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.showroom-relooking-vichy.com/

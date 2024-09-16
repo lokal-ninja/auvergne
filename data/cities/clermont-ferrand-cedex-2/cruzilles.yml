@@ -1,11 +1,11 @@
 id: 66912095
-type: way
+type: node
 latitude: 45.79186
 longitude: 3.14296
 postcode: "63014"
 city: Clermont-Ferrand CEDEX 2
-street: "Avenue Jean Mermoz"
-housenumber: 226
-phone: "+33 4 73 91 24 46"
-opening_hours: "Mo-Fr 08:00-12:00, 12:45-15:00"
-website: "https://www.cruzilles.fr/"
+street: Avenue Jean Mermoz
+housenumber: "226"
+phone: +33 4 73 91 24 46
+opening_hours: Mo-Fr 08:00-12:00, 12:45-15:00
+website: https://www.cruzilles.fr/

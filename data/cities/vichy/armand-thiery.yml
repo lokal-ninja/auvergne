@@ -4,8 +4,8 @@ latitude: 46.12416
 longitude: 3.42236
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 13
-phone: "+33 4 70 30 43 44"
-opening_hours: "Mo-Sa 09:30-19:00; Su 14:00-19:00"
-website: "https://www.armandthiery.fr/"
+street: Rue Georges Clemenceau
+housenumber: "13"
+phone: +33 4 70 30 43 44
+opening_hours: Mo-Sa 09:30-19:00; Su 14:00-19:00
+website: https://www.armandthiery.fr/

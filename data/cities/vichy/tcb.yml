@@ -4,8 +4,8 @@ latitude: 46.12499
 longitude: 3.4233
 postcode: "03200"
 city: Vichy
-street: "Passage Clemenceau"
-housenumber: 48
-phone: "+33 4 70 98 91 52"
-opening_hours: "Tu 14:00-19:00; We 09:00-12:00,14:00-19:00; Th-Sa 09:00-19:00"
+street: Passage Clemenceau
+housenumber: "48"
+phone: +33 4 70 98 91 52
+opening_hours: Tu 14:00-19:00; We 09:00-12:00,14:00-19:00; Th-Sa 09:00-19:00
 website: ""

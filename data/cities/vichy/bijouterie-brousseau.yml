@@ -4,8 +4,8 @@ latitude: 46.12445
 longitude: 3.42209
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Roosevelt"
-housenumber: 4
+street: Rue du Président Roosevelt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00; PH off"
-website: "https://guildedesorfevres.fr/bijouterie/vichy-1149M"
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:00,14:30-19:00; PH off
+website: https://guildedesorfevres.fr/bijouterie/vichy-1149M

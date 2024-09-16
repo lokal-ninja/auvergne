@@ -4,8 +4,8 @@ latitude: 46.14015
 longitude: 3.44224
 postcode: "03300"
 city: Cusset
-street: "Rue Ampère"
-housenumber: 11
-phone: "+33 4 70 96 63 27"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00"
-website: "https://www.auvergne-croquettes.com/"
+street: Rue Ampère
+housenumber: "11"
+phone: +33 4 70 96 63 27
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00
+website: https://www.auvergne-croquettes.com/

@@ -4,8 +4,8 @@ latitude: 46.12358
 longitude: 3.42247
 postcode: "03200"
 city: Vichy
-street: "Rue Sainte-Barbe"
-housenumber: 2
-phone: "+33 4 70 55 68 34"
-opening_hours: "Mo 14:00-17:30; Tu-Fr 09:30-12:00,14:00-17:30; Sa 09:30-12:00"
+street: Rue Sainte-Barbe
+housenumber: "2"
+phone: +33 4 70 55 68 34
+opening_hours: Mo 14:00-17:30; Tu-Fr 09:30-12:00,14:00-17:30; Sa 09:30-12:00
 website: ""

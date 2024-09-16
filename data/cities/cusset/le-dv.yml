@@ -1,11 +1,11 @@
 id: 133450538
-type: way
+type: node
 latitude: 46.13817
 longitude: 3.45695
 postcode: "03300"
 city: Cusset
-street: "Rue de l'Industrie"
-housenumber: 3
-phone: "+33 4 70 98 61 03"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-18:00"
-website: "https://le-depot-vente.fr/"
+street: Rue de l'Industrie
+housenumber: "3"
+phone: +33 4 70 98 61 03
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:30; Sa 10:00-18:00
+website: https://le-depot-vente.fr/

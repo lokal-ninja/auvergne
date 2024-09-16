@@ -4,8 +4,8 @@ latitude: 45.04895
 longitude: 3.90914
 postcode: "43700"
 city: Brives Charensac
-street: "Rue de la Transcevenole"
-housenumber: 10
-phone: "+33 4 71 00 94 93"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 14:00-18:00,09:00-12:00; PH closed"
+street: Rue de la Transcevenole
+housenumber: "10"
+phone: +33 4 71 00 94 93
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 14:00-18:00,09:00-12:00; PH closed
 website: ""

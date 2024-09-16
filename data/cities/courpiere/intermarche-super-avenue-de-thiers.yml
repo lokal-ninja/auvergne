@@ -1,11 +1,11 @@
 id: 161204914
-type: way
+type: node
 latitude: 45.76224
 longitude: 3.54027
 postcode: "63120"
 city: Courpière
-street: "Avenue de Thiers"
-housenumber: 54
+street: Avenue de Thiers
+housenumber: "54"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

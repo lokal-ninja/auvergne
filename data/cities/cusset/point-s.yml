@@ -1,11 +1,11 @@
 id: 788999746
-type: way
+type: node
 latitude: 46.14176
 longitude: 3.4522
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Bicentenaire"
-housenumber: 19
-phone: "+33 4 70 97 63 67"
+street: Boulevard du Bicentenaire
+housenumber: "19"
+phone: +33 4 70 97 63 67
 opening_hours: ""
-website: "https://www.points.fr/"
+website: https://www.points.fr/

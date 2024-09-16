@@ -1,11 +1,11 @@
 id: 149911948
-type: way
+type: node
 latitude: 45.97996
 longitude: 3.09016
 postcode: "63460"
 city: Combronde
-street: "Avenue Étienne Clémentel"
-housenumber: 58
+street: Avenue Étienne Clémentel
+housenumber: "58"
 phone: ""
-opening_hours: "Th-Sa 09:30-12:00,14:30-18:30"
-website: "https://www.cuisines-gamond-agencement.fr/"
+opening_hours: Th-Sa 09:30-12:00,14:30-18:30
+website: https://www.cuisines-gamond-agencement.fr/

@@ -4,8 +4,8 @@ latitude: 46.12369
 longitude: 3.42194
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Wilson"
-housenumber: 6
-phone: "+33 4 70 57 85 68"
-opening_hours: "Tu-Sa 10:00-12:30,14:30-18:30; Su 15:30-18:30"
+street: Rue du Président Wilson
+housenumber: "6"
+phone: +33 4 70 57 85 68
+opening_hours: Tu-Sa 10:00-12:30,14:30-18:30; Su 15:30-18:30
 website: ""

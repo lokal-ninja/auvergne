@@ -1,11 +1,11 @@
 id: 345681774
-type: way
+type: node
 latitude: 46.36446
 longitude: 2.56161
 postcode: "03410"
 city: Domerat
-street: "Rue de la Chevêche"
-housenumber: 4
+street: Rue de la Chevêche
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 12:00-20:00; Tu-Sa 08:30-20:00"
+opening_hours: Mo 12:00-20:00; Tu-Sa 08:30-20:00
 website: ""

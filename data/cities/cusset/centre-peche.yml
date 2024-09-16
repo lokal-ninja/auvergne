@@ -1,11 +1,11 @@
 id: 896309181
-type: way
+type: node
 latitude: 46.13739
 longitude: 3.42922
 postcode: "03300"
 city: Cusset
-street: "Chemin des Bartins"
-housenumber: 4
+street: Chemin des Bartins
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

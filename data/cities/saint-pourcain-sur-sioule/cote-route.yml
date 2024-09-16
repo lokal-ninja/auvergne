@@ -1,11 +1,11 @@
 id: 337397698
-type: way
+type: node
 latitude: 46.31246
 longitude: 3.3147
 postcode: "03500"
 city: Saint-Pourçain-sur-Sioule
-street: "Zone industrielle Les Jalfrettes"
-housenumber: 
-phone: "04 70 47 23 62"
-opening_hours: "Mo-Sa 08:00-12:00/14:00-18:00; Su 08:00-12:00"
+street: Zone industrielle Les Jalfrettes
+housenumber: ""
+phone: 04 70 47 23 62
+opening_hours: Mo-Sa 08:00-12:00/14:00-18:00; Su 08:00-12:00
 website: ""

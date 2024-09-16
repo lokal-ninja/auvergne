@@ -1,11 +1,11 @@
 id: 70933239
-type: way
+type: node
 latitude: 46.20568
 longitude: 3.43136
 postcode: "03260"
 city: Saint-Germain-des-Fossés
-street: "Rue Pierre Semard"
-housenumber: 
+street: Rue Pierre Semard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 62839679
-type: way
+type: node
 latitude: 45.75295
 longitude: 3.14205
 postcode: "63170"
 city: Aubière
-street: "Avenue des Frères Montgolfier"
-housenumber: 1
+street: Avenue des Frères Montgolfier
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-clermont-aubiere_aubiere_63170/181.html"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-clermont-aubiere_aubiere_63170/181.html

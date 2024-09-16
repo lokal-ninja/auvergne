@@ -1,11 +1,11 @@
 id: 548958798
-type: way
+type: node
 latitude: 46.10987
 longitude: 3.55845
 postcode: "03300"
 city: Molles
-street: "Rue du bourg"
-housenumber: 21
+street: Rue du bourg
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 938169219
-type: way
+type: node
 latitude: 46.13368
 longitude: 3.45286
 postcode: "03300"
 city: Cusset
-street: "Rue de la République"
-housenumber: 24
+street: Rue de la République
+housenumber: "24"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

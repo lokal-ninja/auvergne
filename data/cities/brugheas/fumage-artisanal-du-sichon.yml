@@ -1,11 +1,11 @@
 id: 133466048
-type: way
+type: node
 latitude: 46.07871
 longitude: 3.38303
 postcode: "03700"
 city: Brugheas
-street: "Rue de l'Artisanat"
-housenumber: 5
-phone: "+33 4 70 32 63 03"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-16:30"
-website: "https://www.sichon.fr/"
+street: Rue de l'Artisanat
+housenumber: "5"
+phone: +33 4 70 32 63 03
+opening_hours: Mo-Fr 08:00-12:00,14:00-16:30
+website: https://www.sichon.fr/

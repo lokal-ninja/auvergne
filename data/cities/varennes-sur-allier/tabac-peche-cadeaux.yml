@@ -4,8 +4,8 @@ latitude: 46.31228
 longitude: 3.40439
 postcode: "03150"
 city: Varennes-sur-Allier
-street: "Rue de l'Hôtel de Ville"
-housenumber: 21
-phone: "+33 4 70 45 15 48"
-opening_hours: "Mo-Fr 07:00-12:00,14:00-19:00; Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00"
+street: Rue de l'Hôtel de Ville
+housenumber: "21"
+phone: +33 4 70 45 15 48
+opening_hours: Mo-Fr 07:00-12:00,14:00-19:00; Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00
 website: ""

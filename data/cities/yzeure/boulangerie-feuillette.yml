@@ -4,8 +4,8 @@ latitude: 46.54735
 longitude: 3.34129
 postcode: "03400"
 city: Yzeure
-street: "Route de Lyon"
-housenumber: 132
-phone: "+33 4 12 05 39 65"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Route de Lyon
+housenumber: "132"
+phone: +33 4 12 05 39 65
+opening_hours: Mo-Su 07:00-20:00
 website: ""

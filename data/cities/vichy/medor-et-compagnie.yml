@@ -1,11 +1,11 @@
 id: 90595738
-type: way
+type: node
 latitude: 46.14121
 longitude: 3.41585
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 52
-phone: "+33 4 15 91 00 50"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.medoretcie.com/"
+street: Allée des Ailes
+housenumber: "52"
+phone: +33 4 15 91 00 50
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.medoretcie.com/

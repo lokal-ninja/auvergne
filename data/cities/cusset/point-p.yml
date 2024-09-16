@@ -1,11 +1,11 @@
 id: 133449135
-type: way
+type: node
 latitude: 46.14179
 longitude: 3.44686
 postcode: "03300"
 city: Cusset
-street: "Rue de Sanssat"
-housenumber: 
-phone: "+33 4 70 96 53 23"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.pointp.fr/"
+street: Rue de Sanssat
+housenumber: ""
+phone: +33 4 70 96 53 23
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.pointp.fr/

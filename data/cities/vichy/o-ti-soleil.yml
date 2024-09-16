@@ -4,8 +4,8 @@ latitude: 46.12582
 longitude: 3.42544
 postcode: "03200"
 city: Vichy
-street: "Rue Dejoux"
-housenumber: 5
-phone: "+33 4 63 88 34 72"
-opening_hours: "Tu-Su 09:00-19:00"
+street: Rue Dejoux
+housenumber: "5"
+phone: +33 4 63 88 34 72
+opening_hours: Tu-Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 90588232
-type: way
+type: node
 latitude: 46.14248
 longitude: 3.41682
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
+street: Allée des Ailes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.4murs.com/magasins/118-vichy"
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://www.4murs.com/magasins/118-vichy

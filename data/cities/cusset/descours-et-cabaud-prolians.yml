@@ -1,11 +1,11 @@
 id: 75913833
-type: way
+type: node
 latitude: 46.14099
 longitude: 3.44917
 postcode: "03300"
 city: Cusset
-street: "Chemin de la Perche"
-housenumber: 
-phone: "+33 4 70 98 37 29"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00; PH off"
-website: "https://www.prolians.fr/"
+street: Chemin de la Perche
+housenumber: ""
+phone: +33 4 70 98 37 29
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00; PH off
+website: https://www.prolians.fr/

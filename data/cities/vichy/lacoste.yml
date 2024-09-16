@@ -4,8 +4,8 @@ latitude: 46.12517
 longitude: 3.42343
 postcode: "03200"
 city: Vichy
-street: "Rue de l'Hôtel des Postes"
-housenumber: 8
-phone: "+33 4 70 97 87 07"
-opening_hours: "Mo 10:00-12:00,14:00-19:00; Tu-Sa 10:00-19:00; PH 15:00-19:00; Su 14:00-19:00"
-website: "https://www.lacoste.com/"
+street: Rue de l'Hôtel des Postes
+housenumber: "8"
+phone: +33 4 70 97 87 07
+opening_hours: Mo 10:00-12:00,14:00-19:00; Tu-Sa 10:00-19:00; PH 15:00-19:00; Su 14:00-19:00
+website: https://www.lacoste.com/

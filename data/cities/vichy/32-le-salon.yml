@@ -4,8 +4,8 @@ latitude: 46.1298
 longitude: 3.4234
 postcode: "03200"
 city: Vichy
-street: "Rue Jean Jaurès"
-housenumber: 47
+street: Rue Jean Jaurès
+housenumber: "47"
 phone: ""
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:30-17:00"
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:30-17:00
 website: ""

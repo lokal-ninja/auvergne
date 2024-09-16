@@ -1,11 +1,11 @@
 id: 197317316
-type: way
+type: node
 latitude: 44.95592
 longitude: 3.54074
 postcode: "43360"
 city: Saugues
-street: "Rue du Mont Mouchet"
-housenumber: 
-phone: "+33 471778031"
+street: Rue du Mont Mouchet
+housenumber: ""
+phone: +33 471778031
 opening_hours: ""
-website: "https://www.bigmat.fr/laurent/saugues/"
+website: https://www.bigmat.fr/laurent/saugues/

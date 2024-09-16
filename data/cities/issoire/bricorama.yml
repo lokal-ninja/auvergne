@@ -4,8 +4,8 @@ latitude: 45.55223
 longitude: 3.26171
 postcode: "63500"
 city: Issoire
-street: "Rue Pierre Antoine Rouvet"
-housenumber: 
-phone: "+33 4 73 89 35 24"
-opening_hours: "Mo-Fr 09:00-12:15,14:00-19:00, Sa 09:00-12:30,14:00-19:00"
-website: "https://www.bricorama.fr/magasins/bricorama-issoire.html"
+street: Rue Pierre Antoine Rouvet
+housenumber: ""
+phone: +33 4 73 89 35 24
+opening_hours: Mo-Fr 09:00-12:15,14:00-19:00, Sa 09:00-12:30,14:00-19:00
+website: https://www.bricorama.fr/magasins/bricorama-issoire.html

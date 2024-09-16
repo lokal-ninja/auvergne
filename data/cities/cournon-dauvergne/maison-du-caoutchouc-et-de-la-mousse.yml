@@ -1,11 +1,11 @@
 id: 63475488
-type: way
+type: node
 latitude: 45.74843
 longitude: 3.163
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Rue Louis Blériot"
-housenumber: 6
+street: Rue Louis Blériot
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 112334311
-type: way
+type: node
 latitude: 45.05065
 longitude: 3.90613
 postcode: "43700"
 city: Brives-Charensac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00"
+opening_hours: Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00
 website: ""

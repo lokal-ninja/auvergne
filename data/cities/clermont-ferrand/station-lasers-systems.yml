@@ -1,11 +1,11 @@
 id: 66733848
-type: way
+type: node
 latitude: 45.76274
 longitude: 3.13655
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Patrick Depailler"
-housenumber: 14
+street: Rue Patrick Depailler
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.station-lasers-systems.fr/"
+website: https://www.station-lasers-systems.fr/

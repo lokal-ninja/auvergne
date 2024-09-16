@@ -4,8 +4,8 @@ latitude: 46.12515
 longitude: 3.41916
 postcode: "03200"
 city: Vichy
-street: "Rue du Parc"
-housenumber: 21
-phone: "+33 4 70 97 65 96"
-opening_hours: "Tu-Sa open; Su 15:00-19:00; PH off"
-website: "http://chaoui.fr/"
+street: Rue du Parc
+housenumber: "21"
+phone: +33 4 70 97 65 96
+opening_hours: Tu-Sa open; Su 15:00-19:00; PH off
+website: http://chaoui.fr/

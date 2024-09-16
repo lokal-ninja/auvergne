@@ -4,8 +4,8 @@ latitude: 46.12644
 longitude: 3.42439
 postcode: "03200"
 city: Vichy
-street: "Rue Desbrest"
-housenumber: 2
-phone: "+33 9 83 00 69 48"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-17:00"
-website: "https://www.linstitut-vichy.fr/"
+street: Rue Desbrest
+housenumber: "2"
+phone: +33 9 83 00 69 48
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-17:00
+website: https://www.linstitut-vichy.fr/

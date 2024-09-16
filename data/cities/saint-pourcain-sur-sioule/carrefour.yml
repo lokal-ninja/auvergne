@@ -1,11 +1,11 @@
 id: 337397041
-type: way
+type: node
 latitude: 46.31067
 longitude: 3.28368
 postcode: "03500"
 city: Saint-Pourçain-sur-Sioule
-street: "Route de Montmarault"
-housenumber: 
+street: Route de Montmarault
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

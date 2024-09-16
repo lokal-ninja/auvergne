@@ -1,11 +1,11 @@
 id: 160642982
-type: way
+type: node
 latitude: 45.30369
 longitude: 3.3787
 postcode: "43100"
 city: Brioude
-street: "Avenue d'Auvergne"
-housenumber: 52
+street: Avenue d'Auvergne
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

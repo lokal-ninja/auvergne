@@ -1,11 +1,11 @@
 id: 50656088
-type: way
+type: node
 latitude: 46.12576
 longitude: 3.40139
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue de Vichy"
-housenumber: 140
-phone: "+33 4 70 30 92 20"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-19:00; Sa 08:30-12:30,13:30-18:00; PH off"
-website: "https://mercedes-benz-vichy.groupe-maurin.com/"
+street: Avenue de Vichy
+housenumber: "140"
+phone: +33 4 70 30 92 20
+opening_hours: Mo-Fr 08:30-12:30,13:30-19:00; Sa 08:30-12:30,13:30-18:00; PH off
+website: https://mercedes-benz-vichy.groupe-maurin.com/

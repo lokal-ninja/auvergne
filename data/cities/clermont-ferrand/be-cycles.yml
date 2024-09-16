@@ -4,8 +4,8 @@ latitude: 45.76536
 longitude: 3.12512
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Boulevard Gustave Flaubert"
-housenumber: 116
+street: Boulevard Gustave Flaubert
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "https://www.becycles.fr/"
+website: https://www.becycles.fr/

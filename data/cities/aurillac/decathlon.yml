@@ -1,11 +1,11 @@
 id: 65426059
-type: way
+type: node
 latitude: 44.90276
 longitude: 2.45163
 postcode: "15000"
 city: Aurillac
-street: "Zone d´Activités Commerciales la Ponétie"
-housenumber: 
+street: Zone d´Activités Commerciales la Ponétie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/

@@ -1,11 +1,11 @@
 id: 133451347
-type: way
+type: node
 latitude: 46.12797
 longitude: 3.43594
 postcode: "03300"
 city: Cusset
-street: "Avenue de la Liberté"
-housenumber: 6
+street: Avenue de la Liberté
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; PH off"
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; PH off
 website: ""

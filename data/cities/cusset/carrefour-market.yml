@@ -1,11 +1,11 @@
 id: 133446934
-type: way
+type: node
 latitude: 46.13816
 longitude: 3.44791
 postcode: "03300"
 city: Cusset
-street: "Route de Charmeil"
-housenumber: 
+street: Route de Charmeil
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

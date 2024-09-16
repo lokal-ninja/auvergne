@@ -1,11 +1,11 @@
 id: 372354479
-type: way
+type: node
 latitude: 45.75129
 longitude: 3.13425
 postcode: "63170"
 city: Aubière
-street: "Rue des Chazots"
-housenumber: 10
+street: Rue des Chazots
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

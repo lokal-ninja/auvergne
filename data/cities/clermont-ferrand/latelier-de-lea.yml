@@ -4,8 +4,8 @@ latitude: 45.76861
 longitude: 3.0763
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Jean Giraudoux"
-housenumber: 2
-phone: "+334 73 14 13 12"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.planity.com/latelier-de-lea-63000-clermont-ferrand"
+street: Rue Jean Giraudoux
+housenumber: "2"
+phone: +334 73 14 13 12
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.planity.com/latelier-de-lea-63000-clermont-ferrand

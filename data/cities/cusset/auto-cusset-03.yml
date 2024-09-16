@@ -1,11 +1,11 @@
 id: 133446099
-type: way
+type: node
 latitude: 46.14187
 longitude: 3.45177
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Bicentenaire"
-housenumber: 23
+street: Boulevard du Bicentenaire
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

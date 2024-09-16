@@ -4,8 +4,8 @@ latitude: 45.24408
 longitude: 3.18997
 postcode: "15500"
 city: Massiac
-street: "Route de Bonnac"
-housenumber: 
+street: Route de Bonnac
+housenumber: ""
 phone: "+33471230053"
-opening_hours: "Tu-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00, 14:00-17:00"
-website: "https://www.garage-greze.fr/"
+opening_hours: Tu-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00, 14:00-17:00
+website: https://www.garage-greze.fr/

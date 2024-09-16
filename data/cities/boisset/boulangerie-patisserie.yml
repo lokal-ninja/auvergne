@@ -1,11 +1,11 @@
 id: 361941121
-type: way
+type: node
 latitude: 44.78223
 longitude: 2.25378
 postcode: "15600"
 city: Boisset
-street: "Rue du Pavé"
-housenumber: 
+street: Rue du Pavé
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

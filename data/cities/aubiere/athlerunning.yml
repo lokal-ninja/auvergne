@@ -1,11 +1,11 @@
 id: 62837900
-type: way
+type: node
 latitude: 45.75262
 longitude: 3.13352
 postcode: ""
 city: Aubière
-street: "Rue des Chazots"
-housenumber: 5
+street: Rue des Chazots
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://athlerunning.com/"
+website: https://athlerunning.com/

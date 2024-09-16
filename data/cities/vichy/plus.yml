@@ -1,11 +1,11 @@
 id: 932614922
-type: way
+type: node
 latitude: 46.14343
 longitude: 3.41677
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
+street: Allée des Ailes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 295938552
-type: way
+type: node
 latitude: 45.13337
 longitude: 3.98843
 postcode: "43800"
 city: Rosières
-street: "La grand rue"
-housenumber: 30
+street: Grand Rue
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Sa 07:30-12:30,15:00-19:00; Su 08:00-12:00"
+opening_hours: Tu-Sa 07:30-12:30,15:00-19:00; Su 08:00-12:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 46.35299
 longitude: 3.6906
 postcode: "03130"
 city: Montcombroux-les-Mines
-street: "Rue Marie Angèle Cleret"
-housenumber: 17
-phone: "+33 4 70 55 69 61"
-opening_hours: "Tu 08:30-13:30; We-Fr 08:30-13:30,17:00-19:00; Sa 08:30-12:30,17:00-20:30; Su 08:30-12:30"
+street: Rue Marie Angèle Cleret
+housenumber: "17"
+phone: +33 4 70 55 69 61
+opening_hours: Tu 08:30-13:30; We-Fr 08:30-13:30,17:00-19:00; Sa 08:30-12:30,17:00-20:30;
+    Su 08:30-12:30
 website: ""

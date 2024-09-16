@@ -4,8 +4,8 @@ latitude: 45.7811
 longitude: 3.08916
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Place d'Espagne"
-housenumber: 12
+street: Place d'Espagne
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 9:00-19:00"
-website: "https://www.victoire-cycles.com/"
+opening_hours: Tu-Sa 9:00-19:00
+website: https://www.victoire-cycles.com/

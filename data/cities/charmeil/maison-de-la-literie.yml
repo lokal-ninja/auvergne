@@ -1,11 +1,11 @@
 id: 951749774
-type: way
+type: node
 latitude: 46.15607
 longitude: 3.39439
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 
+street: Route de Saint-Pourçain
+housenumber: ""
 phone: "+33470324911"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.maisondelaliterie.fr"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://www.maisondelaliterie.fr

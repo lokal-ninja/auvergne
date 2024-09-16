@@ -4,8 +4,8 @@ latitude: 46.13253
 longitude: 3.45541
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Général de Gaulle"
-housenumber: 7
-phone: "+33 4 70 96 17 32"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+street: Boulevard du Général de Gaulle
+housenumber: "7"
+phone: +33 4 70 96 17 32
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

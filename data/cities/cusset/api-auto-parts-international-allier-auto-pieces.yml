@@ -1,11 +1,11 @@
 id: 686066700
-type: way
+type: node
 latitude: 46.14309
 longitude: 3.45449
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Bicentenaire"
+street: Boulevard du Bicentenaire
 housenumber: 6 ter
-phone: "+33 4 70 99 05 05"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.api-france.com/"
+phone: +33 4 70 99 05 05
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.api-france.com/

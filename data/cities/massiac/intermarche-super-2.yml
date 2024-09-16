@@ -1,11 +1,11 @@
 id: 496019898
-type: way
+type: node
 latitude: 45.26209
 longitude: 3.20005
 postcode: "15500"
 city: Massiac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:30; Su 09:00-12:00"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:30; Su 09:00-12:00
 website: ""

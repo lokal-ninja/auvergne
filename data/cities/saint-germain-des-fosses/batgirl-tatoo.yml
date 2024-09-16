@@ -4,8 +4,8 @@ latitude: 46.2064
 longitude: 3.43311
 postcode: "03260"
 city: Saint-Germain-des-Fossés
-street: "Rue Pierre Semard"
-housenumber: 5
+street: Rue Pierre Semard
+housenumber: "5"
 phone: ""
-opening_hours: "lun,mar,jeu,ven:9h-12h,13h-16h mer:9h-12h"
+opening_hours: lun,mar,jeu,ven:9h-12h,13h-16h mer:9h-12h
 website: ""

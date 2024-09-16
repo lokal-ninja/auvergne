@@ -1,11 +1,11 @@
 id: 370019293
-type: way
+type: node
 latitude: 45.33856
 longitude: 2.76118
 postcode: "15190"
 city: Condat
-street: "Rue du Collège"
-housenumber: 
+street: Rue du Collège
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

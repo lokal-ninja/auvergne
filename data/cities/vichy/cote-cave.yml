@@ -4,8 +4,8 @@ latitude: 46.12165
 longitude: 3.42331
 postcode: "03200"
 city: Vichy
-street: "Rue Besse"
-housenumber: 4
-phone: "+33 4 70 32 73 48"
-opening_hours: "Tu-Sa 09:30-13:00,15:00-19:30"
+street: Rue Besse
+housenumber: "4"
+phone: +33 4 70 32 73 48
+opening_hours: Tu-Sa 09:30-13:00,15:00-19:30
 website: ""

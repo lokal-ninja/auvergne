@@ -1,11 +1,11 @@
 id: 133388191
-type: way
+type: node
 latitude: 46.14571
 longitude: 3.39671
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Route de Charmeil"
-housenumber: 20
-phone: "+33 4 70 98 65 80"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://heli-motors-vichy.espacevo.fr/"
+street: Route de Charmeil
+housenumber: "20"
+phone: +33 4 70 98 65 80
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://heli-motors-vichy.espacevo.fr/

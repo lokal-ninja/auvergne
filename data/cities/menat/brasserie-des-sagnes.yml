@@ -1,11 +1,11 @@
 id: 150209158
-type: way
+type: node
 latitude: 46.13871
 longitude: 2.86093
 postcode: "63560"
 city: Menat
-street: "La Boule"
-housenumber: 
+street: La Boule
+housenumber: ""
 phone: "+33788474579"
 opening_hours: ""
-website: "https://brasserie-des-sagnes.eproshopping.fr/"
+website: https://brasserie-des-sagnes.eproshopping.fr/

@@ -4,8 +4,8 @@ latitude: 46.37985
 longitude: 3.58325
 postcode: "03220"
 city: Jaligny-sur-Besbre
-street: "Route de Lapalisse"
-housenumber: 2
-phone: "+33 4 70 34 70 21"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00"
-website: "https://www.garage-comperesorganix.fr/"
+street: Route de Lapalisse
+housenumber: "2"
+phone: +33 4 70 34 70 21
+opening_hours: Mo 14:00-18:30; Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00
+website: https://www.garage-comperesorganix.fr/

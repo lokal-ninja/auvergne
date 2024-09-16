@@ -4,8 +4,9 @@ latitude: 46.11688
 longitude: 3.40199
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Esplanade François Mitterrand"
-housenumber: 
+street: Esplanade François Mitterrand
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; PH off"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00;
+    PH off
 website: ""

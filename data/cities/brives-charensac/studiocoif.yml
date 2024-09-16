@@ -1,11 +1,12 @@
 id: 112334763
-type: way
+type: node
 latitude: 45.04727
 longitude: 3.92603
 postcode: "43700"
 city: Brives-Charensac
-street: "Avenue Charles Dupuy"
-housenumber: 2
+street: Avenue Charles Dupuy
+housenumber: "2"
 phone: "+33471041430"
-opening_hours: "Mo 14:00-19:00; Tu,We 08:30-12:00,14:00-19:00; Th,Fr 08:30-19:00; Sa 08:00-16:30"
+opening_hours: Mo 14:00-19:00; Tu,We 08:30-12:00,14:00-19:00; Th,Fr 08:30-19:00; Sa
+    08:00-16:30
 website: ""

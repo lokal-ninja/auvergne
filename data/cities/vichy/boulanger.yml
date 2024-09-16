@@ -1,11 +1,11 @@
 id: 90592973
-type: way
+type: node
 latitude: 46.14164
 longitude: 3.41634
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
+street: Allée des Ailes
+housenumber: ""
 phone: "+33800303011"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.boulanger.com/magasins/auvergne-rhone-alpes/allier/vichy/allee-des-ailes"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.boulanger.com/magasins/auvergne-rhone-alpes/allier/vichy/allee-des-ailes

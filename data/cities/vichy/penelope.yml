@@ -4,8 +4,8 @@ latitude: 46.12414
 longitude: 3.42289
 postcode: "03200"
 city: Vichy
-street: "Rue Sainte-Cécile"
+street: Rue Sainte-Cécile
 housenumber: 3-19
-phone: "+33 4 70 98 03 03"
-opening_hours: "Tu-Sa 10:00-12:00,14:30-19:00; Su 15:30-19:00"
-website: "https://www.penelope-vichy.fr/"
+phone: +33 4 70 98 03 03
+opening_hours: Tu-Sa 10:00-12:00,14:30-19:00; Su 15:30-19:00
+website: https://www.penelope-vichy.fr/

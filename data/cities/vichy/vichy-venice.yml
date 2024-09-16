@@ -4,8 +4,8 @@ latitude: 46.12381
 longitude: 3.42206
 postcode: "03200"
 city: Vichy
-street: "Passage Giboin"
-housenumber: 2
+street: Passage Giboin
+housenumber: "2"
 phone: ""
-opening_hours: "We-Su 10:00-12:00,14:00-19:00"
-website: "https://www.vichyvenice.fr/"
+opening_hours: We-Su 10:00-12:00,14:00-19:00
+website: https://www.vichyvenice.fr/

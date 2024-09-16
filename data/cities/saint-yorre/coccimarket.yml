@@ -4,8 +4,8 @@ latitude: 46.06538
 longitude: 3.46205
 postcode: "03270"
 city: Saint-Yorre
-street: "Rue de la République"
-housenumber: 6
+street: Rue de la République
+housenumber: "6"
 phone: "+33470902082"
-opening_hours: "Mo-Sa 07:30-12:30, 15:00-19:30"
-website: "http://www.coccimarket.fr/"
+opening_hours: Mo-Sa 07:30-12:30, 15:00-19:30
+website: http://www.coccimarket.fr/

@@ -1,11 +1,11 @@
 id: 133425119
-type: way
+type: node
 latitude: 46.14301
 longitude: 3.43
 postcode: "03300"
 city: Cusset
-street: "Rue de Romainville"
-housenumber: 32
-phone: "+33 4 70 97 04 69"
-opening_hours: "Tu-Th 09:30-13:00,15:00-19:00; Fr,Sa 09:30-19:00; PH off"
-website: "http://www.crocbio.sitew.com"
+street: Rue de Romainville
+housenumber: "32"
+phone: +33 4 70 97 04 69
+opening_hours: Tu-Th 09:30-13:00,15:00-19:00; Fr,Sa 09:30-19:00; PH off
+website: http://www.crocbio.sitew.com

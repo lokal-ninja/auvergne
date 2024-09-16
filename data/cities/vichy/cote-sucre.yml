@@ -4,8 +4,8 @@ latitude: 46.12403
 longitude: 3.42234
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 11
-phone: "+33 4 70 31 97 89"
-opening_hours: "Mo 11:00-12:00,15:00-19:00; Tu-Sa 09:00-19:00; Su 10:15-12:15,15:00-19:00"
+street: Rue Georges Clemenceau
+housenumber: "11"
+phone: +33 4 70 31 97 89
+opening_hours: Mo 11:00-12:00,15:00-19:00; Tu-Sa 09:00-19:00; Su 10:15-12:15,15:00-19:00
 website: ""

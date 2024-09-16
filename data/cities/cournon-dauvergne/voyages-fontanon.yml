@@ -1,11 +1,11 @@
 id: 511652169
-type: way
+type: node
 latitude: 45.7505
 longitude: 3.15823
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Rue de l'Industrie"
-housenumber: 2
+street: Rue de l'Industrie
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 63472821
-type: way
+type: node
 latitude: 45.75138
 longitude: 3.15885
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue d'Aubière"
-housenumber: 35
+street: Avenue d'Aubière
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

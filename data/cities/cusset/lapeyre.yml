@@ -1,11 +1,11 @@
 id: 133425222
-type: way
+type: node
 latitude: 46.13709
 longitude: 3.42844
 postcode: "03300"
 city: Cusset
-street: "Rue des Bartins"
-housenumber: 24
-phone: "+33 4 70 30 97 20"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:30,14:00-18:00"
-website: "https://www.lapeyre.fr/"
+street: Rue des Bartins
+housenumber: "24"
+phone: +33 4 70 30 97 20
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:30; Sa 09:30-12:30,14:00-18:00
+website: https://www.lapeyre.fr/

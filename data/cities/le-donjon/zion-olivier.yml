@@ -4,8 +4,8 @@ latitude: 46.35014
 longitude: 3.7932
 postcode: "03130"
 city: Le Donjon
-street: "Place de la République"
-housenumber: 5
-phone: "+33 4 70 99 51 87"
-opening_hours: "Mo-Sa 07:00-12:00"
+street: Place de la République
+housenumber: "5"
+phone: +33 4 70 99 51 87
+opening_hours: Mo-Sa 07:00-12:00
 website: ""

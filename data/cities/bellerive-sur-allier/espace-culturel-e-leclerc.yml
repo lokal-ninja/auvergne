@@ -1,11 +1,11 @@
 id: 133382505
-type: way
+type: node
 latitude: 46.11271
 longitude: 3.41462
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Rue Rhin et Danube"
-housenumber: 11
-phone: "+33 4 70 58 83 20"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.e-leclerc.com/bellerive/magasins-specialises/culture"
+street: Rue Rhin et Danube
+housenumber: "11"
+phone: +33 4 70 58 83 20
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.e-leclerc.com/bellerive/magasins-specialises/culture

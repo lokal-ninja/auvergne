@@ -1,11 +1,11 @@
 id: 1307416264
-type: way
+type: node
 latitude: 44.91202
 longitude: 2.44052
-postcode: "150"
+postcode: "15003"
 city: Aurillac
-street: "Boulevard de Verdun"
-housenumber: 1
+street: Boulevard de Verdun
+housenumber: "1"
 phone: "0471641010"
-opening_hours: "Mo-Fr 08:00-18:00, Su 8:30-12:30"
-website: ""
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-12:30
+website: https://www.flauraud.fr/place/aurillac-15/

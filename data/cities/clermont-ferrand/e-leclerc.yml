@@ -4,8 +4,8 @@ latitude: 45.7619
 longitude: 3.12911
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Boulevard Gustave Flaubert"
-housenumber: 175
-phone: "+33 4 73 44 29 09"
-opening_hours: "Mo 11:45-20:00; Tu-Fr 08:45-20:00; Sa 08:30-20:00"
-website: "http://www.e-leclerc.com"
+street: Boulevard Gustave Flaubert
+housenumber: "175"
+phone: +33 4 73 44 29 09
+opening_hours: Mo 11:45-20:00; Tu-Fr 08:45-20:00; Sa 08:30-20:00
+website: http://www.e-leclerc.com

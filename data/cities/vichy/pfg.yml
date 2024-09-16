@@ -1,11 +1,11 @@
 id: 1268827202
-type: way
+type: node
 latitude: 46.12743
 longitude: 3.43481
 postcode: "03200"
 city: Vichy
-street: "Boulevard Denière"
-housenumber: 54
+street: Boulevard Denière
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

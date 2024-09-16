@@ -1,11 +1,11 @@
 id: 160643091
-type: way
+type: node
 latitude: 45.30181
 longitude: 3.38065
 postcode: "43100"
 city: Brioude
-street: "Rue du Reclus"
-housenumber: 2
+street: Rue du Reclus
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

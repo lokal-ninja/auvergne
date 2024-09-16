@@ -4,8 +4,8 @@ latitude: 46.12578
 longitude: 3.41746
 postcode: "03200"
 city: Vichy
-street: "Boulevard des États-Unis"
-housenumber: 111
+street: Boulevard des États-Unis
+housenumber: "111"
 phone: ""
-opening_hours: "Tu-We 09:00-12:00, 14:00-19:00; Th-Sa 09:00-19:00"
+opening_hours: Tu-We 09:00-12:00, 14:00-19:00; Th-Sa 09:00-19:00
 website: ""

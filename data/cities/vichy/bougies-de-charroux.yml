@@ -4,8 +4,8 @@ latitude: 46.12446
 longitude: 3.42195
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Roosevelt"
-housenumber: 4
-phone: "+33 4 70 98 74 89"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.bougies-charroux.com/"
+street: Rue du Président Roosevelt
+housenumber: "4"
+phone: +33 4 70 98 74 89
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.bougies-charroux.com/

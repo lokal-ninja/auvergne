@@ -4,8 +4,8 @@ latitude: 46.12491
 longitude: 3.42247
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 19
-phone: "+33 4 70 98 34 07"
-opening_hours: "Mo 15:00-19:00; Tu-Sa 09:30-19:00; Su 15:00-18:00"
-website: "https://www.nocibe.fr/"
+street: Rue Georges Clemenceau
+housenumber: "19"
+phone: +33 4 70 98 34 07
+opening_hours: Mo 15:00-19:00; Tu-Sa 09:30-19:00; Su 15:00-18:00
+website: https://www.nocibe.fr/

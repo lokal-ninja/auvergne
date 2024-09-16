@@ -1,11 +1,11 @@
 id: 1086488460
-type: way
+type: node
 latitude: 46.13774
 longitude: 3.43112
 postcode: "03300"
 city: Cusset
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 4
-phone: "+33 4 70 30 27 88"
-opening_hours: "Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.padd.fr/nos-magasins/127-vichy"
+street: Boulevard d'Alsace-Lorraine
+housenumber: "4"
+phone: +33 4 70 30 27 88
+opening_hours: Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00
+website: https://www.padd.fr/nos-magasins/127-vichy

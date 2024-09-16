@@ -1,11 +1,11 @@
 id: 442836194
-type: way
+type: node
 latitude: 45.37486
 longitude: 3.31728
 postcode: "43360"
 city: Vergongheon
-street: "Route des Barthes"
-housenumber: 4
+street: Route des Barthes
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:30; PH closed"
-website: "https://www.hdmedia.fr/visite-virtuelle/hd/cbpbipWxo-mercerie-sandrillon-vergongheon-43.html"
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:30; PH closed
+website: https://www.hdmedia.fr/visite-virtuelle/hd/cbpbipWxo-mercerie-sandrillon-vergongheon-43.html

@@ -1,11 +1,11 @@
 id: 751127248
-type: way
+type: node
 latitude: 46.10968
 longitude: 3.38554
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Allée du Champ Rond"
-housenumber: 2
+street: Allée du Champ Rond
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.easy-raider.com/"
+website: https://www.easy-raider.com/

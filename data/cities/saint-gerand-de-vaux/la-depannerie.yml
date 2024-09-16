@@ -4,8 +4,8 @@ latitude: 46.37982
 longitude: 3.39599
 postcode: "03340"
 city: Saint-Gérand-de-Vaux
-street: "Rue de l’Église"
-housenumber: 6
+street: Rue de l’Église
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00,16:00-19:00; Su 09:00-12:00"
-website: "https://www.ladepannerie03.com/"
+opening_hours: Tu-Sa 09:00-13:00,16:00-19:00; Su 09:00-12:00
+website: https://www.ladepannerie03.com/

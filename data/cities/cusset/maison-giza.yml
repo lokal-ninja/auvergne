@@ -4,8 +4,8 @@ latitude: 46.1325
 longitude: 3.45604
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Général de Gaulle"
-housenumber: 2
-phone: "+33 4 70 57 86 05"
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30; PH off"
-website: "https://maison-giza.fr/"
+street: Boulevard du Général de Gaulle
+housenumber: "2"
+phone: +33 4 70 57 86 05
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30; PH off
+website: https://maison-giza.fr/

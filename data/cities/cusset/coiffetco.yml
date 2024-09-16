@@ -4,8 +4,8 @@ latitude: 46.13323
 longitude: 3.45667
 postcode: "03300"
 city: Cusset
-street: "Avenue du Drapeau"
-housenumber: 3
-phone: "+33 4 70 31 86 36"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:30; PH off"
-website: "https://www.coiffandco.com"
+street: Avenue du Drapeau
+housenumber: "3"
+phone: +33 4 70 31 86 36
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:30; PH off
+website: https://www.coiffandco.com

@@ -1,11 +1,11 @@
 id: 150231669
-type: way
+type: node
 latitude: 45.88929
 longitude: 3.07657
 postcode: "63200"
 city: Mozac
-street: "Avenue Jean Jaurès"
-housenumber: 63
-phone: "+33 4 73 63 14 42"
+street: Avenue Jean Jaurès
+housenumber: "63"
+phone: +33 4 73 63 14 42
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90600107
-type: way
+type: node
 latitude: 46.14355
 longitude: 3.41526
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
-phone: "+33 4 70 97 98 94"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.lahalle.com"
+street: Allée des Ailes
+housenumber: ""
+phone: +33 4 70 97 98 94
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.lahalle.com

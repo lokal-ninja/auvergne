@@ -1,11 +1,11 @@
 id: 165161872
-type: way
+type: node
 latitude: 45.34109
 longitude: 4.31256
 postcode: "43240"
 city: SAINT JUST MALMONT
-street: "Rue des Frères"
-housenumber: 23
+street: Rue des Frères
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

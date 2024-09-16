@@ -4,8 +4,8 @@ latitude: 46.09994
 longitude: 3.44426
 postcode: "03200"
 city: Abrest
-street: "Avenue de Vichy"
-housenumber: 32
-phone: "+33 4 70 31 84 41"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:30; Th off; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.lacabaneavelos.com/"
+street: Avenue de Vichy
+housenumber: "32"
+phone: +33 4 70 31 84 41
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:30; Th off; Sa 10:00-12:00,14:00-18:00
+website: https://www.lacabaneavelos.com/

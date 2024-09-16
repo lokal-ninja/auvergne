@@ -1,11 +1,11 @@
 id: 66737131
-type: way
+type: node
 latitude: 45.75915
 longitude: 3.14582
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Avenue Ernest Cristal"
-housenumber: 
+street: Avenue Ernest Cristal
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.manucentre.fr/magasin/manucentre-clermont"
+website: http://www.manucentre.fr/magasin/manucentre-clermont

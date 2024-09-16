@@ -4,8 +4,8 @@ latitude: 45.7712
 longitude: 3.08107
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Avenue Marx Dormoy"
-housenumber: 6
-phone: "+33 4 73 17 34 00"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://magasin.netto.fr/534-netto-clermont-ferrand"
+street: Avenue Marx Dormoy
+housenumber: "6"
+phone: +33 4 73 17 34 00
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://magasin.netto.fr/534-netto-clermont-ferrand

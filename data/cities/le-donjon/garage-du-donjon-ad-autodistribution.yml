@@ -4,8 +4,8 @@ latitude: 46.34941
 longitude: 3.7958
 postcode: "03130"
 city: Le Donjon
-street: "Rue Georges Gallay"
-housenumber: 4
-phone: "+33 4 70 99 55 76"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00"
+street: Rue Georges Gallay
+housenumber: "4"
+phone: +33 4 70 99 55 76
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00
 website: ""

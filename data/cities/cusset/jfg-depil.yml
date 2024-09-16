@@ -4,8 +4,8 @@ latitude: 46.13241
 longitude: 3.43632
 postcode: "03300"
 city: Cusset
-street: "Avenue de Vichy"
-housenumber: 120
+street: Avenue de Vichy
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30"
-website: "https://www.jfg-clinic.com/"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30
+website: https://www.jfg-clinic.com/

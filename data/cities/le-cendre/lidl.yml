@@ -1,11 +1,11 @@
 id: 150051927
-type: way
+type: node
 latitude: 45.72725
 longitude: 3.1874
 postcode: "63670"
 city: Le Cendre
-street: "Route de Clermont"
-housenumber: 
+street: Route de Clermont
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

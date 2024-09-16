@@ -1,11 +1,11 @@
 id: 90893806
-type: way
+type: node
 latitude: 46.13757
 longitude: 3.436
 postcode: "03300"
 city: Cusset
-street: "Avenue Gilbert Roux"
-housenumber: 115
+street: Avenue Gilbert Roux
+housenumber: "115"
 phone: "+33470577630"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.happycash.fr/magasin/cusset/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.happycash.fr/magasin/cusset/

@@ -4,8 +4,8 @@ latitude: 46.12458
 longitude: 3.42195
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Roosevelt"
-housenumber: 5
-phone: "+33 4 70 97 67 26"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 08:30-19:00; Sa 09:00-19:00; Su 09:00-12:30,15:00-18:30"
+street: Rue du Président Roosevelt
+housenumber: "5"
+phone: +33 4 70 97 67 26
+opening_hours: Mo 15:00-19:00; Tu-Fr 08:30-19:00; Sa 09:00-19:00; Su 09:00-12:30,15:00-18:30
 website: ""

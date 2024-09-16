@@ -4,8 +4,8 @@ latitude: 45.11448
 longitude: 4.28981
 postcode: "43190"
 city: Tence
-street: "Grande Rue"
-housenumber: 9
+street: Grande Rue
+housenumber: "9"
 phone: "+33471654896"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:30"
-website: "https://www.opticiensoptim.com/"
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:30
+website: https://www.opticiensoptim.com/

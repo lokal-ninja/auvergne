@@ -4,8 +4,8 @@ latitude: 46.1261
 longitude: 3.42148
 postcode: "03200"
 city: Vichy
-street: "Rue Montaret"
-housenumber: 30
-phone: "+33 4 70 97 40 16"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-18:30"
+street: Rue Montaret
+housenumber: "30"
+phone: +33 4 70 97 40 16
+opening_hours: Tu-Sa 10:00-12:00,14:00-18:30
 website: ""

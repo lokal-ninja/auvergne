@@ -1,11 +1,11 @@
 id: 75913772
-type: way
+type: node
 latitude: 46.1414
 longitude: 3.44977
 postcode: "03300"
 city: Cusset
-street: "Chemin de la Perche"
-housenumber: 6
+street: Chemin de la Perche
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 09:00-12:00,14:00-17:00; PH off"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 09:00-12:00,14:00-17:00; PH off
 website: ""

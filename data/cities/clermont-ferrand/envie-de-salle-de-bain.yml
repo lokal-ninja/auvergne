@@ -1,11 +1,11 @@
 id: 656941005
-type: way
+type: node
 latitude: 45.78658
 longitude: 3.1404
 postcode: "63100"
 city: Clermont-Ferrand
-street: "Rue Pierre Boulanger"
-housenumber: 42
+street: Rue Pierre Boulanger
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

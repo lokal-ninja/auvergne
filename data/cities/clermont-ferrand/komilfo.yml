@@ -1,11 +1,11 @@
 id: 66736011
-type: way
+type: node
 latitude: 45.75901
 longitude: 3.14503
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Avenue Ernest Cristal"
-housenumber: 19
+street: Avenue Ernest Cristal
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.komilfo.fr/rdv?mid=332"
+website: https://www.komilfo.fr/rdv?mid=332

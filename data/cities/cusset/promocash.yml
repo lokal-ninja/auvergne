@@ -1,11 +1,11 @@
 id: 133425166
-type: way
+type: node
 latitude: 46.13955
 longitude: 3.44508
 postcode: "03300"
 city: Cusset
-street: "Rue Jean Bonnet"
-housenumber: 
+street: Rue Jean Bonnet
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

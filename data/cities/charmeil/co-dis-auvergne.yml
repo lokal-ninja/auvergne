@@ -1,11 +1,11 @@
 id: 366564751
-type: way
+type: node
 latitude: 46.15339
 longitude: 3.39411
 postcode: "03110"
 city: Charmeil
-street: "Rue de la Fontaine"
-housenumber: 1
+street: Rue de la Fontaine
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.codisauvergne-piscines.fr/"
+website: http://www.codisauvergne-piscines.fr/

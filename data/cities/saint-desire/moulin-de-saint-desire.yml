@@ -1,11 +1,11 @@
 id: 367381525
-type: way
+type: node
 latitude: 46.4969
 longitude: 2.43172
 postcode: "03370"
 city: Saint-Désiré
-street: "Rue du Moulin"
-housenumber: 13
+street: Rue du Moulin
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

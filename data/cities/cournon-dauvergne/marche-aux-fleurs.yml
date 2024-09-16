@@ -4,8 +4,8 @@ latitude: 45.73302
 longitude: 3.18151
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Rue Gustave Eiffel"
-housenumber: 1
+street: Rue Gustave Eiffel
+housenumber: "1"
 phone: ""
-opening_hours: "09:00-19:00"
-website: "https://marcheauxfleurs63.fr/"
+opening_hours: 09:00-19:00
+website: https://marcheauxfleurs63.fr/

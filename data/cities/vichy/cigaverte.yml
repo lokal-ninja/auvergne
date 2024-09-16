@@ -4,8 +4,8 @@ latitude: 46.12373
 longitude: 3.42278
 postcode: "03200"
 city: Vichy
-street: "Rue Sainte-Barbe"
-housenumber: 2
+street: Rue Sainte-Barbe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 14:30-18:30"
-website: "https://www.cigaverte.com/"
+opening_hours: Mo-Sa 10:00-19:00; Su 14:30-18:30
+website: https://www.cigaverte.com/

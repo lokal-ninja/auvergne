@@ -4,8 +4,8 @@ latitude: 46.13011
 longitude: 3.43282
 postcode: "03200"
 city: Vichy
-street: "Avenue de Gramont"
-housenumber: 40
-phone: "+33 4 70 55 79 75"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "http://gp-auto.net/"
+street: Avenue de Gramont
+housenumber: "40"
+phone: +33 4 70 55 79 75
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: http://gp-auto.net/

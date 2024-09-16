@@ -1,11 +1,11 @@
 id: 40284061
-type: way
+type: node
 latitude: 46.15735
 longitude: 3.39114
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 16
-phone: "+33 4 70 58 84 70"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00; Su 09:00-12:30"
-website: "https://www.mr-bricolage.fr/"
+street: Route de Saint-Pourçain
+housenumber: "16"
+phone: +33 4 70 58 84 70
+opening_hours: Mo-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00; Su 09:00-12:30
+website: https://www.mr-bricolage.fr/

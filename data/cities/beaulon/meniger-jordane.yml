@@ -4,8 +4,8 @@ latitude: 46.60166
 longitude: 3.67329
 postcode: "03230"
 city: Beaulon
-street: "Place de la Mairie"
-housenumber: 11
-phone: "+33 4 70 42 70 10"
-opening_hours: "Mo-Sa 06:30-12:30,16:00-19:00; We,Su 06:30-12:30"
+street: Place de la Mairie
+housenumber: "11"
+phone: +33 4 70 42 70 10
+opening_hours: Mo-Sa 06:30-12:30,16:00-19:00; We,Su 06:30-12:30
 website: ""

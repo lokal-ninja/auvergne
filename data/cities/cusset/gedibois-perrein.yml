@@ -1,11 +1,11 @@
 id: 918019735
-type: way
+type: node
 latitude: 46.13819
 longitude: 3.46393
 postcode: "03300"
 city: Cusset
-street: "Rue de l'Industrie"
-housenumber: 53
+street: Rue de l'Industrie
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.perreinbois.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.perreinbois.fr/

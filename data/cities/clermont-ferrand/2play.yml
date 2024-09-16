@@ -4,8 +4,8 @@ latitude: 45.77957
 longitude: 3.0814
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue de l'Étoile"
-housenumber: 2
+street: Rue de l'Étoile
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 11:00-24:00; Su 14:00-24:00"
+opening_hours: Mo-Sa 11:00-24:00; Su 14:00-24:00
 website: ""

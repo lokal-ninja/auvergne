@@ -1,11 +1,11 @@
 id: 337399393
-type: way
+type: node
 latitude: 46.29757
 longitude: 3.29699
 postcode: "03500"
 city: Saint-Pourçain-sur-Sioule
-street: "ZI La Carmone"
-housenumber: 
-phone: "+33 4 70 45 39 77"
-opening_hours: "Mo-Sa 08:30-12:00,14:00-18:30"
-website: "https://www.bardinmrjardinage.com/"
+street: ZI La Carmone
+housenumber: ""
+phone: +33 4 70 45 39 77
+opening_hours: Mo-Sa 08:30-12:00,14:00-18:30
+website: https://www.bardinmrjardinage.com/

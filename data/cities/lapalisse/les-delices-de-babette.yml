@@ -4,8 +4,8 @@ latitude: 46.24645
 longitude: 3.63426
 postcode: "03120"
 city: Lapalisse
-street: "Avenue Charles de Gaulle"
-housenumber: 18
-phone: "+33 4 70 99 20 68"
-opening_hours: "Mo 07:45-12:00; Tu-Sa 07:45-19:30"
-website: "https://delices-de-babette.fr/"
+street: Avenue Charles de Gaulle
+housenumber: "18"
+phone: +33 4 70 99 20 68
+opening_hours: Mo 07:45-12:00; Tu-Sa 07:45-19:30
+website: https://delices-de-babette.fr/

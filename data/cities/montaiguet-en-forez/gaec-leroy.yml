@@ -5,7 +5,7 @@ longitude: 3.83852
 postcode: ""
 city: Montaiguët-en-Forez
 street: ""
-housenumber: 2
-phone: "+33 6 72 66 91 95"
-opening_hours: "Mo-Sa 08:30-16:00"
-website: "https://granvillage.com/producer/4192/particulier"
+housenumber: "2"
+phone: +33 6 72 66 91 95
+opening_hours: Mo-Sa 08:30-16:00
+website: https://granvillage.com/producer/4192/particulier

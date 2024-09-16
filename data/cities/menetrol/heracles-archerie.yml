@@ -4,8 +4,8 @@ latitude: 45.87507
 longitude: 3.12923
 postcode: "63200"
 city: Ménétrol
-street: "Rue des Frères Gardise"
-housenumber: 19
-phone: "+334 73 24 41 49"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00; "
+street: Rue des Frères Gardise
+housenumber: "19"
+phone: +334 73 24 41 49
+opening_hours: 'Tu-Sa 10:00-12:00,14:00-19:00; '
 website: ""

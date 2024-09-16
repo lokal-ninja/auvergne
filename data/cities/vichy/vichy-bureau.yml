@@ -1,11 +1,11 @@
 id: 90601674
-type: way
+type: node
 latitude: 46.13154
 longitude: 3.42759
 postcode: "03200"
 city: Vichy
-street: "Boulevard de la Mutualité"
-housenumber: 19
+street: Boulevard de la Mutualité
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:45-18:00"
-website: "http://www.vichybureau.com/"
+opening_hours: Mo-Fr 08:30-12:00,13:45-18:00
+website: http://www.vichybureau.com/

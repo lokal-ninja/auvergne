@@ -1,11 +1,11 @@
 id: 165163896
-type: way
+type: node
 latitude: 45.33059
 longitude: 4.30944
 postcode: "43240"
 city: Saint-Just-Malmont
-street: "Route de L'Innovation"
-housenumber: 5
+street: Route de L'Innovation
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

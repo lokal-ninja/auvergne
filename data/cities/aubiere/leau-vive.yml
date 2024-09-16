@@ -1,11 +1,11 @@
 id: 62840818
-type: way
+type: node
 latitude: 45.75372
 longitude: 3.13619
 postcode: "63170"
 city: Aubière
-street: "Avenue de Cournon"
-housenumber: 23
+street: Avenue de Cournon
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.eau-vive.fr"
+website: http://www.eau-vive.fr

@@ -4,8 +4,8 @@ latitude: 46.1234
 longitude: 3.42284
 postcode: "03200"
 city: Vichy
-street: "Avenue du Président Doumer"
-housenumber: 2
-phone: "+33 4 70 31 13 92"
+street: Avenue du Président Doumer
+housenumber: "2"
+phone: +33 4 70 31 13 92
 opening_hours: ""
-website: "https://www.l-onglerie.fr/"
+website: https://www.l-onglerie.fr/

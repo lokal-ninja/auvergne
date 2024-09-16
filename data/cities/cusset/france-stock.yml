@@ -1,11 +1,11 @@
 id: 686066698
-type: way
+type: node
 latitude: 46.14306
 longitude: 3.4551
 postcode: "03300"
 city: Cusset
-street: "Boulevard du Bicentenaire"
-housenumber: 5
-phone: "+33 4 70 31 37 53"
+street: Boulevard du Bicentenaire
+housenumber: "5"
+phone: +33 4 70 31 37 53
 opening_hours: ""
 website: ""

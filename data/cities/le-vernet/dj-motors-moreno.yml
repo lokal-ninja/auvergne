@@ -1,11 +1,11 @@
 id: 133571986
-type: way
+type: node
 latitude: 46.11718
 longitude: 3.44541
 postcode: "03200"
 city: Le Vernet
-street: "Rue des Petites Combes"
-housenumber: 1
+street: Rue des Petites Combes
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

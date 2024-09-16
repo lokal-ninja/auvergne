@@ -4,8 +4,8 @@ latitude: 46.13311
 longitude: 3.45798
 postcode: "03300"
 city: Cusset
-street: "Rue de la Constitution"
-housenumber: 14
+street: Rue de la Constitution
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:00,14:30-19:00"
-website: "https://www.angie-cesarlena.fr/"
+opening_hours: Tu-Sa 09:30-12:00,14:30-19:00
+website: https://www.angie-cesarlena.fr/

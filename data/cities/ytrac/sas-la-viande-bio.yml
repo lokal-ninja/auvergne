@@ -4,8 +4,8 @@ latitude: 44.89622
 longitude: 2.39375
 postcode: "15130"
 city: YTRAC
-street: "Z.A.C. du Puy d’Esban, Rue Pierre et Marie Curie"
-housenumber: 
+street: Z.A.C. du Puy d’Esban, Rue Pierre et Marie Curie
+housenumber: ""
 phone: "0688676038"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.la-viande-bio.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.la-viande-bio.fr/

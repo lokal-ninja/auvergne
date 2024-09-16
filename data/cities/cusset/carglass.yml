@@ -1,11 +1,11 @@
 id: 133443933
-type: way
+type: node
 latitude: 46.1368
 longitude: 3.42808
 postcode: "03300"
 city: Cusset
-street: "Rue des Bartins"
-housenumber: 24
-phone: "+33 4 20 10 20 19"
-opening_hours: "Mo-Fr 08:00-12:15,13:45-18:30; Sa 08:00-12:15,13:45-17:30"
+street: Rue des Bartins
+housenumber: "24"
+phone: +33 4 20 10 20 19
+opening_hours: Mo-Fr 08:00-12:15,13:45-18:30; Sa 08:00-12:15,13:45-17:30
 website: ""

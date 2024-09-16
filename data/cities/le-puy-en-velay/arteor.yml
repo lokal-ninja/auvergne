@@ -1,11 +1,11 @@
 id: 86360029
-type: way
+type: node
 latitude: 45.04237
 longitude: 3.88373
 postcode: "43000"
 city: Le Puy-en-Velay
-street: "Place du Breuil"
-housenumber: 25
+street: Place du Breuil
+housenumber: "25"
 phone: "+33471034975"
 opening_hours: ""
 website: ""

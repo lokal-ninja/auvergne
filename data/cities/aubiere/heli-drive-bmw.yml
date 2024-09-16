@@ -1,11 +1,11 @@
 id: 62840655
-type: way
+type: node
 latitude: 45.75163
 longitude: 3.13754
 postcode: "63170"
 city: Aubière
-street: "Rue Jacqueline Auriol"
-housenumber: 12
+street: Rue Jacqueline Auriol
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

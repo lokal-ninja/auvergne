@@ -1,11 +1,12 @@
 id: 77794181
-type: way
+type: node
 latitude: 46.35161
 longitude: 2.61302
 postcode: "03100"
 city: Montluçon
-street: "Avenue Charles de Gaulle"
-housenumber: 160
-phone: "+33 4 70 28 15 73"
-opening_hours: "Mo closed; Tu 09:00-12:00,14:00-19:00; We 09:00-12:00; Th,Fr 09:00-12:00,14:00-19:00; Sa 08:00-17:00; Su closed"
+street: Avenue Charles de Gaulle
+housenumber: "160"
+phone: +33 4 70 28 15 73
+opening_hours: Mo closed; Tu 09:00-12:00,14:00-19:00; We 09:00-12:00; Th,Fr 09:00-12:00,14:00-19:00;
+    Sa 08:00-17:00; Su closed
 website: ""

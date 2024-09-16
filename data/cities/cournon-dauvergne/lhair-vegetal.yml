@@ -1,11 +1,11 @@
 id: 63473847
-type: way
+type: node
 latitude: 45.7537
 longitude: 3.15728
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue de Clermont"
-housenumber: 4
+street: Avenue de Clermont
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

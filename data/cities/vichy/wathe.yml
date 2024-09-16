@@ -4,8 +4,8 @@ latitude: 46.12599
 longitude: 3.42304
 postcode: "03200"
 city: Vichy
-street: "Rue de Paris"
-housenumber: 2
+street: Rue de Paris
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00; Su 14:00-19:00"
-website: "https://wathe.fr/"
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00; Su 14:00-19:00
+website: https://wathe.fr/

@@ -4,8 +4,9 @@ latitude: 45.30292
 longitude: 4.27575
 postcode: "43140"
 city: Saint-Didier-en-Velay
-street: "Rue du Marché"
-housenumber: 5
+street: Rue du Marché
+housenumber: "5"
 phone: "+33471662575"
-opening_hours: "Mo 08:00-12:00; Tu-We 08:00-12:00,15:00-19:00; Th 08:00-12:00; Fr 08:00-12:00,15:00-19:00, Sa-Su 08:00-12:00"
+opening_hours: Mo 08:00-12:00; Tu-We 08:00-12:00,15:00-19:00; Th 08:00-12:00; Fr 08:00-12:00,15:00-19:00,
+    Sa-Su 08:00-12:00
 website: ""

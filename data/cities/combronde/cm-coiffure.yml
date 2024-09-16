@@ -1,11 +1,11 @@
 id: 626491346
-type: way
+type: node
 latitude: 45.98458
 longitude: 3.08643
 postcode: "63460"
 city: Combronde
-street: "Rue des Anciens Combattants d'AFN"
-housenumber: 
+street: Rue des Anciens Combattants d'AFN
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-17:00"
+opening_hours: Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-17:00
 website: ""

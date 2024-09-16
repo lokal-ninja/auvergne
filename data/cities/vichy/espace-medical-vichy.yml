@@ -4,8 +4,8 @@ latitude: 46.12558
 longitude: 3.42733
 postcode: "03200"
 city: Vichy
-street: "Avenue du Président Doumer"
-housenumber: 25
-phone: "+33 4 70 97 70 97"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://www.espacemedical.com/"
+street: Avenue du Président Doumer
+housenumber: "25"
+phone: +33 4 70 97 70 97
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: http://www.espacemedical.com/

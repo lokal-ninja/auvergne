@@ -1,11 +1,11 @@
 id: 524123016
-type: way
+type: node
 latitude: 45.54336
 longitude: 3.22622
 postcode: "63500"
 city: Issoire
-street: "Route de Perrier"
-housenumber: 913
+street: Route de Perrier
+housenumber: "913"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 653453945
-type: way
+type: node
 latitude: 45.88265
 longitude: 3.11889
 postcode: "63200"
 city: Riom
-street: "Rue Pierre et Marie Curie"
-housenumber: 17
+street: Rue Pierre et Marie Curie
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:30-12:00"
-website: "https://centre.franceparebrise.fr/995952-france-pare-brise-riom"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:30-12:00
+website: https://centre.franceparebrise.fr/995952-france-pare-brise-riom

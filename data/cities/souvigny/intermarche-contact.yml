@@ -1,11 +1,11 @@
 id: 666570253
-type: way
+type: node
 latitude: 46.53305
 longitude: 3.1873
 postcode: "03210"
 city: Souvigny
-street: "Route de Cosne"
-housenumber: 
+street: Route de Cosne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-12:00
 website: ""

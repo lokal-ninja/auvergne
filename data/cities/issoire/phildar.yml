@@ -4,8 +4,8 @@ latitude: 45.54347
 longitude: 3.24777
 postcode: "63500"
 city: Issoire
-street: "Place de la République"
-housenumber: 10
-phone: "+33 4 73 89 07 46"
-opening_hours: "Tu-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.phildar.fr/magasin/phildar-issoire.r.html"
+street: Place de la République
+housenumber: "10"
+phone: +33 4 73 89 07 46
+opening_hours: Tu-Sa 09:00-12:00, 14:00-19:00
+website: https://www.phildar.fr/magasin/phildar-issoire.r.html

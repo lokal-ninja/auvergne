@@ -1,11 +1,11 @@
 id: 222274937
-type: way
+type: node
 latitude: 46.34853
 longitude: 3.79336
 postcode: "03130"
 city: Le Donjon
-street: "Avenue Honoré Preveraud"
-housenumber: 9
-phone: "+33 4 70 99 50 80"
-opening_hours: "Mo-Sa 07:30-12:30,15:00-19:00"
-website: "https://magasins.spar.fr/fr/s/spar-le-donjon"
+street: Avenue Honoré Preveraud
+housenumber: "9"
+phone: +33 4 70 99 50 80
+opening_hours: Mo-Sa 07:30-12:30,15:00-19:00
+website: https://magasins.spar.fr/fr/s/spar-le-donjon

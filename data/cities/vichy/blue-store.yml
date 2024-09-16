@@ -4,8 +4,8 @@ latitude: 46.12479
 longitude: 3.42267
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 18
-phone: "+33 9 50 62 75 23"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su,PH 15:00-19:00"
-website: "https://www.blue-box.fr/"
+street: Rue Georges Clemenceau
+housenumber: "18"
+phone: +33 9 50 62 75 23
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su,PH 15:00-19:00
+website: https://www.blue-box.fr/

@@ -1,11 +1,11 @@
 id: 63488713
-type: way
+type: node
 latitude: 45.74455
 longitude: 3.16955
 postcode: "63800"
 city: COURNON D AUVERGNE
-street: "Rue Maurice Bellonte"
-housenumber: 11
+street: Rue Maurice Bellonte
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

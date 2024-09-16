@@ -4,8 +4,8 @@ latitude: 46.12335
 longitude: 3.42217
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Wilson"
-housenumber: 2
+street: Rue du Président Wilson
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00,14:30-18:30"
-website: "https://www.atelier-wilson.com/"
+opening_hours: Tu-Sa 10:00-12:00,14:30-18:30
+website: https://www.atelier-wilson.com/

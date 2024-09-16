@@ -4,8 +4,8 @@ latitude: 45.25168
 longitude: 3.19718
 postcode: "15500"
 city: Massiac
-street: "Avenue du Général de Gaulle"
-housenumber: 13
+street: Avenue du Général de Gaulle
+housenumber: "13"
 phone: "+33471234640"
 opening_hours: ""
-website: "https://www.jardindeva.fr/"
+website: https://www.jardindeva.fr/

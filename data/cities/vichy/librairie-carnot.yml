@@ -4,8 +4,8 @@ latitude: 46.12336
 longitude: 3.42329
 postcode: "03200"
 city: Vichy
-street: "Boulevard Carnot"
-housenumber: 
-phone: "+33 4 70 31 83 32"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00"
-website: "https://www.librairie-carnot-vichy.fr/"
+street: Boulevard Carnot
+housenumber: ""
+phone: +33 4 70 31 83 32
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00
+website: https://www.librairie-carnot-vichy.fr/

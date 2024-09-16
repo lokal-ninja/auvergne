@@ -1,11 +1,11 @@
 id: 133425188
-type: way
+type: node
 latitude: 46.14219
 longitude: 3.42963
 postcode: "03300"
 city: Cusset
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 20
+street: Boulevard d'Alsace-Lorraine
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.tereva.fr/"
+website: https://www.tereva.fr/

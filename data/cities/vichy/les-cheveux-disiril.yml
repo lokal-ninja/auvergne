@@ -4,8 +4,8 @@ latitude: 46.12519
 longitude: 3.42111
 postcode: "03200"
 city: Vichy
-street: "Rue Sornin"
-housenumber: 3
+street: Rue Sornin
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://salonisirilvichy.fr/"
+website: https://salonisirilvichy.fr/

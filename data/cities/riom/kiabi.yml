@@ -5,7 +5,7 @@ longitude: 3.11727
 postcode: "63200"
 city: Riom
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.kiabi.com/magasin/kiabi-RIOM_FMRIOM0"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.kiabi.com/magasin/kiabi-RIOM_FMRIOM0

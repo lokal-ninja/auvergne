@@ -4,8 +4,8 @@ latitude: 46.12446
 longitude: 3.42186
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Roosevelt"
-housenumber: 4
-phone: "+33 4 70 98 18 95"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.marionnaud.fr/"
+street: Rue du Président Roosevelt
+housenumber: "4"
+phone: +33 4 70 98 18 95
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.marionnaud.fr/

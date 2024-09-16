@@ -4,8 +4,8 @@ latitude: 46.12555
 longitude: 3.42381
 postcode: "03200"
 city: Vichy
-street: "Rue du Commerce"
-housenumber: 25
-phone: "+33 4 63 88 02 64"
-opening_hours: "Tu-Fr 09:00-19:00; We off; Sa 08:00-17:00"
+street: Rue du Commerce
+housenumber: "25"
+phone: +33 4 63 88 02 64
+opening_hours: Tu-Fr 09:00-19:00; We off; Sa 08:00-17:00
 website: ""

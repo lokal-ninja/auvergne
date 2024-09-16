@@ -1,11 +1,11 @@
 id: 420038929
-type: way
+type: node
 latitude: 46.1422
 longitude: 3.39606
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Route de Charmeil"
-housenumber: 79
+street: Route de Charmeil
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:00"
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:00
 website: ""

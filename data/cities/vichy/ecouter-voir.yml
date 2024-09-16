@@ -4,8 +4,8 @@ latitude: 46.12609
 longitude: 3.42396
 postcode: "03200"
 city: Vichy
-street: "Rue de Paris"
-housenumber: 6
-phone: "+33 4 70 30 84 55"
-opening_hours: "Mo,Sa 09:00-12:00,14:00-18:00; Tu-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.ecoutervoir.fr/"
+street: Rue de Paris
+housenumber: "6"
+phone: +33 4 70 30 84 55
+opening_hours: Mo,Sa 09:00-12:00,14:00-18:00; Tu-Fr 09:00-12:00,14:00-19:00
+website: https://www.ecoutervoir.fr/

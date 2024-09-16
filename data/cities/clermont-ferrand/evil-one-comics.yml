@@ -4,8 +4,8 @@ latitude: 45.78032
 longitude: 3.08729
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue du Port"
-housenumber: 15
-phone: "+33 4 73 14 04 01"
-opening_hours: "Mo 14:00-18:00; Tu-Th 12:30-19:00; Fr,Sa 11:00-19:00"
+street: Rue du Port
+housenumber: "15"
+phone: +33 4 73 14 04 01
+opening_hours: Mo 14:00-18:00; Tu-Th 12:30-19:00; Fr,Sa 11:00-19:00
 website: ""

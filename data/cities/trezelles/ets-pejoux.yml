@@ -4,8 +4,8 @@ latitude: 46.32865
 longitude: 3.59241
 postcode: "03220"
 city: Trézelles
-street: "Place Saint-Barthélémy"
-housenumber: 5
+street: Place Saint-Barthélémy
+housenumber: "5"
 phone: "+33470557111"
-opening_hours: "Mo-Sa 07:30-12:30,14:00-19:00; Su 07:30-12:30"
+opening_hours: Mo-Sa 07:30-12:30,14:00-19:00; Su 07:30-12:30
 website: ""

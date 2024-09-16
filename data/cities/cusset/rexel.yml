@@ -1,11 +1,11 @@
 id: 133442505
-type: way
+type: node
 latitude: 46.14085
 longitude: 3.44045
 postcode: "03300"
 city: Cusset
-street: "Rue Ampère"
-housenumber: 32
+street: Rue Ampère
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.80879
 longitude: 3.0563
 postcode: ""
 city: Nohanent
-street: "Place de la Farge"
-housenumber: 15
+street: Place de la Farge
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.institut-nohanent.marycohr.com"
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.institut-nohanent.marycohr.com

@@ -1,11 +1,11 @@
 id: 90586375
-type: way
+type: node
 latitude: 46.13666
 longitude: 3.42342
 postcode: "03200"
 city: Vichy
-street: "Rue des Bartins"
-housenumber: 4
-phone: "+33 4 12 04 27 97"
-opening_hours: "Mo-Th 09:00-12:00,14:30-18:00; Fr 09:00-12:00,14:30-17:30; Sa 09:00-12:00"
-website: "https://lamaisondesobseques.fr/"
+street: Rue des Bartins
+housenumber: "4"
+phone: +33 4 12 04 27 97
+opening_hours: Mo-Th 09:00-12:00,14:30-18:00; Fr 09:00-12:00,14:30-17:30; Sa 09:00-12:00
+website: https://lamaisondesobseques.fr/

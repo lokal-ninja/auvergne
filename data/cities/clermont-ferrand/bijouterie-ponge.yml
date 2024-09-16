@@ -4,8 +4,8 @@ latitude: 45.77863
 longitude: 3.08206
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue des Gras"
-housenumber: 37
+street: Rue des Gras
+housenumber: "37"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://guildedesorfevres.fr/bijouterie/clermont-ferrand-1150M"
+opening_hours: Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://guildedesorfevres.fr/bijouterie/clermont-ferrand-1150M

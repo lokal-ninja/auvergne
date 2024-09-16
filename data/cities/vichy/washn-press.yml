@@ -4,8 +4,8 @@ latitude: 46.1226
 longitude: 3.42296
 postcode: "03200"
 city: Vichy
-street: "Rue Maréchal Foch"
-housenumber: 20
-phone: "+33 4 70 32 11 38"
-opening_hours: "Mo-Su 07:30-19:30"
+street: Rue Maréchal Foch
+housenumber: "20"
+phone: +33 4 70 32 11 38
+opening_hours: Mo-Su 07:30-19:30
 website: ""

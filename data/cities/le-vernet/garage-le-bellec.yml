@@ -1,11 +1,11 @@
 id: 133572844
-type: way
+type: node
 latitude: 46.11716
 longitude: 3.44441
 postcode: "03200"
 city: Le Vernet
-street: "Rue des Combes"
-housenumber: 2
+street: Rue des Combes
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

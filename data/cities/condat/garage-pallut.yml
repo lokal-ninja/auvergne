@@ -1,11 +1,11 @@
 id: 837358101
-type: way
+type: node
 latitude: 45.33862
 longitude: 2.75879
 postcode: "15190"
 city: Condat
-street: "Rue de St Nazaire"
-housenumber: 
+street: Rue de St Nazaire
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

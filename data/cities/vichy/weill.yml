@@ -4,8 +4,8 @@ latitude: 46.12358
 longitude: 3.42201
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Wilson"
-housenumber: 4
-phone: "+33 4 70 31 95 45"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00; Su 15:00-19:00"
-website: "https://www.weill.com/fr/"
+street: Rue du Président Wilson
+housenumber: "4"
+phone: +33 4 70 31 95 45
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00; Su 15:00-19:00
+website: https://www.weill.com/fr/

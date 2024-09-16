@@ -1,11 +1,11 @@
 id: 1091835703
-type: way
+type: node
 latitude: 46.15828
 longitude: 3.39268
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 
+street: Route de Saint-Pourçain
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00
 website: ""

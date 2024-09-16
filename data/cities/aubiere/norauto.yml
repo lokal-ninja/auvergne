@@ -1,11 +1,11 @@
 id: 62842522
-type: way
+type: node
 latitude: 45.7568
 longitude: 3.12721
 postcode: "63170"
 city: Aubière
-street: "Avenue de la Margeride"
-housenumber: 66
+street: Avenue de la Margeride
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

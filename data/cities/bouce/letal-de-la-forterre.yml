@@ -4,8 +4,8 @@ latitude: 46.31773
 longitude: 3.49294
 postcode: "03150"
 city: Boucé
-street: "Route de Cindré"
-housenumber: 3
-phone: "+33 4 70 43 71 61"
-opening_hours: "08:00-12:00; We,Fr,Sa 08:00-12:00,15:30-18:30"
+street: Route de Cindré
+housenumber: "3"
+phone: +33 4 70 43 71 61
+opening_hours: 08:00-12:00; We,Fr,Sa 08:00-12:00,15:30-18:30
 website: ""

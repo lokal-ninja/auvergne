@@ -4,8 +4,8 @@ latitude: 46.13609
 longitude: 3.43327
 postcode: "03300"
 city: Cusset
-street: "Rue des Peupliers"
-housenumber: 40
-phone: "+33 4 70 98 36 09"
-opening_hours: "Mo 15:00-20:00; Tu-Sa 10:00-20:00; Th,Fr 10:00-22:00"
-website: "https://lacervoiserie.com/les-cervoisiers/vichy/"
+street: Rue des Peupliers
+housenumber: "40"
+phone: +33 4 70 98 36 09
+opening_hours: Mo 15:00-20:00; Tu-Sa 10:00-20:00; Th,Fr 10:00-22:00
+website: https://lacervoiserie.com/les-cervoisiers/vichy/

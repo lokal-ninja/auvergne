@@ -1,11 +1,11 @@
 id: 90893588
-type: way
+type: node
 latitude: 46.13747
 longitude: 3.436
 postcode: "03300"
 city: Cusset
-street: "Avenue Gilbert Roux"
-housenumber: 113
+street: Avenue Gilbert Roux
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

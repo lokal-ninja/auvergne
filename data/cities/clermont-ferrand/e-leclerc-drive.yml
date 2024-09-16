@@ -1,11 +1,11 @@
 id: 358477236
-type: way
+type: node
 latitude: 45.77869
 longitude: 3.1352
 postcode: "63100"
 city: Clermont-Ferrand
-street: "Avenue du Brézet"
-housenumber: 170
+street: Avenue du Brézet
+housenumber: "170"
 phone: ""
-opening_hours: "Mo 10:00-20:00; Tu-Fr 09:00-20:00; Sa 08:30-20:00"
+opening_hours: Mo 10:00-20:00; Tu-Fr 09:00-20:00; Sa 08:30-20:00
 website: ""

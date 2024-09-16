@@ -1,11 +1,11 @@
 id: 750933819
-type: way
+type: node
 latitude: 46.09424
 longitude: 3.43482
 postcode: "03200"
 city: Abrest
-street: "Rue de l'Industrie"
-housenumber: 4
-phone: "+33 4 43 03 10 44"
+street: Rue de l'Industrie
+housenumber: "4"
+phone: +33 4 43 03 10 44
 opening_hours: ""
-website: "https://www.points.fr/centre/a-c-s-abrest/"
+website: https://www.points.fr/centre/a-c-s-abrest/

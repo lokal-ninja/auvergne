@@ -4,8 +4,8 @@ latitude: 46.1253
 longitude: 3.42345
 postcode: "03200"
 city: Vichy
-street: "Rue de l'Hôtel des Postes"
-housenumber: 11
+street: Rue de l'Hôtel des Postes
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.coutelleriethiernoise.fr/"
+website: https://www.coutelleriethiernoise.fr/

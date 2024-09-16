@@ -4,8 +4,8 @@ latitude: 46.1243
 longitude: 3.42238
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 15
-phone: "+33 4 70 98 33 16"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.opticeo.fr/vichy"
+street: Rue Georges Clemenceau
+housenumber: "15"
+phone: +33 4 70 98 33 16
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.opticeo.fr/vichy

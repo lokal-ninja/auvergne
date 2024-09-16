@@ -4,8 +4,8 @@ latitude: 46.53535
 longitude: 3.34818
 postcode: "03400"
 city: Yzeure
-street: "Route de Lyon"
-housenumber: 190
+street: Route de Lyon
+housenumber: "190"
 phone: ""
 opening_hours: ""
-website: "https://www.esperluette-yzeure.fr/"
+website: https://www.esperluette-yzeure.fr/

@@ -1,11 +1,11 @@
 id: 86363551
-type: way
+type: node
 latitude: 45.04248
 longitude: 3.8843
 postcode: "43000"
 city: Le Puy-en-Velay
-street: "Place du Breuil"
-housenumber: 29
+street: Place du Breuil
+housenumber: "29"
 phone: "+33471090282"
-opening_hours: "Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00"
-website: "https://www.martel-optique.com"
+opening_hours: Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00
+website: https://www.martel-optique.com

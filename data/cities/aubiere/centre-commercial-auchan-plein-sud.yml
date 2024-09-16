@@ -1,11 +1,11 @@
 id: 62838869
-type: way
+type: node
 latitude: 45.75301
 longitude: 3.12807
 postcode: "63170"
 city: Aubière
-street: "Avenue du Roussillon"
-housenumber: 12
+street: Avenue du Roussillon
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://ccpleinsud.fr/"
+website: http://ccpleinsud.fr/

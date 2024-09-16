@@ -4,8 +4,8 @@ latitude: 46.1175
 longitude: 3.40872
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue Jean Jaurès"
-housenumber: 21
-phone: "+33 4 70 32 41 43"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
+street: Avenue Jean Jaurès
+housenumber: "21"
+phone: +33 4 70 32 41 43
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

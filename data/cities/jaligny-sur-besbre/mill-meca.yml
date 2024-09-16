@@ -4,8 +4,8 @@ latitude: 46.3802
 longitude: 3.58254
 postcode: "03220"
 city: Jaligny-sur-Besbre
-street: "Route de Moulins"
-housenumber: 3
-phone: "+33 6 45 55 62 09"
-opening_hours: "08:00-20:00"
-website: "https://www.mill-meca.fr/"
+street: Route de Moulins
+housenumber: "3"
+phone: +33 6 45 55 62 09
+opening_hours: 08:00-20:00
+website: https://www.mill-meca.fr/

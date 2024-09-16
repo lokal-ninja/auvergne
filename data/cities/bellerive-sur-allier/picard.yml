@@ -1,11 +1,11 @@
 id: 48604846
-type: way
+type: node
 latitude: 46.1176
 longitude: 3.41301
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue de la République"
-housenumber: 8
-phone: "+33 4 70 32 81 78"
-opening_hours: "Mo-Th 09:00-13:00,14:30-19:30; Fr,Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/94-picard-bellerive"
+street: Avenue de la République
+housenumber: "8"
+phone: +33 4 70 32 81 78
+opening_hours: Mo-Th 09:00-13:00,14:30-19:30; Fr,Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/94-picard-bellerive

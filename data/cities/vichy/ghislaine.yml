@@ -4,8 +4,8 @@ latitude: 46.12403
 longitude: 3.42225
 postcode: "03200"
 city: Vichy
-street: "Passage de l'Opéra"
-housenumber: 1
+street: Passage de l'Opéra
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00,14:30-17:30"
+opening_hours: Tu-Fr 10:00-12:00,14:30-17:30
 website: ""

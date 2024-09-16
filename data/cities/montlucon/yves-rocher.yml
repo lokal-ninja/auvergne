@@ -1,11 +1,11 @@
 id: 77776513
-type: way
+type: node
 latitude: 46.33889
 longitude: 2.60287
 postcode: "03100"
 city: Montluçon
-street: "Boulevard de Courtais"
-housenumber: 33
+street: Boulevard de Courtais
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/auvergne-rhone-alpes/montlucon/montlucon/S-FRYROC278"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/auvergne-rhone-alpes/montlucon/montlucon/S-FRYROC278

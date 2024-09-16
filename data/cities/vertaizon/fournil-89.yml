@@ -1,11 +1,11 @@
 id: 107790766
-type: way
+type: node
 latitude: 45.78612
 longitude: 3.28196
 postcode: "63910"
 city: Vertaizon
-street: "Avenue Jacques Duclos"
-housenumber: 41
+street: Avenue Jacques Duclos
+housenumber: "41"
 phone: "0473791183"
-opening_hours: "Tu-Sa 06:30-19:30; PH off"
+opening_hours: Tu-Sa 06:30-19:30; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.12669
 longitude: 3.42891
 postcode: "03200"
 city: Vichy
-street: "Rue de Paris"
-housenumber: 80
-phone: "+33 4 70 97 52 99"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Rue de Paris
+housenumber: "80"
+phone: +33 4 70 97 52 99
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

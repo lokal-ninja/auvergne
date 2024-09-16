@@ -4,8 +4,8 @@ latitude: 45.73965
 longitude: 3.17223
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue du Maréchal Leclerc"
-housenumber: 2
+street: Avenue du Maréchal Leclerc
+housenumber: "2"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-19:45"
+opening_hours: PH,Mo-Su 06:00-19:45
 website: ""

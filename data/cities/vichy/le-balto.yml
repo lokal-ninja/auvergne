@@ -1,11 +1,11 @@
 id: 90588506
-type: way
+type: node
 latitude: 46.13143
 longitude: 3.42366
 postcode: "03200"
 city: Vichy
-street: "Rue Jean Jaurès"
-housenumber: 98
+street: Rue Jean Jaurès
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

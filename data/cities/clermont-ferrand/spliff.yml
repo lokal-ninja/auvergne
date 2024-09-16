@@ -4,8 +4,8 @@ latitude: 45.77665
 longitude: 3.08621
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue de la Treille"
-housenumber: 8
-phone: "+33 4 73 91 88 54"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:30-12:30,14:00-19:00"
+street: Rue de la Treille
+housenumber: "8"
+phone: +33 4 73 91 88 54
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:30-12:30,14:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 133449887
-type: way
+type: node
 latitude: 46.14294
 longitude: 3.42882
 postcode: "03300"
 city: Cusset
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 23
-phone: "+33 4 70 98 29 19"
+street: Boulevard d'Alsace-Lorraine
+housenumber: "23"
+phone: +33 4 70 98 29 19
 opening_hours: ""
-website: "https://www.electric-omnia-jmg.fr/"
+website: https://www.electric-omnia-jmg.fr/

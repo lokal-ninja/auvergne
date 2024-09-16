@@ -1,11 +1,11 @@
 id: 63489856
-type: way
+type: node
 latitude: 45.74754
 longitude: 3.16806
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Rue Jean Mermoz"
-housenumber: 13
+street: Rue Jean Mermoz
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

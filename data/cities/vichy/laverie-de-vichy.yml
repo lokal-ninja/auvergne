@@ -4,8 +4,8 @@ latitude: 46.12845
 longitude: 3.42504
 postcode: "03200"
 city: Vichy
-street: "Rue du 4 Septembre"
-housenumber: 3
+street: Rue du 4 Septembre
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 07:30-21:00"
+opening_hours: Mo-Su 07:30-21:00
 website: ""

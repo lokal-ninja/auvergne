@@ -4,8 +4,8 @@ latitude: 46.0727
 longitude: 3.66846
 postcode: "03250"
 city: Le Mayet-de-Montagne
-street: "Place de l'Église"
-housenumber: 27
-phone: "+33 4 70 59 70 31"
-opening_hours: "Mo-Sa 07:00-19:00; Tu off; Su 07:00-17:00"
+street: Place de l'Église
+housenumber: "27"
+phone: +33 4 70 59 70 31
+opening_hours: Mo-Sa 07:00-19:00; Tu off; Su 07:00-17:00
 website: ""

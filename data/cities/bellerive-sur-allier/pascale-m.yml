@@ -4,8 +4,8 @@ latitude: 46.11794
 longitude: 3.40854
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue de Vichy"
-housenumber: 21
-phone: "+33 4 70 32 32 74"
-opening_hours: "Tu,We 08:30-18:30; Th-Sa 08:30-17:00"
+street: Avenue de Vichy
+housenumber: "21"
+phone: +33 4 70 32 32 74
+opening_hours: Tu,We 08:30-18:30; Th-Sa 08:30-17:00
 website: ""

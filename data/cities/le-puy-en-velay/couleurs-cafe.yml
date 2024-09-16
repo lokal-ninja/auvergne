@@ -1,11 +1,11 @@
 id: 86361975
-type: way
+type: node
 latitude: 45.04276
 longitude: 3.8869
 postcode: "43000"
 city: Le Puy-en-Velay
-street: "Rue Portail d'Avignon"
-housenumber: 9
+street: Rue Portail d'Avignon
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-16:30"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-16:30
 website: ""

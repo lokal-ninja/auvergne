@@ -1,11 +1,11 @@
 id: 43703881
-type: way
+type: node
 latitude: 45.75473
 longitude: 3.12881
 postcode: "63170"
 city: Aubière
-street: "Rue des Sauzettes"
-housenumber: 3
+street: Rue des Sauzettes
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

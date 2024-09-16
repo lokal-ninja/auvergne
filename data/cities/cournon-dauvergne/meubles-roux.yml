@@ -1,11 +1,11 @@
 id: 63487261
-type: way
+type: node
 latitude: 45.73328
 longitude: 3.17952
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Route du Cendre"
-housenumber: 17
+street: Route du Cendre
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

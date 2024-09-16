@@ -4,8 +4,8 @@ latitude: 45.7774
 longitude: 3.08709
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Grégoire de Tours"
-housenumber: 2
+street: Rue Grégoire de Tours
+housenumber: "2"
 phone: ""
-opening_hours: "Fr,Sa 14:00-19:00"
+opening_hours: Fr,Sa 14:00-19:00
 website: ""

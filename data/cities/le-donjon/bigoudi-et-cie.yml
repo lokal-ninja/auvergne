@@ -4,8 +4,8 @@ latitude: 46.35114
 longitude: 3.79333
 postcode: "03130"
 city: Le Donjon
-street: "Place du Marché"
-housenumber: 22
-phone: "+33 4 70 99 57 85"
-opening_hours: "Tu,We 08:30-12:00,14:00-19:00; Th,Fr 08:30-19:00; Sa 08:30-17:30"
+street: Place du Marché
+housenumber: "22"
+phone: +33 4 70 99 57 85
+opening_hours: Tu,We 08:30-12:00,14:00-19:00; Th,Fr 08:30-19:00; Sa 08:30-17:30
 website: ""

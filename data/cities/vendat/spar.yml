@@ -1,11 +1,11 @@
 id: 339148371
-type: way
+type: node
 latitude: 46.16707
 longitude: 3.35494
 postcode: "03110"
 city: Vendat
-street: "Rue des Landes"
-housenumber: 6
+street: Rue des Landes
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

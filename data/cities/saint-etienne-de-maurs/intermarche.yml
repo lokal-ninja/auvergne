@@ -1,11 +1,11 @@
 id: 267913246
-type: way
+type: node
 latitude: 44.71424
 longitude: 2.2037
 postcode: "15600"
 city: Saint-Étienne-de-Maurs
-street: "Route d'Aurillac"
-housenumber: 
+street: Route d'Aurillac
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

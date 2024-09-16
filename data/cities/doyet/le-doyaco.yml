@@ -1,11 +1,12 @@
 id: 398712275
-type: way
+type: node
 latitude: 46.33611
 longitude: 2.79867
 postcode: "03170"
 city: Doyet
-street: "Place Jean Jaurès"
-housenumber: 1
+street: Place Jean Jaurès
+housenumber: "1"
 phone: "+33470293865"
-opening_hours: "Mo 07:30-13:00; Tu 07:30-12:30,15:30-19:00; Th 07:30-13:00,15:30-18:00; Fr,Sa 07:30-13:00,15:30-19:00"
-website: "https://www.facebook.com/epicerie.doyet.1"
+opening_hours: Mo 07:30-13:00; Tu 07:30-12:30,15:30-19:00; Th 07:30-13:00,15:30-18:00;
+    Fr,Sa 07:30-13:00,15:30-19:00
+website: https://www.facebook.com/epicerie.doyet.1

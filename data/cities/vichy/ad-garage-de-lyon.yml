@@ -1,11 +1,11 @@
 id: 90593143
-type: way
+type: node
 latitude: 46.13906
 longitude: 3.41903
 postcode: "03200"
 city: Vichy
-street: "Rue de Beauséjour"
-housenumber: 48
+street: Rue de Beauséjour
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

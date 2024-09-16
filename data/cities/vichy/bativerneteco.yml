@@ -4,8 +4,8 @@ latitude: 46.12412
 longitude: 3.42324
 postcode: "03200"
 city: Vichy
-street: "Rue Sainte-Cécile"
-housenumber: 23
+street: Rue Sainte-Cécile
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; Sa 14:00-18:30"
-website: "https://bativerneteco.fr/"
+opening_hours: Mo-Fr 14:00-18:00; Sa 14:00-18:30
+website: https://bativerneteco.fr/

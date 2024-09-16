@@ -1,11 +1,11 @@
 id: 133425691
-type: way
+type: node
 latitude: 46.13974
 longitude: 3.43947
 postcode: "03300"
 city: Cusset
-street: "Rue Ampère"
-housenumber: 27
+street: Rue Ampère
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.gabriel-sa.fr/"
+website: https://www.gabriel-sa.fr/

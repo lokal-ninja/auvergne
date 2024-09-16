@@ -4,8 +4,8 @@ latitude: 45.80688
 longitude: 3.11266
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Louise Michel"
-housenumber: 2
+street: Rue Louise Michel
+housenumber: "2"
 phone: ""
-opening_hours: "We-Th 14:00-20:00; Sa 14:00-18:00"
-website: "https://unguidondanslatete.fr/"
+opening_hours: We-Th 14:00-20:00; Sa 14:00-18:00
+website: https://unguidondanslatete.fr/

@@ -4,8 +4,8 @@ latitude: 45.9627
 longitude: 2.93817
 postcode: "63410"
 city: Manzat
-street: "Route des Combrailles"
-housenumber: 20
-phone: "+33 473 33 14 04"
-opening_hours: "Tu-Th 08:30-12:00,14:30-18:30; Fr 08:30-12:00,14:30-17:00; Sa 09:00-12:00"
-website: "http://www.admv.biz/"
+street: Route des Combrailles
+housenumber: "20"
+phone: +33 473 33 14 04
+opening_hours: Tu-Th 08:30-12:00,14:30-18:30; Fr 08:30-12:00,14:30-17:00; Sa 09:00-12:00
+website: http://www.admv.biz/

@@ -4,8 +4,8 @@ latitude: 45.5496
 longitude: 3.74198
 postcode: "63600"
 city: Ambert
-street: "Rue de la Fileterie"
-housenumber: 17
-phone: "+334 73 95 65 96"
-opening_hours: "Tu-Sa 09:00-12:00,14:30-19:00"
-website: "odeuxterroirs.fr"
+street: Rue de la Fileterie
+housenumber: "17"
+phone: +334 73 95 65 96
+opening_hours: Tu-Sa 09:00-12:00,14:30-19:00
+website: odeuxterroirs.fr

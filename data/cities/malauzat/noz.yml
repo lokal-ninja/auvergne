@@ -1,11 +1,11 @@
 id: 93290553
-type: way
+type: node
 latitude: 45.88693
 longitude: 3.06599
 postcode: "63200"
 city: Malauzat
-street: "Avenue Jean Jaurès"
-housenumber: 
+street: Avenue Jean Jaurès
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/malauzat/"
+website: https://www.nozarrivages.com/magasin/malauzat/

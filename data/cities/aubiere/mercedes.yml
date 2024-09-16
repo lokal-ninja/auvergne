@@ -1,11 +1,11 @@
 id: 62844321
-type: way
+type: node
 latitude: 45.7505
 longitude: 3.13484
 postcode: "63170"
 city: Aubière
-street: "Avenue du Roussillon"
-housenumber: 35
+street: Avenue du Roussillon
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

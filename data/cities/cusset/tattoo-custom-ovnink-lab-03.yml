@@ -4,8 +4,8 @@ latitude: 46.1325
 longitude: 3.45659
 postcode: "03300"
 city: Cusset
-street: "Place Victor Hugo"
-housenumber: 32
+street: Place Victor Hugo
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Sa 13:00-19:00"
-website: "https://passion-bougie.fr/"
+opening_hours: Tu-Sa 13:00-19:00
+website: https://passion-bougie.fr/

@@ -4,8 +4,8 @@ latitude: 46.31193
 longitude: 3.40263
 postcode: "03150"
 city: Varennes-sur-Allier
-street: "Rue Jean Jaurès"
-housenumber: 2
-phone: "04 70 45 80 83"
-opening_hours: "Mo-Sa 07:30-12:30,13:30-18:00; Tu 07:30-12:30,13:30-18:30; Su 07:30-12:30"
+street: Rue Jean Jaurès
+housenumber: "2"
+phone: 04 70 45 80 83
+opening_hours: Mo-Sa 07:30-12:30,13:30-18:00; Tu 07:30-12:30,13:30-18:30; Su 07:30-12:30
 website: ""

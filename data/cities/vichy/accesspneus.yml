@@ -4,8 +4,8 @@ latitude: 46.13569
 longitude: 3.42211
 postcode: "03200"
 city: Vichy
-street: "Rue de Soissons"
-housenumber: 26
+street: Rue de Soissons
+housenumber: "26"
 phone: ""
-opening_hours: "Mo,Su 15:00-20:30; Tu-Sa 10:00-20:30"
+opening_hours: Mo,Su 15:00-20:30; Tu-Sa 10:00-20:30
 website: ""

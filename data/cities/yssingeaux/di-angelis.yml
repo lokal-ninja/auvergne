@@ -4,8 +4,8 @@ latitude: 45.14324
 longitude: 4.12468
 postcode: "43200"
 city: Yssingeaux
-street: "Esplanade du Garde-Temps"
-housenumber: 11
+street: Esplanade du Garde-Temps
+housenumber: "11"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 10:00-19:00;Th 08:00-19:00;Su 10:00-18:00"
+opening_hours: Tu,We,Fr,Sa 10:00-19:00;Th 08:00-19:00;Su 10:00-18:00
 website: ""

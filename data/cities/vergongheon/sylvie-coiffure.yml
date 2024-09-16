@@ -1,11 +1,11 @@
 id: 174979373
-type: way
+type: node
 latitude: 45.37125
 longitude: 3.31993
 postcode: "43360"
 city: Vergongheon
-street: "Place du Centre"
-housenumber: 3
+street: Place du Centre
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

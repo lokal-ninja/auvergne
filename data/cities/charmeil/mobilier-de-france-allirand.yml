@@ -1,11 +1,11 @@
 id: 366565660
-type: way
+type: node
 latitude: 46.15852
 longitude: 3.392
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 18
-phone: "+33 4 70 32 03 48"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.allirand.fr/"
+street: Route de Saint-Pourçain
+housenumber: "18"
+phone: +33 4 70 32 03 48
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.allirand.fr/

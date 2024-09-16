@@ -4,8 +4,9 @@ latitude: 45.00231
 longitude: 3.22355
 postcode: "15320"
 city: Ruynes-en-Margeride
-street: "Place de l'Église Notre-Dame"
-housenumber: 7
-phone: "04 71 20 67 80"
-opening_hours: "Mo-We 08:30-13:30,15:30-18:30; Fr 15:30-18:30; Sa 09:30-13:30,15:30-18:30; Su 09:30-13:30"
+street: Place de l'Église Notre-Dame
+housenumber: "7"
+phone: 04 71 20 67 80
+opening_hours: Mo-We 08:30-13:30,15:30-18:30; Fr 15:30-18:30; Sa 09:30-13:30,15:30-18:30;
+    Su 09:30-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.1227
 longitude: 3.42232
 postcode: "03200"
 city: Vichy
-street: "Rue de la Source de l'Hôpital"
-housenumber: 22
-phone: "+33 4 70 32 80 24"
-opening_hours: "Mo-Fr 09:00-18:00; We off; Sa 09:00-17:00"
+street: Rue de la Source de l'Hôpital
+housenumber: "22"
+phone: +33 4 70 32 80 24
+opening_hours: Mo-Fr 09:00-18:00; We off; Sa 09:00-17:00
 website: ""

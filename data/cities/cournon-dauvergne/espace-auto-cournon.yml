@@ -1,11 +1,11 @@
 id: 63473414
-type: way
+type: node
 latitude: 45.73357
 longitude: 3.19258
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue de la Libération"
-housenumber: 31
+street: Avenue de la Libération
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

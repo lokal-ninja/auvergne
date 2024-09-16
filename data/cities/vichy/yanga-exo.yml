@@ -4,8 +4,8 @@ latitude: 46.12356
 longitude: 3.43092
 postcode: "03200"
 city: Vichy
-street: "Rue Voltaire"
-housenumber: 3
+street: Rue Voltaire
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

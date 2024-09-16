@@ -1,11 +1,11 @@
 id: 66734176
-type: way
+type: node
 latitude: 45.76197
 longitude: 3.12663
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Boulevard Gustave Flaubert"
-housenumber: 175
+street: Boulevard Gustave Flaubert
+housenumber: "175"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

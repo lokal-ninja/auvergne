@@ -4,8 +4,8 @@ latitude: 46.38011
 longitude: 3.59281
 postcode: "03220"
 city: Jaligny-sur-Besbre
-street: "Grande Rue"
-housenumber: 5
-phone: "+33 4 70 20 36 70"
-opening_hours: "06:30-13:00; Fr,Sa 06:30-12:45,15:00-19:30"
+street: Grande Rue
+housenumber: "5"
+phone: +33 4 70 20 36 70
+opening_hours: 06:30-13:00; Fr,Sa 06:30-12:45,15:00-19:30
 website: ""

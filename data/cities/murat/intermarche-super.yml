@@ -1,11 +1,11 @@
 id: 260325084
-type: way
+type: node
 latitude: 45.10568
 longitude: 2.86343
 postcode: "15300"
 city: Murat
-street: "Chemin La Croix Jolie"
-housenumber: 
+street: Chemin La Croix Jolie
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

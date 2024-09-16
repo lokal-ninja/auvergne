@@ -4,8 +4,8 @@ latitude: 45.76938
 longitude: 3.12404
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Boulevard Gustave Flaubert"
-housenumber: 61
+street: Boulevard Gustave Flaubert
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://esthetica-spa.fr/"
+website: https://esthetica-spa.fr/

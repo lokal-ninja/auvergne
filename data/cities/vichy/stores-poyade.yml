@@ -4,8 +4,8 @@ latitude: 46.13091
 longitude: 3.42566
 postcode: "03200"
 city: Vichy
-street: "Boulevard de la Mutualité"
-housenumber: 1
-phone: "+33 4 70 99 28 31"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.storespoyade.fr/"
+street: Boulevard de la Mutualité
+housenumber: "1"
+phone: +33 4 70 99 28 31
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.storespoyade.fr/

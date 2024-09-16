@@ -4,8 +4,8 @@ latitude: 45.1435
 longitude: 4.12563
 postcode: ""
 city: Yssingeaux
-street: "Avenue de la Marne"
-housenumber: 6
-phone: "+33 4 71 65 17 19"
-opening_hours: "Tu-Sa 08:30-12:00,14:00-19:00"
-website: "http://www.couteaux-poche.com"
+street: Avenue de la Marne
+housenumber: "6"
+phone: +33 4 71 65 17 19
+opening_hours: Tu-Sa 08:30-12:00,14:00-19:00
+website: http://www.couteaux-poche.com

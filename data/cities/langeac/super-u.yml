@@ -1,11 +1,11 @@
 id: 303477394
-type: way
+type: node
 latitude: 45.11192
 longitude: 3.49253
 postcode: "43300"
 city: Langeac
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33471770466"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-langeac.m66069"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-langeac.m66069

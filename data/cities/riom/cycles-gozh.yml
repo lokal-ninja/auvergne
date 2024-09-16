@@ -4,8 +4,8 @@ latitude: 45.89372
 longitude: 3.1156
 postcode: "63200"
 city: Riom
-street: "Rue de l'Hôtel de Ville"
-housenumber: 22
-phone: "+33 6 98 98 67 43"
+street: Rue de l'Hôtel de Ville
+housenumber: "22"
+phone: +33 6 98 98 67 43
 opening_hours: ""
-website: "https://www.cycles-gozh.fr/"
+website: https://www.cycles-gozh.fr/

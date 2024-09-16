@@ -4,8 +4,8 @@ latitude: 46.13695
 longitude: 3.42344
 postcode: "03200"
 city: Vichy
-street: "Rue des Bartins"
-housenumber: 3
-phone: "+33 4 70 31 11 73"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-18:30"
+street: Rue des Bartins
+housenumber: "3"
+phone: +33 4 70 31 11 73
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-18:30
 website: ""

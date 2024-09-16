@@ -4,8 +4,8 @@ latitude: 46.0995
 longitude: 3.19781
 postcode: "03800"
 city: gannat
-street: "Grande Rue"
-housenumber: 88
-phone: "+33 9 80 71 80 88"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-19:00; Su 15:00-19:00"
-website: "https://www.facebook.com/auxdestrolls"
+street: Grande Rue
+housenumber: "88"
+phone: +33 9 80 71 80 88
+opening_hours: Tu-Sa 09:00-12:00,15:00-19:00; Su 15:00-19:00
+website: https://www.facebook.com/auxdestrolls

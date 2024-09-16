@@ -4,8 +4,8 @@ latitude: 45.14485
 longitude: 4.12457
 postcode: "43200"
 city: Yssingeaux
-street: "Place de Chaussand"
-housenumber: 4
+street: Place de Chaussand
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-We,Fr-Sa 09:30-12:00,16:00-18:30; Th 09:30-12:00"
+opening_hours: Tu-We,Fr-Sa 09:30-12:00,16:00-18:30; Th 09:30-12:00
 website: ""

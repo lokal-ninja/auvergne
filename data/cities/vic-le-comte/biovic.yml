@@ -4,8 +4,8 @@ latitude: 45.64531
 longitude: 3.22966
 postcode: "63270"
 city: Vic-le-Comte
-street: "ZAC Les Meules"
-housenumber: 
-phone: "+33 4 73 78 04 64"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bio-vic.fr/"
+street: ZAC Les Meules
+housenumber: ""
+phone: +33 4 73 78 04 64
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bio-vic.fr/

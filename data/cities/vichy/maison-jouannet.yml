@@ -4,8 +4,8 @@ latitude: 46.12078
 longitude: 3.42492
 postcode: "03200"
 city: Vichy
-street: "Rue du Maréchal Lyautey"
-housenumber: 119
+street: Rue du Maréchal Lyautey
+housenumber: "119"
 phone: "+33470321725"
-opening_hours: "Tu-Fr 07:00-14:00,16:00-19:30; Sa 07:00-13:00,16:00-19:30; Su 07:30-13:00"
-website: "https://www.maison-jouannet.fr/"
+opening_hours: Tu-Fr 07:00-14:00,16:00-19:30; Sa 07:00-13:00,16:00-19:30; Su 07:30-13:00
+website: https://www.maison-jouannet.fr/

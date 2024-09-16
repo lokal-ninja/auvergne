@@ -4,8 +4,8 @@ latitude: 46.12777
 longitude: 3.42943
 postcode: "03200"
 city: Vichy
-street: "Avenue de Gramont"
-housenumber: 23
-phone: "+33 9 53 95 17 36"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+street: Avenue de Gramont
+housenumber: "23"
+phone: +33 9 53 95 17 36
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
 website: ""

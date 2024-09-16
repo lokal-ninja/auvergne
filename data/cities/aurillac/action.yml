@@ -4,8 +4,9 @@ latitude: 44.91084
 longitude: 2.44532
 postcode: "15000"
 city: Aurillac
-street: "123 Avenue du Général Leclerc"
-housenumber: 
+street: 123 Avenue du Général Leclerc
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su closed"
-website: "https://www.action.com/fr-fr/points-de-vente/aurillac-123-avenue-du-general-leclerc/"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-19:00; Su closed
+website: https://www.action.com/fr-fr/points-de-vente/aurillac-123-avenue-du-general-leclerc/

@@ -1,11 +1,11 @@
 id: 77789722
-type: way
+type: node
 latitude: 46.35293
 longitude: 2.58644
 postcode: ""
 city: Montluçon
-street: "Avenue Pierre Villon"
-housenumber: 28
+street: Avenue Pierre Villon
+housenumber: "28"
 phone: "+33470081170"
 opening_hours: ""
-website: "http://www.e-leclerc.com/"
+website: http://www.e-leclerc.com/

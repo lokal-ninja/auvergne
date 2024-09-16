@@ -1,11 +1,11 @@
 id: 661862374
-type: way
+type: node
 latitude: 46.15401
 longitude: 3.41148
 postcode: "03300"
 city: Creuzier-le-Vieux
-street: "Rue des Ailes"
-housenumber: 1
+street: Rue des Ailes
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.nozarrivages.com/magasin/creuzier-le-vieux/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.nozarrivages.com/magasin/creuzier-le-vieux/

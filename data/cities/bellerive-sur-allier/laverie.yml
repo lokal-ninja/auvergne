@@ -1,11 +1,11 @@
 id: 1150546102
-type: way
+type: node
 latitude: 46.11422
 longitude: 3.41489
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Rue Rhin et Danube"
-housenumber: 
+street: Rue Rhin et Danube
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

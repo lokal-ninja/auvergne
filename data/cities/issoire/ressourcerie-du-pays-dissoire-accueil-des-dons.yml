@@ -4,8 +4,9 @@ latitude: 45.55736
 longitude: 3.25075
 postcode: "63500"
 city: Issoire
-street: "Impasse Pierre-Georges Latécoère"
-housenumber: 14
+street: Impasse Pierre-Georges Latécoère
+housenumber: "14"
 phone: ""
-opening_hours: "mardi-jeudi 8h30-12h30 et 13h30-16h, vendredi 13h30-16h et samedi 10h-12h et 14h-16h"
+opening_hours: mardi-jeudi 8h30-12h30 et 13h30-16h, vendredi 13h30-16h et samedi 10h-12h
+    et 14h-16h
 website: ""

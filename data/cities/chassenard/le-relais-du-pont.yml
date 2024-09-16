@@ -1,11 +1,11 @@
 id: 94590553
-type: way
+type: node
 latitude: 46.47605
 longitude: 3.96924
 postcode: "03510"
 city: Chassenard
-street: "Route de Digoin"
-housenumber: 122
+street: Route de Digoin
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

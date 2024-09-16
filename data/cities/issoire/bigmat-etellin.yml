@@ -4,8 +4,8 @@ latitude: 45.55303
 longitude: 3.26155
 postcode: "63500"
 city: Issoire
-street: "Rue Pierre Antoine Rouvet"
-housenumber: 3
-phone: "+33 4 73 89 98 99"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30; Sa 08:00-12:00"
-website: "https://www.bigmat.fr/etellin/issoire/"
+street: Rue Pierre Antoine Rouvet
+housenumber: "3"
+phone: +33 4 73 89 98 99
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30; Sa 08:00-12:00
+website: https://www.bigmat.fr/etellin/issoire/

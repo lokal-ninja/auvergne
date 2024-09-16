@@ -4,8 +4,8 @@ latitude: 45.29291
 longitude: 3.42338
 postcode: "43100"
 city: FONTANNES
-street: "Route de Bonnefond"
-housenumber: 23
-phone: "+33 4 71 76 60 73"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Route de Bonnefond
+housenumber: "23"
+phone: +33 4 71 76 60 73
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

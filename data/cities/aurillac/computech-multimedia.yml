@@ -1,11 +1,11 @@
 id: 336434673
-type: way
+type: node
 latitude: 44.9176
 longitude: 2.42334
 postcode: "15000"
 city: AURILLAC
-street: "Rue Jacques Prévert"
-housenumber: 5
+street: Rue Jacques Prévert
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

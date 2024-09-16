@@ -4,8 +4,9 @@ latitude: 45.77589
 longitude: 3.06758
 postcode: "63400"
 city: Chamalières
-street: "Avenue de Royat"
-housenumber: 25
+street: Avenue de Royat
+housenumber: "25"
 phone: "+33473364389"
-opening_hours: "Mo 14:00-19:30; Tu-Th 08:00-13:00,14:00-19:30; Fr,Sa 08:00-19:30; Su 09:00-13:00"
+opening_hours: Mo 14:00-19:30; Tu-Th 08:00-13:00,14:00-19:30; Fr,Sa 08:00-19:30; Su
+    09:00-13:00
 website: ""

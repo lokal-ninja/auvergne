@@ -1,11 +1,11 @@
 id: 961379756
-type: way
+type: node
 latitude: 46.1121
 longitude: 3.43892
 postcode: "03200"
 city: Abrest
-street: "Avenue des Graviers"
-housenumber: 147
-phone: "+33 4 43 03 64 37"
+street: Avenue des Graviers
+housenumber: "147"
+phone: +33 4 43 03 64 37
 opening_hours: ""
-website: "https://www.ag-engine.com/"
+website: https://www.ag-engine.com/

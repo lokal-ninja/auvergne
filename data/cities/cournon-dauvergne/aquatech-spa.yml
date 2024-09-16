@@ -1,11 +1,11 @@
 id: 63474247
-type: way
+type: node
 latitude: 45.74486
 longitude: 3.17071
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Rue Jean Mermoz"
-housenumber: 29
+street: Rue Jean Mermoz
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://aquatech-spa.com/"
+website: https://aquatech-spa.com/

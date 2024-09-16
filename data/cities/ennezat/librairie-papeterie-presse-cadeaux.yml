@@ -4,8 +4,9 @@ latitude: 45.8977
 longitude: 3.22277
 postcode: "63720"
 city: Ennezat
-street: "Rue de la République"
+street: Rue de la République
 housenumber: 25 bis
 phone: ""
-opening_hours: "Mo,Th 06:30-12:00; Tu-Fr 06:30-12:00,15:30-19:00; Sa 07:00-12:00,15:30-18:00; Su 07:00-12:00"
+opening_hours: Mo,Th 06:30-12:00; Tu-Fr 06:30-12:00,15:30-19:00; Sa 07:00-12:00,15:30-18:00;
+    Su 07:00-12:00
 website: ""

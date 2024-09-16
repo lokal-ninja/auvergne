@@ -1,11 +1,11 @@
 id: 387245416
-type: way
+type: node
 latitude: 46.09973
 longitude: 3.20417
 postcode: "03800"
 city: Gannat
-street: "Avenue de la Gare"
-housenumber: 1
-phone: "+33 4 70 90 23 96"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:45"
-website: "https://www.auchan.fr/"
+street: Avenue de la Gare
+housenumber: "1"
+phone: +33 4 70 90 23 96
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:45
+website: https://www.auchan.fr/

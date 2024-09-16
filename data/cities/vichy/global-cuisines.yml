@@ -1,11 +1,11 @@
 id: 725310359
-type: way
+type: node
 latitude: 46.13598
 longitude: 3.42763
 postcode: "03200"
 city: Vichy
-street: "Rue des Bartins"
-housenumber: 54
+street: Rue des Bartins
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
 website: ""

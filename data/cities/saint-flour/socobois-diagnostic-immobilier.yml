@@ -4,8 +4,8 @@ latitude: 45.03358
 longitude: 3.10052
 postcode: "15100"
 city: Saint-Flour
-street: "Place de la Liberté"
-housenumber: 43
+street: Place de la Liberté
+housenumber: "43"
 phone: "+33471606868"
 opening_hours: ""
-website: "https://diagnostic-immobilier-socobois.fr/saint-flour"
+website: https://diagnostic-immobilier-socobois.fr/saint-flour

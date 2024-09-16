@@ -4,8 +4,8 @@ latitude: 46.12514
 longitude: 3.42379
 postcode: "03200"
 city: Vichy
-street: "Rue de l'Hôtel des Postes"
-housenumber: 14
+street: Rue de l'Hôtel des Postes
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00; Th 11:00-13:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00; Th 11:00-13:00,14:00-19:00
 website: ""

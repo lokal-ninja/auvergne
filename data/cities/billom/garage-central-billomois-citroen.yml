@@ -4,8 +4,8 @@ latitude: 45.72405
 longitude: 3.33828
 postcode: "63160"
 city: Billom
-street: "Rue Carnot"
-housenumber: 16
+street: Rue Carnot
+housenumber: "16"
 phone: "0473684035"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00
 website: ""

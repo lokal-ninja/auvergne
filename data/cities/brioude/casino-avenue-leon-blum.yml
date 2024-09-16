@@ -1,11 +1,11 @@
 id: 160643698
-type: way
+type: node
 latitude: 45.29015
 longitude: 3.38694
 postcode: "43100"
 city: Brioude
-street: "Avenue Léon Blum"
-housenumber: 
-phone: "+33 4 71 50 11 53"
-opening_hours: "Mo 09:00-18:00; Tu-Su 08:30-19:30"
-website: "https://magasins.supercasino.fr/supermarche/brioude/CS530"
+street: Avenue Léon Blum
+housenumber: ""
+phone: +33 4 71 50 11 53
+opening_hours: Mo 09:00-18:00; Tu-Su 08:30-19:30
+website: https://magasins.supercasino.fr/supermarche/brioude/CS530

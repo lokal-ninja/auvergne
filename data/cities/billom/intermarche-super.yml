@@ -1,11 +1,11 @@
 id: 107811492
-type: way
+type: node
 latitude: 45.72373
 longitude: 3.33391
 postcode: "63160"
 city: Billom
-street: "Avenue de la République"
-housenumber: 
+street: Avenue de la République
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1027124021
-type: way
+type: node
 latitude: 46.04906
 longitude: 3.47086
 postcode: "03270"
 city: Saint-Yorre
-street: "Chemin de la Grande Vaure"
-housenumber: 
+street: Chemin de la Grande Vaure
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

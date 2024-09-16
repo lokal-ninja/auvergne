@@ -4,8 +4,8 @@ latitude: 46.12422
 longitude: 3.42476
 postcode: "03200"
 city: Vichy
-street: "Avenue du Président Doumer"
-housenumber: 28
+street: Avenue du Président Doumer
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00"
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00
 website: ""

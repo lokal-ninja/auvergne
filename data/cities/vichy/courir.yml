@@ -4,8 +4,8 @@ latitude: 46.12321
 longitude: 3.42243
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
+street: Rue Georges Clemenceau
 housenumber: 2-4
-phone: "+33 4 70 99 35 78"
-opening_hours: "Mo-Sa 10:00-19:00; Su 14:00-19:00"
-website: "https://www.courir.fr"
+phone: +33 4 70 99 35 78
+opening_hours: Mo-Sa 10:00-19:00; Su 14:00-19:00
+website: https://www.courir.fr

@@ -5,7 +5,7 @@ longitude: 3.32877
 postcode: "03000"
 city: Moulins
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: "0470202331"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su-Mo off"
-website: "https://www.atelier-picodon.com/"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su-Mo off
+website: https://www.atelier-picodon.com/

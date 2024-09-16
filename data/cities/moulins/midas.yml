@@ -4,8 +4,8 @@ latitude: 46.56034
 longitude: 3.32797
 postcode: "03000"
 city: Moulins
-street: "Avenue d'Orvilliers"
-housenumber: 42
-phone: "+33 4 70 20 40 54"
+street: Avenue d'Orvilliers
+housenumber: "42"
+phone: +33 4 70 20 40 54
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

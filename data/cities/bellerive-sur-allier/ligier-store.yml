@@ -1,11 +1,11 @@
 id: 133387727
-type: way
+type: node
 latitude: 46.12401
 longitude: 3.40384
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Avenue de Vichy"
-housenumber: 110
+street: Avenue de Vichy
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

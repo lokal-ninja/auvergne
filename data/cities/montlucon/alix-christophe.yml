@@ -4,8 +4,8 @@ latitude: 46.33638
 longitude: 2.58689
 postcode: "03100"
 city: Montluçon
-street: "Avenue du Président Vincent Auriol"
-housenumber: 92
+street: Avenue du Président Vincent Auriol
+housenumber: "92"
 phone: "+33470034486"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:30; We off; Sa 07:00-13:00; Su 07:00-12:30"
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:30; We off; Sa 07:00-13:00; Su 07:00-12:30
 website: ""

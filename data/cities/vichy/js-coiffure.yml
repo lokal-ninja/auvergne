@@ -4,8 +4,8 @@ latitude: 46.12766
 longitude: 3.42331
 postcode: "03200"
 city: Vichy
-street: "Avenue Victoria"
-housenumber: 27
-phone: "+33 4 70 98 89 54"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH off"
+street: Avenue Victoria
+housenumber: "27"
+phone: +33 4 70 98 89 54
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00; PH off
 website: ""

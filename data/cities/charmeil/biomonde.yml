@@ -1,11 +1,11 @@
 id: 517699652
-type: way
+type: node
 latitude: 46.15601
 longitude: 3.39426
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 
+street: Route de Saint-Pourçain
+housenumber: ""
 phone: "+33415459610"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 09:30-12:30, 14:30-19:00; Sa 09:30-19:00"
-website: "https://magasins.biomonde.fr/auvergne-rhone-alpes/allier/charmeil/biomonde-charmeil-36"
+opening_hours: Mo 14:30-19:00; Tu-Fr 09:30-12:30, 14:30-19:00; Sa 09:30-19:00
+website: https://magasins.biomonde.fr/auvergne-rhone-alpes/allier/charmeil/biomonde-charmeil-36

@@ -1,11 +1,11 @@
 id: 66912382
-type: way
+type: node
 latitude: 45.79338
 longitude: 3.11775
 postcode: "63100"
 city: Clermont-Ferrand
-street: "Boulevard Léon Jouhaux"
-housenumber: 44
-phone: "+33 4 73 15 61 30"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.feuillette.fr/"
+street: Boulevard Léon Jouhaux
+housenumber: "44"
+phone: +33 4 73 15 61 30
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.feuillette.fr/

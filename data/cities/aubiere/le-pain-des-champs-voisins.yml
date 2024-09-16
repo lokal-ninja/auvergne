@@ -1,11 +1,11 @@
 id: 436083154
-type: way
+type: node
 latitude: 45.75276
 longitude: 3.11096
 postcode: "63170"
 city: Aubière
-street: "Rue Champvoisin"
-housenumber: 19
-phone: "+33 4 73 75 65 61"
-opening_hours: "We-Su 06:30-19:30"
+street: Rue Champvoisin
+housenumber: "19"
+phone: +33 4 73 75 65 61
+opening_hours: We-Su 06:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 725310361
-type: way
+type: node
 latitude: 46.13648
 longitude: 3.42799
 postcode: "03200"
 city: Vichy
-street: "Rue des Bartins"
-housenumber: 54
-phone: "+33 4 70 58 28 78"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-12:00,14:00-18:30"
-website: "https://www.bureau-vallee.fr/"
+street: Rue des Bartins
+housenumber: "54"
+phone: +33 4 70 58 28 78
+opening_hours: Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-12:00,14:00-18:30
+website: https://www.bureau-vallee.fr/

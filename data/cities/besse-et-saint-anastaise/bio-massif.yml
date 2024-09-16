@@ -1,11 +1,11 @@
 id: 63136103
-type: way
+type: node
 latitude: 45.5171
 longitude: 2.94339
 postcode: "63610"
 city: Besse-et-Saint-Anastaise
-street: "Route des Lacs"
-housenumber: 
-phone: "+33 4 73 83 33 17"
-opening_hours: "We-Sa 15:00-18:30; SH Mo 10:00-12:30"
-website: "https://www.biomassif.com/"
+street: Route des Lacs
+housenumber: ""
+phone: +33 4 73 83 33 17
+opening_hours: We-Sa 15:00-18:30; SH Mo 10:00-12:30
+website: https://www.biomassif.com/

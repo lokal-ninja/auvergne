@@ -1,11 +1,11 @@
 id: 62836779
-type: way
+type: node
 latitude: 45.75889
 longitude: 3.14386
 postcode: "63170"
 city: Aubière
-street: "Avenue Ernest Cristal"
-housenumber: 74
+street: Avenue Ernest Cristal
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.1331
 longitude: 3.45607
 postcode: "03300"
 city: Cusset
-street: "Avenue du Drapeau"
-housenumber: 15
-phone: "+33 4 43 03 18 66"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Avenue du Drapeau
+housenumber: "15"
+phone: +33 4 43 03 18 66
+opening_hours: Mo-Su 08:00-22:00
 website: ""

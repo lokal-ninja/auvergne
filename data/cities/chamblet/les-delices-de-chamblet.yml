@@ -4,8 +4,8 @@ latitude: 46.33287
 longitude: 2.70167
 postcode: "03170"
 city: Chamblet
-street: "Place de la Poste"
-housenumber: 1
+street: Place de la Poste
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 06:00-13:00,16:00-19:30; Su 06:00-13:00"
+opening_hours: Tu-Sa 06:00-13:00,16:00-19:30; Su 06:00-13:00
 website: ""

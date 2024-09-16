@@ -1,11 +1,12 @@
 id: 442837261
-type: way
+type: node
 latitude: 45.3724
 longitude: 3.32067
 postcode: "43360"
 city: Vergongheon
-street: "Route de Brassac"
-housenumber: 10
-phone: "+33 4 71 76 92 78"
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Tu 09:00-16:00; We off; Th 09:00-12:00,14:00-19:00; Fr 09:00-20:00; Sa 08:00-12:00; Su off"
+street: Route de Brassac
+housenumber: "10"
+phone: +33 4 71 76 92 78
+opening_hours: Mo 09:00-12:00,14:00-18:00; Tu 09:00-16:00; We off; Th 09:00-12:00,14:00-19:00;
+    Fr 09:00-20:00; Sa 08:00-12:00; Su off
 website: ""

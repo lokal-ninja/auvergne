@@ -1,11 +1,11 @@
 id: 90592825
-type: way
+type: node
 latitude: 46.14305
 longitude: 3.4142
 postcode: "03200"
 city: Vichy
-street: "Allée des Ailes"
-housenumber: 
-phone: "+33 4 70 98 07 07"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://centres.norauto.fr/allier/vichy/allee-des-ailes-parking-cora"
+street: Allée des Ailes
+housenumber: ""
+phone: +33 4 70 98 07 07
+opening_hours: Mo-Sa 08:00-19:00
+website: https://centres.norauto.fr/allier/vichy/allee-des-ailes-parking-cora

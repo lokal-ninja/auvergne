@@ -4,8 +4,8 @@ latitude: 46.1253
 longitude: 3.41918
 postcode: "03200"
 city: Vichy
-street: "Rue du Parc"
-housenumber: 23
+street: Rue du Parc
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00; We-Fr 10:00-12:00,14:00-19:00"
+opening_hours: Mo-Su 10:00-19:00; We-Fr 10:00-12:00,14:00-19:00
 website: ""

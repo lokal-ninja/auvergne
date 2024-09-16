@@ -4,8 +4,8 @@ latitude: 46.12247
 longitude: 3.42282
 postcode: "03200"
 city: Vichy
-street: "Rue Maréchal Foch"
-housenumber: 19
+street: Rue Maréchal Foch
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://www.la-maquillerie-esthetique.fr/"
+opening_hours: Mo-Su 08:30-20:00
+website: https://www.la-maquillerie-esthetique.fr/

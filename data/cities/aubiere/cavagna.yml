@@ -1,11 +1,11 @@
 id: 403721609
-type: way
+type: node
 latitude: 45.75482
 longitude: 3.14848
 postcode: "63170"
 city: Aubière
-street: "Avenue de Cournon"
-housenumber: 134
+street: Avenue de Cournon
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

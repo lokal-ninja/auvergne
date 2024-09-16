@@ -1,11 +1,11 @@
 id: 435152668
-type: way
+type: node
 latitude: 46.59056
 longitude: 3.32618
 postcode: "03000"
 city: Avermes
-street: "ZAC Les Portes de l'Allier"
-housenumber: 
-phone: "+33 4 70 46 56 57"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-avermes-0070138401384"
+street: ZAC Les Portes de l'Allier
+housenumber: ""
+phone: +33 4 70 46 56 57
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-avermes-0070138401384

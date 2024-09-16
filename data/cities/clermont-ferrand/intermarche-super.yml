@@ -1,11 +1,11 @@
 id: 182685708
-type: way
+type: node
 latitude: 45.78259
 longitude: 3.07523
 postcode: "63000"
 city: Clermont-Ferrand
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

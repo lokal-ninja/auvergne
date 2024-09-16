@@ -1,11 +1,11 @@
 id: 66685195
-type: way
+type: node
 latitude: 45.76707
 longitude: 3.12693
 postcode: "63000"
 city: Clermont-Ferrand
-street: "Rue Joseph Desaymard"
-housenumber: 26
+street: Rue Joseph Desaymard
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

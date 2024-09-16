@@ -1,11 +1,11 @@
 id: 794870759
-type: way
+type: node
 latitude: 46.10463
 longitude: 3.19686
 postcode: "03800"
 city: Gannat
-street: "Avenue des Capucins"
-housenumber: 12
+street: Avenue des Capucins
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

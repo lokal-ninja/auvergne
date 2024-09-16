@@ -1,11 +1,11 @@
 id: 77806096
-type: way
+type: node
 latitude: 46.36236
 longitude: 2.59246
 postcode: "03100"
 city: Montluçon
-street: "Rue de Pasquis"
-housenumber: 
+street: Rue de Pasquis
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/montlucon/"
+website: https://nozarrivages.com/magasin/montlucon/

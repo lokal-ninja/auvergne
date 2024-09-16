@@ -1,11 +1,11 @@
 id: 133566842
-type: way
+type: node
 latitude: 46.07041
 longitude: 3.46404
 postcode: "03270"
 city: Saint-Yorre
-street: "Avenue de Vichy"
-housenumber: 68
-phone: "+33 4 70 59 20 38"
+street: Avenue de Vichy
+housenumber: "68"
+phone: +33 4 70 59 20 38
 opening_hours: ""
-website: "https://www.isuzu-lachaussee.fr/"
+website: https://www.isuzu-lachaussee.fr/

@@ -1,11 +1,11 @@
 id: 74423730
-type: way
+type: node
 latitude: 45.87854
 longitude: 3.11566
 postcode: "63200"
 city: Riom
-street: "Avenue de Clermont"
-housenumber: 81
+street: Avenue de Clermont
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00"
-website: "https://concessions.peugeot.fr/abcisriom"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00
+website: https://concessions.peugeot.fr/abcisriom

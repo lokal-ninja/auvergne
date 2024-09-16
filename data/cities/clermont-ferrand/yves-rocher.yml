@@ -4,8 +4,8 @@ latitude: 45.78291
 longitude: 3.12064
 postcode: "63100"
 city: Clermont-Ferrand
-street: "Boulevard Saint-Jean"
-housenumber: 1
+street: Boulevard Saint-Jean
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/auvergne-rhone-alpes/clermont-ferrand/clermont-nacarat/S-FRYROC545"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/auvergne-rhone-alpes/clermont-ferrand/clermont-nacarat/S-FRYROC545

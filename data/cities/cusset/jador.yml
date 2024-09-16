@@ -4,8 +4,8 @@ latitude: 46.13342
 longitude: 3.45978
 postcode: "03300"
 city: Cusset
-street: "Allée Pierre Berthomier"
-housenumber: 2
-phone: "+33 4 70 98 37 63"
-opening_hours: "Tu-Sa 09:00-12:15,14:00-18:30; PH off"
+street: Allée Pierre Berthomier
+housenumber: "2"
+phone: +33 4 70 98 37 63
+opening_hours: Tu-Sa 09:00-12:15,14:00-18:30; PH off
 website: ""

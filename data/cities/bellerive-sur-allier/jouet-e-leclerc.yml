@@ -1,11 +1,11 @@
 id: 133385359
-type: way
+type: node
 latitude: 46.11369
 longitude: 3.41643
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Rue Rhin et Danube"
-housenumber: 
+street: Rue Rhin et Danube
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.e-leclerc.com/bellerive/magasins-specialises/jouets"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.e-leclerc.com/bellerive/magasins-specialises/jouets

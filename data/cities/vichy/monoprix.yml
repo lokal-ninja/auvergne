@@ -4,8 +4,8 @@ latitude: 46.12462
 longitude: 3.42265
 postcode: "03200"
 city: Vichy
-street: "Rue Ravy-Breton"
-housenumber: 1
-phone: "+33 4 70 98 45 30"
-opening_hours: "Mo-Sa 08:30-19:50; Su 09:30-18:50"
-website: "https://www.monoprix.fr/136.html"
+street: Rue Ravy-Breton
+housenumber: "1"
+phone: +33 4 70 98 45 30
+opening_hours: Mo-Sa 08:30-19:50; Su 09:30-18:50
+website: https://www.monoprix.fr/136.html

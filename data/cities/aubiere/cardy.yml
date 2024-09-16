@@ -1,11 +1,11 @@
 id: 62845361
-type: way
+type: node
 latitude: 45.74885
 longitude: 3.13793
 postcode: "63170"
 city: Aubière
-street: "Avenue des Frères Montgolfier"
-housenumber: 23
+street: Avenue des Frères Montgolfier
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

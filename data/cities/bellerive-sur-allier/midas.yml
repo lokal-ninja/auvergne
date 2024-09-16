@@ -1,11 +1,11 @@
 id: 1075565149
-type: way
+type: node
 latitude: 46.1142
 longitude: 3.41429
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Rue Rhin et Danube"
+street: Rue Rhin et Danube
 housenumber: 5 bis
-phone: "+33 4 70 20 84 40"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.midas.fr/"
+phone: +33 4 70 20 84 40
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.midas.fr/

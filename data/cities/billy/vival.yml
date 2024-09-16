@@ -4,8 +4,8 @@ latitude: 46.23547
 longitude: 3.43108
 postcode: "03260"
 city: Billy
-street: "Route de Moulins"
-housenumber: 2
-phone: "+33 4 70 43 51 60"
-opening_hours: "Tu-Fr 06:15-12:30,15:00-19:15; Sa 07:00-12:30; Su 07:00-12:00"
-website: "https://magasins.vival.fr/fr/vival-billy"
+street: Route de Moulins
+housenumber: "2"
+phone: +33 4 70 43 51 60
+opening_hours: Tu-Fr 06:15-12:30,15:00-19:15; Sa 07:00-12:30; Su 07:00-12:00
+website: https://magasins.vival.fr/fr/vival-billy

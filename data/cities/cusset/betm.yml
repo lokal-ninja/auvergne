@@ -1,11 +1,11 @@
 id: 180262702
-type: way
+type: node
 latitude: 46.13776
 longitude: 3.43267
 postcode: "03300"
 city: Cusset
-street: "Avenue Gilbert Roux"
-housenumber: 106
+street: Avenue Gilbert Roux
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-19:00; Su 14:00-18:00"
-website: "https://www.bmstores.fr/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-19:00; Su 14:00-18:00
+website: https://www.bmstores.fr/

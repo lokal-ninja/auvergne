@@ -4,8 +4,8 @@ latitude: 45.79258
 longitude: 3.07882
 postcode: "63100"
 city: Clermont-Ferrand
-street: "Rue Sully"
-housenumber: 114
-phone: "+33 4 73 36 38 51"
-opening_hours: "Mo-Fr 06:30-19:15; Sa 06:30-12:30"
+street: Rue Sully
+housenumber: "114"
+phone: +33 4 73 36 38 51
+opening_hours: Mo-Fr 06:30-19:15; Sa 06:30-12:30
 website: ""

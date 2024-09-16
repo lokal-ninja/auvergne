@@ -1,11 +1,11 @@
 id: 62843903
-type: way
+type: node
 latitude: 45.75566
 longitude: 3.13609
 postcode: "63170"
 city: Aubière
-street: "Rue des Varennes"
-housenumber: 25
+street: Rue des Varennes
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

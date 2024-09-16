@@ -4,8 +4,9 @@ latitude: 46.31491
 longitude: 3.39682
 postcode: ""
 city: Varennes-sur-Allier
-street: "Avenue de la Gare"
-housenumber: 12
-phone: "+4 70 45 24 22"
-opening_hours: "Mo,Tu 14:00-19:00; We 07:00-07:30,08:30-13:00,14:00-19:00; Th,Fr 08:30-13:00,14:00-19:00; Sa 09:00-15:00"
+street: Avenue de la Gare
+housenumber: "12"
+phone: +4 70 45 24 22
+opening_hours: Mo,Tu 14:00-19:00; We 07:00-07:30,08:30-13:00,14:00-19:00; Th,Fr 08:30-13:00,14:00-19:00;
+    Sa 09:00-15:00
 website: ""

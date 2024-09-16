@@ -1,11 +1,11 @@
 id: 77777057
-type: way
+type: node
 latitude: 46.34744
 longitude: 2.60081
 postcode: "03100"
 city: Montluçon
-street: "Rue Olof Palme"
-housenumber: 9
-phone: "+33 4 70 06 98 97"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
+street: Rue Olof Palme
+housenumber: "9"
+phone: +33 4 70 06 98 97
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
 website: ""

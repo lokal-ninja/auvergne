@@ -1,11 +1,11 @@
 id: 107815688
-type: way
+type: node
 latitude: 45.7235
 longitude: 3.33865
 postcode: "63160"
 city: Billom
-street: "Rue Carnot"
-housenumber: 23
+street: Rue Carnot
+housenumber: "23"
 phone: "0473683498"
-opening_hours: "Mo,We-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:30"
-website: "http://www.librairie-iletaitunefois.fr/"
+opening_hours: Mo,We-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:30
+website: http://www.librairie-iletaitunefois.fr/

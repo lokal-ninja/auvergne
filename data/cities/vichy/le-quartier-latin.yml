@@ -4,8 +4,8 @@ latitude: 46.12173
 longitude: 3.42354
 postcode: "03200"
 city: Vichy
-street: "Rue Maréchal Foch"
-housenumber: 7
-phone: "+33 4 70 32 95 39"
-opening_hours: "Tu,We 12:00-14:00; Th-Sa 12:00-14:00,19:30-21:30"
-website: "http://quartierlatin-vichy.fr/"
+street: Rue Maréchal Foch
+housenumber: "7"
+phone: +33 4 70 32 95 39
+opening_hours: Tu,We 12:00-14:00; Th-Sa 12:00-14:00,19:30-21:30
+website: http://quartierlatin-vichy.fr/

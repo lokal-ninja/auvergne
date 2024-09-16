@@ -4,8 +4,8 @@ latitude: 46.12596
 longitude: 3.42052
 postcode: "03200"
 city: Vichy
-street: "Rue du Président Wilson"
-housenumber: 30
-phone: "+33 4 70 97 55 23"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00"
-website: "https://www.audilab.fr/"
+street: Rue du Président Wilson
+housenumber: "30"
+phone: +33 4 70 97 55 23
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00
+website: https://www.audilab.fr/

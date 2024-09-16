@@ -4,8 +4,8 @@ latitude: 45.54357
 longitude: 3.24782
 postcode: "63500"
 city: Issoire
-street: "Place de la République"
-housenumber: 12
-phone: "+33 4 73 89 56 17"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.flo-espace-coiffure.com/"
+street: Place de la République
+housenumber: "12"
+phone: +33 4 73 89 56 17
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.flo-espace-coiffure.com/

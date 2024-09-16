@@ -1,11 +1,11 @@
 id: 579017669
-type: way
+type: node
 latitude: 46.42139
 longitude: 3.06905
 postcode: "03240"
 city: Tronget
-street: "Place du Marché"
-housenumber: 
+street: Place du Marché
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

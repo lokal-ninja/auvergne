@@ -1,11 +1,11 @@
 id: 63210273
-type: way
+type: node
 latitude: 45.77813
 longitude: 3.18888
 postcode: "63370"
 city: Lempdes
-street: "Rue de Grangevieille"
-housenumber: 5002
+street: Rue de Grangevieille
+housenumber: "5002"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/lempdes/"
+website: https://nozarrivages.com/magasin/lempdes/

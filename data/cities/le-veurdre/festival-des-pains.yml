@@ -1,11 +1,11 @@
 id: 398696234
-type: way
+type: node
 latitude: 46.75663
 longitude: 3.04042
 postcode: ""
 city: Le Veurdre
-street: "Rue d'Allier"
-housenumber: 7
+street: Rue d'Allier
+housenumber: "7"
 phone: ""
-opening_hours: "06:30-12:30"
+opening_hours: 06:30-12:30
 website: ""

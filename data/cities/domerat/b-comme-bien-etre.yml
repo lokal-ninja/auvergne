@@ -1,11 +1,11 @@
 id: 77872941
-type: way
+type: node
 latitude: 46.34084
 longitude: 2.55146
 postcode: "03410"
 city: Domérat
-street: "Rue des Rimords"
-housenumber: 35
+street: Rue des Rimords
+housenumber: "35"
 phone: "0618081737"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-12:30"
-website: "https://www.massage-relaxant-montlucon.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-12:30
+website: https://www.massage-relaxant-montlucon.fr/

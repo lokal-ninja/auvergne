@@ -4,8 +4,8 @@ latitude: 46.12571
 longitude: 3.42258
 postcode: "03200"
 city: Vichy
-street: "Rue Georges Clemenceau"
-housenumber: 31
-phone: "+33 4 70 96 03 14"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su 15:00-19:00"
-website: "https://www.maisonsdumonde.com/FR/fr/magasins/vichy-35"
+street: Rue Georges Clemenceau
+housenumber: "31"
+phone: +33 4 70 96 03 14
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Su 15:00-19:00
+website: https://www.maisonsdumonde.com/FR/fr/magasins/vichy-35

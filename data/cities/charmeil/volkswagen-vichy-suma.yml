@@ -1,11 +1,12 @@
 id: 366564650
-type: way
+type: node
 latitude: 46.15516
 longitude: 3.39416
 postcode: "03110"
 city: Charmeil
-street: "Route de Saint-Pourçain"
-housenumber: 21
-phone: "+33 4 70 59 51 50"
-opening_hours: "Mo-Tu 08:00-12:00,14:00-19:00; We 08:00-19:00; Th-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.suma-auto.com/nos-concessions/volkswagen-vichy/"
+street: Route de Saint-Pourçain
+housenumber: "21"
+phone: +33 4 70 59 51 50
+opening_hours: Mo-Tu 08:00-12:00,14:00-19:00; We 08:00-19:00; Th-Fr 08:00-12:00,14:00-19:00;
+    Sa 09:00-12:00,14:00-18:00
+website: https://www.suma-auto.com/nos-concessions/volkswagen-vichy/

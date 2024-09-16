@@ -4,8 +4,10 @@ latitude: 46.52573
 longitude: 3.67393
 postcode: "03290"
 city: Dompierre-sur-Besbre
-street: "Avenue de la Gare"
-housenumber: 361
+street: Avenue de la Gare
+housenumber: "361"
 phone: "+33470496696"
-opening_hours: "Mar-Jun Tu-Fr 09:00-12:00,14:00-19:00; Mar-Jun Sa 09:00-12:15,14:00-19:00; Jul-Sep Tu-Fr 09:00-12:00,14:00-18:30; Jul-Sep Sa 09:00-12:00,14:00-18:00; Oct-Feb Tu-Sa 09:00-12:00,14:00-18:30"
+opening_hours: Mar-Jun Tu-Fr 09:00-12:00,14:00-19:00; Mar-Jun Sa 09:00-12:15,14:00-19:00;
+    Jul-Sep Tu-Fr 09:00-12:00,14:00-18:30; Jul-Sep Sa 09:00-12:00,14:00-18:00; Oct-Feb
+    Tu-Sa 09:00-12:00,14:00-18:30
 website: ""

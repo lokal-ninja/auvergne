@@ -1,11 +1,11 @@
 id: 62843863
-type: way
+type: node
 latitude: 45.7513
 longitude: 3.13639
 postcode: "63170"
 city: Aubière
-street: "Rue Denis Papin"
-housenumber: 15
+street: Rue Denis Papin
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

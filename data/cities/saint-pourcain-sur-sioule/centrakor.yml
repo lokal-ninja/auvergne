@@ -1,11 +1,11 @@
 id: 686119077
-type: way
+type: node
 latitude: 46.30032
 longitude: 3.29944
 postcode: "03500"
 city: Saint-Pourçain-sur-Sioule
-street: "Rue Louis Tellier"
-housenumber: 2
+street: Rue Louis Tellier
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

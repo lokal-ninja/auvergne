@@ -1,11 +1,11 @@
 id: 63137075
-type: way
+type: node
 latitude: 45.51225
 longitude: 2.93439
 postcode: "63610"
 city: Besse-et-Saint-Anastaise
-street: "Place de l'Église"
-housenumber: 2
+street: Place de l'Église
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

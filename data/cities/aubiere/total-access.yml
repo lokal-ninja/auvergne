@@ -1,11 +1,11 @@
 id: 787158916
-type: way
+type: node
 latitude: 45.75456
 longitude: 3.12988
 postcode: ""
 city: Aubière
-street: "Avenue du Roussillon"
-housenumber: 10
+street: Avenue du Roussillon
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

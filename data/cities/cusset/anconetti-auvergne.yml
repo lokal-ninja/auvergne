@@ -1,11 +1,11 @@
 id: 133446200
-type: way
+type: node
 latitude: 46.1411
 longitude: 3.43177
 postcode: "03300"
 city: Cusset
-street: "Rue de Romainville"
-housenumber: 19
+street: Rue de Romainville
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

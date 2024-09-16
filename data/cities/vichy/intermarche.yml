@@ -1,11 +1,11 @@
 id: 812658090
-type: way
+type: node
 latitude: 46.12041
 longitude: 3.43283
 postcode: "03200"
 city: Vichy
-street: "Rue du Maréchal Lyautey"
-housenumber: 4
-phone: "+33 4 63 58 50 60"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/"
+street: Rue du Maréchal Lyautey
+housenumber: "4"
+phone: +33 4 63 58 50 60
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/

@@ -1,11 +1,11 @@
 id: 133387055
-type: way
+type: node
 latitude: 46.11664
 longitude: 3.40287
 postcode: "03700"
 city: Bellerive-sur-Allier
-street: "Place de l'Église"
-housenumber: 7
-phone: "+33 4 70 32 64 78"
+street: Place de l'Église
+housenumber: "7"
+phone: +33 4 70 32 64 78
 opening_hours: ""
-website: "https://www.bell-auto.com/"
+website: https://www.bell-auto.com/

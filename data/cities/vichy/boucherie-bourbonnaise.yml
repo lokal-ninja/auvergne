@@ -4,8 +4,8 @@ latitude: 46.1256
 longitude: 3.42566
 postcode: "03200"
 city: Vichy
-street: "Place Charles de Gaulle"
-housenumber: 30
+street: Place Charles de Gaulle
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:30,15:30-19:00; We 08:30-12:30; Sa 08:30-12:30,15:30-18:00"
+opening_hours: Tu-Fr 08:30-12:30,15:30-19:00; We 08:30-12:30; Sa 08:30-12:30,15:30-18:00
 website: ""

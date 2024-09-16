@@ -1,11 +1,11 @@
 id: 63475307
-type: way
+type: node
 latitude: 45.73906
 longitude: 3.19976
 postcode: "63800"
 city: Cournon-d'Auvergne
-street: "Avenue de la Liberté"
-housenumber: 23
+street: Avenue de la Liberté
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

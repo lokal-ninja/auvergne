@@ -4,8 +4,9 @@ latitude: 46.12651
 longitude: 3.42072
 postcode: "03200"
 city: Vichy
-street: "Rue Lucas"
-housenumber: 15
-phone: "+33 4 70 98 25 76"
-opening_hours: "Mo,Su 15:00-18:30 19:00 en été; Tu-Sa 10:00-12:00,14:30-19:00; PH off"
+street: Rue Lucas
+housenumber: "15"
+phone: +33 4 70 98 25 76
+opening_hours: Mo,Su 15:00-18:30 "19:00 en été"; Tu-Sa 10:00-12:00,14:30-19:00; PH
+    off
 website: ""

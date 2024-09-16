@@ -4,8 +4,8 @@ latitude: 46.13319
 longitude: 3.45779
 postcode: "03300"
 city: Cusset
-street: "Rue de la Constitution"
-housenumber: 11
-phone: "+33 4 70 55 35 84"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30; We off; Sa 08:00-12:00; PH off"
+street: Rue de la Constitution
+housenumber: "11"
+phone: +33 4 70 55 35 84
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30; We off; Sa 08:00-12:00; PH off
 website: ""
