@@ -1,6 +1,6 @@
 ---
 title: Aiguilhe
 url: /aiguilhe/
-latitude: 45.054
-longitude: 3.883
+latitude: 45.051
+longitude: 3.888
 ---
