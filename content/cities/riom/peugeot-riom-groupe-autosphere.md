@@ -1,5 +1,5 @@
 ---
-title: "PEUGEOT RIOM - Groupe Autosphere"
+title: "Peugeot Riom - Groupe Autosphere"
 url: /riom/peugeot-riom-groupe-autosphere/
 shop: voiture
 ---
