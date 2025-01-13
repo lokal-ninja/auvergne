@@ -1,5 +1,5 @@
 ---
 title: "BatiVernetEco"
-url: /vichy/bativerneteco/
+url: /cusset/bativerneteco/
 shop: commerce
 ---
