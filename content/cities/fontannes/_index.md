@@ -1,6 +1,6 @@
 ---
-title: FONTANNES
+title: Fontannes
 url: /fontannes/
-latitude: 45.293
-longitude: 3.423
+latitude: 45.289
+longitude: 3.424
 ---
