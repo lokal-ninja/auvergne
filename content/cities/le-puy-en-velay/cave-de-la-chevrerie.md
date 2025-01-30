@@ -1,5 +1,5 @@
 ---
-title: "Cave de la Chèvrerie"
+title: "Cave de la Chévrerie"
 url: /le-puy-en-velay/cave-de-la-chevrerie/
-shop: alcool
+shop: vin
 ---
