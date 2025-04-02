@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /courpiere/intermarche-super-avenue-de-thiers/
-shop: gaz
+shop: supermarché
 ---
