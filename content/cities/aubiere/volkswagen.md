@@ -1,5 +1,5 @@
 ---
-title: "VOLKSWAGEN"
+title: "Volkswagen"
 url: /aubiere/volkswagen/
 shop: voiture
 ---

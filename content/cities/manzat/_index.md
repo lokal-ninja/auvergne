@@ -1,6 +1,6 @@
 ---
 title: Manzat
 url: /manzat/
-latitude: 45.961
-longitude: 2.942
+latitude: 45.963
+longitude: 2.938
 ---

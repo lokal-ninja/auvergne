@@ -1,6 +1,6 @@
 ---
 title: Liernolles
 url: /liernolles/
-latitude: 46.397
-longitude: 3.755
+latitude: 46.41
+longitude: 3.77
 ---
