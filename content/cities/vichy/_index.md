@@ -1,6 +1,6 @@
 ---
 title: Vichy
 url: /vichy/
-latitude: 46.122
-longitude: 3.428
+latitude: 46.137
+longitude: 3.423
 ---
