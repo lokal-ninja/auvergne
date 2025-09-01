@@ -7,5 +7,6 @@ city: Gannat
 street: Avenue Saint-James
 housenumber: "116"
 phone: ""
-opening_hours: Mo-Fr 06:30-19:30; Th off; Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00
+opening_hours: Mo-Fr 06:30-13:30,15:00-19:30; Th off; Sa 06:30-13:00,15:30-19:30;
+    Su 06:30-13:00
 website: ""
