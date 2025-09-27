@@ -1,6 +1,6 @@
 ---
 title: Gannat
 url: /gannat/
-latitude: 46.082
+latitude: 46.08
 longitude: 3.2
 ---
