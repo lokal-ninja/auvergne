@@ -1,6 +1,6 @@
 ---
 title: Saint-Yorre
 url: /saint-yorre/
-latitude: 46.055
-longitude: 3.47
+latitude: 46.066
+longitude: 3.462
 ---
