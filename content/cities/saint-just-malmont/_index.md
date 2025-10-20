@@ -1,6 +1,6 @@
 ---
-title: Saint-Just-Malmont
+title: SAINT JUST MALMONT
 url: /saint-just-malmont/
-latitude: 45.331
-longitude: 4.31
+latitude: 45.341
+longitude: 4.313
 ---
