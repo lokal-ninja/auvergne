@@ -1,6 +1,6 @@
 ---
 title: Vergongheon
 url: /vergongheon/
-latitude: 45.371
-longitude: 3.32
+latitude: 45.372
+longitude: 3.321
 ---
