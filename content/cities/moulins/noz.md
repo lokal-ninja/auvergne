@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
-url: /avermes/noz/
+url: /moulins/noz/
 shop: magasin de variétés
 ---
