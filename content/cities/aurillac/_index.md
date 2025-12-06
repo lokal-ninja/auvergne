@@ -1,6 +1,6 @@
 ---
 title: Aurillac
 url: /aurillac/
-latitude: 44.929
-longitude: 2.446
+latitude: 44.926
+longitude: 2.442
 ---
