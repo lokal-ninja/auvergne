@@ -1,6 +1,6 @@
 ---
 title: Vals-près-le-Puy
 url: /vals-pres-le-puy/
-latitude: 45.023
-longitude: 3.879
+latitude: 45.025
+longitude: 3.881
 ---
