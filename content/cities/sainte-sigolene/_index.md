@@ -2,5 +2,5 @@
 title: Sainte-Sigolène
 url: /sainte-sigolene/
 latitude: 45.249
-longitude: 4.216
+longitude: 4.24
 ---
