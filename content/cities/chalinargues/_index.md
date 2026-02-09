@@ -1,6 +1,6 @@
 ---
 title: Chalinargues
 url: /chalinargues/
-latitude: 45.154
-longitude: 2.931
+latitude: 45.155
+longitude: 2.932
 ---
