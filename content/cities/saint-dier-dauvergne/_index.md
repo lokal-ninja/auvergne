@@ -1,6 +1,6 @@
 ---
 title: Saint-Dier-d'Auvergne
 url: /saint-dier-dauvergne/
-latitude: 45.675
-longitude: 3.481
+latitude: 45.676
+longitude: 3.482
 ---
