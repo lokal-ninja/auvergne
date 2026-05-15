@@ -2,5 +2,5 @@
 title: Molles
 url: /molles/
 latitude: 46.113
-longitude: 3.557
+longitude: 3.558
 ---
