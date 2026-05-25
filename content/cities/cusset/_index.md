@@ -2,5 +2,5 @@
 title: Cusset
 url: /cusset/
 latitude: 46.133
-longitude: 3.46
+longitude: 3.456
 ---
