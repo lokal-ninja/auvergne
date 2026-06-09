@@ -1,5 +1,5 @@
 ---
 title: "TotalEnergies"
-url: /verac/totalenergies/
+url: /vezac/totalenergies/
 shop: gaz
 ---
