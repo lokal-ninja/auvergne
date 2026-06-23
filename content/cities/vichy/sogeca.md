@@ -1,5 +1,5 @@
 ---
-title: "Audika"
-url: /vichy/audika/
+title: "SOGECA"
+url: /vichy/sogeca/
 shop: les appareils auditifs
 ---
