@@ -1,6 +1,6 @@
 ---
 title: Talizat
 url: /talizat/
-latitude: 45.115
-longitude: 3.047
+latitude: 45.114
+longitude: 3.048
 ---
