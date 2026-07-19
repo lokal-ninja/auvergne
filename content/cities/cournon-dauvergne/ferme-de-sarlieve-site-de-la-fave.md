@@ -1,5 +1,5 @@
 ---
-title: "Ferme de Sarliève - site de La Fave"
+title: "Ferme de Sarliève - Site de la Fave"
 url: /cournon-dauvergne/ferme-de-sarlieve-site-de-la-fave/
 shop: ferme
 ---

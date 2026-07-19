@@ -1,6 +1,6 @@
 ---
 title: Riom
 url: /riom/
-latitude: 45.879
-longitude: 3.117
+latitude: 45.893
+longitude: 3.113
 ---
