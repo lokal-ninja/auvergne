@@ -1,6 +1,6 @@
 ---
 title: Monistrol-sur-Loire
 url: /monistrol-sur-loire/
-latitude: 45.286
-longitude: 4.16
+latitude: 45.287
+longitude: 4.162
 ---
