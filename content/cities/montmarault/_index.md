@@ -1,6 +1,6 @@
 ---
 title: Montmarault
 url: /montmarault/
-latitude: 46.317
-longitude: 2.953
+latitude: 46.318
+longitude: 2.952
 ---
