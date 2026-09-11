@@ -7,5 +7,6 @@ city: Brioude
 street: Place du Postel
 housenumber: "19"
 phone: "+33471749689"
-opening_hours: Tu-Fr 09:30-13:00,15:00-19:00; Sa 09:30-18:00
-website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Auvergne-Rhone-Alpes/Haute-Loire/BRIVA-BIO
+opening_hours: Tu,Fr 09:30-19:00; Sa 09:00-18:00; We,Th 09:30-13:00,14:30-19:00; Su,Mo,PH
+    off
+website: https://www.biocoop.fr/auvergne-rhone-alpes/haute-loire/BRIOUDE/BIOCOOP-BRIVABIO

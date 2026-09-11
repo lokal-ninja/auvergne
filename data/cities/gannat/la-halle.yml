@@ -7,5 +7,6 @@ city: Gannat
 street: Avenue des Portes Occitanes
 housenumber: "16"
 phone: "+33470902391"
-opening_hours: ""
+opening_hours: Mo-Tu 09:30-12:30,14:00-19:00; We 09:30-19:00; Th-Fr 09:30-12:00,14:00-19:00;
+    Sa 09:30-19:00
 website: https://www.lahalle.com/magasins-allier-03-gannat-175.html

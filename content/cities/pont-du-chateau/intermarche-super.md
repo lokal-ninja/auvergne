@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /pont-du-chateau/intermarche-super/
-shop: gaz
+shop: supermarché
 ---
