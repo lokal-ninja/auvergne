@@ -1,5 +1,5 @@
 ---
-title: "Europêche"
+title: "Europeche"
 url: /saint-flour/europeche/
-shop: extérieur
+shop: pêche
 ---

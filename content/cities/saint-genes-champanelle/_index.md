@@ -1,6 +1,6 @@
 ---
-title: Saint Genés Champanelle
+title: Saint-Genès-Champanelle
 url: /saint-genes-champanelle/
-latitude: 45.745
-longitude: 2.972
+latitude: 45.727
+longitude: 2.99
 ---
