@@ -1,6 +1,6 @@
 ---
 title: Le Bouchaud
 url: /le-bouchaud/
-latitude: 46.305
-longitude: 3.895
+latitude: 46.306
+longitude: 3.898
 ---
