@@ -1,6 +1,6 @@
 ---
 title: Allanche
 url: /allanche/
-latitude: 45.25
-longitude: 2.918
+latitude: 45.231
+longitude: 2.934
 ---
