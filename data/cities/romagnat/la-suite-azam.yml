@@ -7,5 +7,6 @@ city: Romagnat
 street: Avenue Gergovia
 housenumber: "14"
 phone: +33 6 73 62 04 62
-opening_hours: Tu 8:30-19:00; We 9:00-19:00; Th 9:00-18:30; Fr 8:30-19:00; Sa 8:30-16:00
+opening_hours: Tu 08:30-19:00; We 09:00-19:00; Th 09:00-18:30; Fr 08:30-19:00; Sa
+    08:30-16:00
 website: ""
