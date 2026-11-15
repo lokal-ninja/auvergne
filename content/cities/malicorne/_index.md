@@ -1,6 +1,6 @@
 ---
 title: Malicorne
 url: /malicorne/
-latitude: 46.304
-longitude: 2.731
+latitude: 46.299
+longitude: 2.777
 ---

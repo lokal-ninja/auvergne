@@ -7,7 +7,8 @@ city: Vichy
 street: Rue de l'Hôtel des Postes
 housenumber: "16"
 phone: ""
-opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00; Su 14:00-19:00; 2026 Nov 01,2026
-    Nov 11 14:00-19:00; 2026 Dec 13,2026 Dec 20 10:00-19:00; 2026 Dec 25 off; 2027
-    Jan 01 off
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00; Su 14:00-19:00; 2026 Dec 25 off;
+    2027 Jan 01 off; 2026 Nov 29 14:00-19:00; 2026 Dec 06,2026 Dec 27 14:00-19:00;
+    2026 Dec 13,2026 Dec 20 10:00-19:00; 2027 Jan 03,2027 Jan 17 14:00-19:00; 2027
+    Jan 10 10:00-19:00
 website: ""
